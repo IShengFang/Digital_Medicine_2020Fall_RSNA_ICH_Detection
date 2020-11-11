@@ -35,8 +35,10 @@ def bsb_window(dcm):
     bsb_img = np.array([brain_img, subdural_img, soft_img]).transpose(1, 2, 0)
     return bsb_img
 
-
+'''
 dm = pydicom.dcmread(f'TrainingData/epidural/ID_000edbf38.dcm')
 img = bsb_window(dm)
+print(img.shape)
 plt.imshow(img)
 plt.show()
+'''
