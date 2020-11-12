@@ -4,8 +4,10 @@ import cv2
 import json
 import pydicom
 import numpy as np
+from sklearn.metrics import precision_recall_fscore_support
 
 from utils import split_data
+from utils.logger import Logger
 from utils.preprocess import meta_window, brain_window, bsb_window
 
 import torch
@@ -17,16 +19,16 @@ from torch.utils.data import Dataset, DataLoader
 
 '''
 # of different patient ID
-0 -> 硬膜外出血 epidural: 223
-1 -> 健康 healthy: 977
-2 -> 腦實質性出血 intraparenchymal: 807
-3 -> 腦室內出血 intraventricular: 712
-4 -> 蛛網膜下腔出血 subarachnoid: 717
-5 -> 硬膜下出血 subdural: 794
+硬膜外出血 epidural: 223
+健康 healthy: 977
+腦實質性出血 intraparenchymal: 807
+腦室內出血 intraventricular: 712
+蛛網膜下腔出血 subarachnoid: 717
+硬膜下出血 subdural: 794
 '''
 
 
-class IHDataset(Dataset):
+class ICHDataset(Dataset):
     def __init__(self, path, train=True):
         self.train = train
         self.files = []
@@ -56,7 +58,8 @@ class IHDataset(Dataset):
 
         img = cv2.resize(img, (512, 512)).astype(np.float32)
         transform = transforms.Compose([
-            transforms.ToTensor()
+            transforms.ToTensor(),
+            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
         ])
         img = transform(img)
 
@@ -69,15 +72,23 @@ class IHDataset(Dataset):
 def evaluate(model, dataloader, device):
     model.eval()
     correct = 0
+    y_true = []
+    y_pred = []
     for batch_idx, (imgs, labels) in enumerate(dataloader):
         imgs, labels = imgs.to(device), labels.to(device)
-        output = model(imgs)
+        with torch.no_grad():
+            output = model(imgs)
         _, pred = output.data.max(1)
         correct += (labels == pred).sum().item()
+        y_true += labels.data.cpu()
+        y_pred += pred.data.cpu()
+    precision, recall, f1, _ = precision_recall_fscore_support(y_true, y_pred)
     print(f'acc on val: {correct/len(dataloader.dataset):.5f}')
+    return precision, recall, f1, correct/len(dataloader.dataset)
 
 
-def train(model, train_loader, valid_loader, optimizer, criterion, epochs, device):
+def train(model, logger, class_dict, train_loader, valid_loader, optimizer, criterion, epochs, device):
+    step = 0
     for epoch in range(epochs):
         model.train()
         running_loss = 0
@@ -92,13 +103,21 @@ def train(model, train_loader, valid_loader, optimizer, criterion, epochs, devic
 
             running_loss += loss.item()
 
-            if batch_idx%20 == 0:
+            logger.scalar_summary('train/loss', loss.item(), step)
+            step += 1
+            if batch_idx%50 == 0:
                 print(f'epoch: {epoch+1:>2}/{epochs}, batch: {batch_idx+1:>3}/{len(train_loader)}, loss: {loss.item():.5f}')
 
         running_loss /= len(train_loader)
         print('----------------------------')
         print(f'epoch: {epoch+1:>2}/{epochs}, avg. loss: {running_loss:.5f}')
-        evaluate(model, valid_loader, device)
+        precision, recall, f1, acc = evaluate(model, valid_loader, device)
+        for i in range(len(precision)):
+            cls = class_dict[str(i)]
+            logger.scalar_summary(f'{cls}/precision', precision[i], epoch)
+            logger.scalar_summary(f'{cls}/recall', recall[i], epoch)
+            logger.scalar_summary(f'{cls}/f1-score', f1[i], epoch)
+        logger.scalar_summary('val/acc', acc, epoch)
         print('============================')
 
 
@@ -126,26 +145,78 @@ if __name__ == '__main__':
     num_classes = 6
     criterion = nn.CrossEntropyLoss()
 
-    split_data.split(0.7)
+    # split_data.split(0.7)
     class_dict = json.load(open('label.json', 'r'))
-    train_set = IHDataset('config/train.txt')
+    print(json.dumps(class_dict, indent=2))
+    train_set = ICHDataset('config/train.txt')
     train_loader = DataLoader(train_set, batch_size=8, shuffle=True, num_workers=8)
-    valid_set = IHDataset('config/valid.txt')
+    valid_set = ICHDataset('config/valid.txt')
     valid_loader = DataLoader(valid_set, batch_size=8, shuffle=True, num_workers=8)
 
-    print('with resnet18 pretrained weights:')
-    model = models.resnet18(pretrained=True)
-    set_parameter_requires_grad(model, True)
-    num_ftrs = model.fc.in_features
-    model.fc = nn.Linear(num_ftrs, num_classes)
-    model = model = model.to(device)
-    optimizer = optim.Adam(model.parameters(), lr=lr, weight_decay=0.0005)
-    train(model, train_loader, valid_loader, optimizer, criterion, epochs, device)
+    for pretrained in [True, False]:
+        model = models.resnet18(pretrained=pretrained)
+        if pretrained:
+            set_parameter_requires_grad(model, True)
+        num_in_features = model.fc.in_features
+        model.fc = nn.Linear(num_in_features, num_classes)
+        model = model.to(device)
+        optimizer = optim.Adam(model.parameters(), lr=lr)
+        logdir = 'logs/resnet18'
+        if pretrained:
+            logdir += '-pretrained'
+        logger = Logger(logdir)
+        train(
+            model, logger, class_dict,
+            train_loader, valid_loader,
+            optimizer, criterion, epochs, device)
 
-    print('\nwithout resnet18 pretrained weights:')
-    model = models.resnet18()
-    num_ftrs = model.fc.in_features
-    model.fc = nn.Linear(num_ftrs, num_classes)
-    model = model.to(device)
-    optimizer = optim.Adam(model.parameters(), lr=lr, weight_decay=0.0005)
-    train(model, train_loader, valid_loader, optimizer, criterion, epochs, device)
+    for pretrained in [True, False]:
+        model = models.mobilenet_v2(pretrained=pretrained)
+        if pretrained:
+            set_parameter_requires_grad(model, True)
+        num_in_features = model.classifier[1].in_features
+        model.classifier[1] = nn.Linear(num_in_features, num_classes)
+        model = model.to(device)
+        optimizer = optim.Adam(model.parameters(), lr=lr)
+        logdir = 'logs/mobilenet_v2'
+        if pretrained:
+            logdir += '-pretrained'
+        logger = Logger(logdir)
+        train(
+            model, logger, class_dict,
+            train_loader, valid_loader,
+            optimizer, criterion, epochs, device)
+
+    for pretrained in [True, False]:
+        model = models.resnet34(pretrained=pretrained)
+        if pretrained:
+            set_parameter_requires_grad(model, True)
+        num_in_features = model.fc.in_features
+        model.fc = nn.Linear(num_in_features, num_classes)
+        model = model.to(device)
+        optimizer = optim.Adam(model.parameters(), lr=lr)
+        logdir = 'logs/resnet18'
+        if pretrained:
+            logdir += '-pretrained'
+        logger = Logger(logdir)
+        train(
+            model, logger, class_dict,
+            train_loader, valid_loader,
+            optimizer, criterion, epochs, device)
+
+    for pretrained in [True, False]:
+        model = models.resnet50(pretrained=pretrained)
+        if pretrained:
+            set_parameter_requires_grad(model, True)
+        num_in_features = model.fc.in_features
+        model.fc = nn.Linear(num_in_features, num_classes)
+        model = model.to(device)
+        optimizer = optim.Adam(model.parameters(), lr=lr)
+        logdir = 'logs/resnet18'
+        if pretrained:
+            logdir += '-pretrained'
+        logger = Logger(logdir)
+        train(
+            model, logger, class_dict,
+            train_loader, valid_loader,
+            optimizer, criterion, epochs, device)

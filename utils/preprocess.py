@@ -39,5 +39,5 @@ def brain_window(dcm):
 def bsb_window(dcm):
     brain_img = window_image(dcm, 40, 80)
     subdural_img = window_image(dcm, 80, 200)
-    bone_img = window_image(dcm, 600, 2000)    
+    bone_img = window_image(dcm, 600, 2600)    
     return np.array([brain_img, subdural_img, bone_img]).transpose(1, 2, 0)
