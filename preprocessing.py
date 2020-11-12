@@ -2,7 +2,6 @@
 import pydicom
 import numpy as np
 import matplotlib.pyplot as plt
-# https://www.kaggle.com/akensert/rsna-inceptionv3-keras-tf1-14-0/
 
 
 def correct_dcm(dcm):
@@ -16,29 +15,69 @@ def correct_dcm(dcm):
 def window_image(dcm, window_center, window_width):
     if (dcm.BitsStored == 12) and (dcm.PixelRepresentation == 0) and (int(dcm.RescaleIntercept) > -100):
         correct_dcm(dcm)
-    img = dcm.pixel_array * dcm.RescaleSlope + dcm.RescaleIntercept
-    img_min = window_center - window_width // 2
-    img_max = window_center + window_width // 2
+    img = dcm.pixel_array*dcm.RescaleSlope + dcm.RescaleIntercept
+    img_min = window_center - window_width//2
+    img_max = window_center + window_width//2
     img = np.clip(img, img_min, img_max)
+    img = (img-img_min) / (img_max-img_min)
     return img
 
 
 def bsb_window(dcm):
     brain_img = window_image(dcm, 40, 80)
     subdural_img = window_image(dcm, 80, 200)
-    soft_img = window_image(dcm, 40, 380)
+    bone_img = window_image(dcm, 600, 2800)
+    return np.array([brain_img, subdural_img, bone_img]).transpose(1, 2, 0)    
 
-    brain_img = (brain_img - 0) / 80
-    subdural_img = (subdural_img - (-20)) / 200
-    soft_img = (soft_img - (-150)) / 380
 
-    bsb_img = np.array([brain_img, subdural_img, soft_img]).transpose(1, 2, 0)
-    return bsb_img
+def meta_window(dcm):
+    try:
+        window_center = float(dcm.WindowCenter)
+        window_width = float(dcm.WindowWidth)
+    except:
+        window_center = float(dcm.WindowCenter[0])
+        window_width = float(dcm.WindowWidth[0])
+    window_center = int(window_center)
+    window_width = int(window_width)
+    return window_image(dcm, window_center, window_width)
 
-'''
-dm = pydicom.dcmread(f'TrainingData/epidural/ID_000edbf38.dcm')
-img = bsb_window(dm)
-print(img.shape)
-plt.imshow(img)
-plt.show()
-'''
+
+def brain_window(dcm):
+    return window_image(dcm, 40, 80)
+
+
+def all_channel_window(dcm):
+    grey_img = brain_window(dcm) * 3.0
+    all_channel_img = np.zeros((grey_img.shape[0], grey_img.shape[1], 3))
+    all_channel_img[:, :, 2] = np.clip(grey_img, 0.0, 1.0)
+    all_channel_img[:, :, 0] = np.clip(grey_img-1.0, 0.0, 1.0)
+    all_channel_img[:, :, 1] = np.clip(grey_img-2.0, 0.0, 1.0)
+    return all_channel_img
+
+
+def rainbow_window(dcm):
+    grey_img = brain_window(dcm)
+    rainbow_img = np.zeros((grey_img.shape[0], grey_img.shape[1], 3))
+    rainbow_img[:, :, 0] = np.clip(4*grey_img-2, 0, 1.0) * (grey_img>0) * (grey_img<=1.0)
+    rainbow_img[:, :, 1] = np.clip(4*grey_img*(grey_img <=0.75), 0, 1) + np.clip((-4*grey_img+4)*(grey_img>0.75), 0, 1)
+    rainbow_img[:, :, 2] = np.clip(-4*grey_img+2, 0, 1.0) * (grey_img>0) * (grey_img<=1.0)
+    return rainbow_img
+
+
+if __name__ == '__main__':
+    dcm = pydicom.dcmread('TrainingData/intraventricular/ID_0d700959b.dcm')
+
+    plt.imshow(bsb_window(dcm))
+    plt.show()
+
+    plt.imshow(meta_window(dcm))
+    plt.show()
+
+    plt.imshow(brain_window(dcm))
+    plt.show()
+
+    plt.imshow(all_channel_window(dcm))
+    plt.show()
+
+    plt.imshow(rainbow_window(dcm))
+    plt.show()
