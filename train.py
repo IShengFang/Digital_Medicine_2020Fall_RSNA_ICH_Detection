@@ -142,10 +142,9 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     lr = 0.0005
     epochs = 30
-    batch_size = 16
+    batch_size = 8
     num_classes = 6
-    # criterion = nn.CrossEntropyLoss()
-    criterion = nn.NLLLoss()
+    criterion = nn.CrossEntropyLoss()
 
     split_data.split(0.7)
     class_dict = json.load(open('label.json', 'r'))
@@ -157,7 +156,7 @@ if __name__ == '__main__':
     valid_loader = DataLoader(valid_set, batch_size=8, shuffle=True, num_workers=8)
 
     for pretrained in [False, True]:
-        model = models.resnet101(pretrained=pretrained)
+        model = models.resnet18(pretrained=pretrained)
         if pretrained:
             set_parameter_requires_grad(model, True)
         num_in_features = model.fc.in_features
