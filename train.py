@@ -12,7 +12,8 @@ from utils.preprocess import meta_window, brain_window, bsb_window
 
 import torch
 import torch.nn as nn
-import torch.optim as optim
+# import torch.optim as optim
+import torch_optimizer as optim
 from torchvision import transforms
 import torchvision.models as models
 from torch.utils.data import Dataset, DataLoader
@@ -58,8 +59,8 @@ class ICHDataset(Dataset):
 
         img = cv2.resize(img, (512, 512)).astype(np.float32)
         transform = transforms.Compose([
-            transforms.ToTensor(),
-            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+            transforms.ToTensor()
+            # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
         ])
         img = transform(img)
 
@@ -139,80 +140,35 @@ def set_parameter_requires_grad(model, feature_extracting):
 
 if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    lr = 0.001
-    epochs = 20
+    lr = 0.0005
+    epochs = 30
     batch_size = 16
     num_classes = 6
-    criterion = nn.CrossEntropyLoss()
+    # criterion = nn.CrossEntropyLoss()
+    criterion = nn.NLLLoss()
 
-    # split_data.split(0.7)
+    split_data.split(0.7)
     class_dict = json.load(open('label.json', 'r'))
     print(json.dumps(class_dict, indent=2))
+
     train_set = ICHDataset('config/train.txt')
     train_loader = DataLoader(train_set, batch_size=8, shuffle=True, num_workers=8)
     valid_set = ICHDataset('config/valid.txt')
     valid_loader = DataLoader(valid_set, batch_size=8, shuffle=True, num_workers=8)
 
-    for pretrained in [True, False]:
-        model = models.resnet18(pretrained=pretrained)
+    for pretrained in [False, True]:
+        model = models.resnet101(pretrained=pretrained)
         if pretrained:
             set_parameter_requires_grad(model, True)
         num_in_features = model.fc.in_features
-        model.fc = nn.Linear(num_in_features, num_classes)
+        model.fc = nn.Sequential(
+            nn.Linear(num_in_features, num_classes),
+            nn.LogSoftmax(dim=1)
+        )
         model = model.to(device)
-        optimizer = optim.Adam(model.parameters(), lr=lr)
-        logdir = 'logs/resnet18'
-        if pretrained:
-            logdir += '-pretrained'
-        logger = Logger(logdir)
-        train(
-            model, logger, class_dict,
-            train_loader, valid_loader,
-            optimizer, criterion, epochs, device)
-
-    for pretrained in [True, False]:
-        model = models.mobilenet_v2(pretrained=pretrained)
-        if pretrained:
-            set_parameter_requires_grad(model, True)
-        num_in_features = model.classifier[1].in_features
-        model.classifier[1] = nn.Linear(num_in_features, num_classes)
-        model = model.to(device)
-        optimizer = optim.Adam(model.parameters(), lr=lr)
-        logdir = 'logs/mobilenet_v2'
-        if pretrained:
-            logdir += '-pretrained'
-        logger = Logger(logdir)
-        train(
-            model, logger, class_dict,
-            train_loader, valid_loader,
-            optimizer, criterion, epochs, device)
-
-    for pretrained in [True, False]:
-        model = models.resnet34(pretrained=pretrained)
-        if pretrained:
-            set_parameter_requires_grad(model, True)
-        num_in_features = model.fc.in_features
-        model.fc = nn.Linear(num_in_features, num_classes)
-        model = model.to(device)
-        optimizer = optim.Adam(model.parameters(), lr=lr)
-        logdir = 'logs/resnet18'
-        if pretrained:
-            logdir += '-pretrained'
-        logger = Logger(logdir)
-        train(
-            model, logger, class_dict,
-            train_loader, valid_loader,
-            optimizer, criterion, epochs, device)
-
-    for pretrained in [True, False]:
-        model = models.resnet50(pretrained=pretrained)
-        if pretrained:
-            set_parameter_requires_grad(model, True)
-        num_in_features = model.fc.in_features
-        model.fc = nn.Linear(num_in_features, num_classes)
-        model = model.to(device)
-        optimizer = optim.Adam(model.parameters(), lr=lr)
-        logdir = 'logs/resnet18'
+        # optimizer = optim.Adam(model.parameters(), lr=lr)
+        optimizer = optim.RAdam(model.parameters(), lr=lr)
+        logdir = 'logs/resnet101'
         if pretrained:
             logdir += '-pretrained'
         logger = Logger(logdir)
