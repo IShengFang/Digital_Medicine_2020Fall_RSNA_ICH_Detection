@@ -30,8 +30,8 @@ from torch.utils.data import Dataset, DataLoader
 
 
 class ICHDataset(Dataset):
-    def __init__(self, path, train=True):
-        self.train = train
+    def __init__(self, path, transform=None):
+        self.transform = transform
         self.files = []
         self.kernel = 'bsb'
         if path.endswith('.txt'):
@@ -52,17 +52,21 @@ class ICHDataset(Dataset):
 
         if self.kernel == 'meta':
             img = meta_window(dcm)
+            img = np.array([img, img, img]).transpose(1, 2, 0)
         elif self.kernel == 'brain':
             img = brain_window(dcm)
+            img = np.array([img, img, img]).transpose(1, 2, 0)
         elif self.kernel == 'bsb':
             img = bsb_window(dcm)
-
         img = cv2.resize(img, (512, 512)).astype(np.float32)
-        transform = transforms.Compose([
-            transforms.ToTensor()
-            # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
-        ])
-        img = transform(img)
+
+        if self.transform is None:
+            transform = transforms.Compose([
+                transforms.ToTensor()
+            ])
+            img = transform(img)
+        else:
+            img = self.transform(img)
 
         if label is None:
             return img
@@ -150,13 +154,23 @@ if __name__ == '__main__':
     class_dict = json.load(open('label.json', 'r'))
     print(json.dumps(class_dict, indent=2))
 
-    train_set = ICHDataset('config/train.txt')
+    transform_train = transforms.Compose([
+        transforms.ToTensor(),
+        transforms.ToPILImage(),
+        transforms.RandomRotation(15),
+        transforms.ToTensor(),
+    ])
+
+    train_set = ICHDataset('config/train.txt', transform=transform_train)
+    # train_set = ICHDataset('config/train.txt')
     train_loader = DataLoader(train_set, batch_size=8, shuffle=True, num_workers=8)
     valid_set = ICHDataset('config/valid.txt')
     valid_loader = DataLoader(valid_set, batch_size=8, shuffle=True, num_workers=8)
 
     for pretrained in [False]:
-        model = models.resnet18(pretrained=pretrained)
+        # model = models.resnext101_32x8d(pretrained=pretrained)
+        # model = models.resnext50_32x4d(pretrained=pretrained)
+        model = models.resnet34(pretrained=pretrained)
         if pretrained:
             set_parameter_requires_grad(model, True)
         num_in_features = model.fc.in_features
@@ -164,7 +178,11 @@ if __name__ == '__main__':
         model = model.to(device)
         # optimizer = optim.Adam(model.parameters(), lr=lr)
         optimizer = optim.RAdam(model.parameters(), lr=lr)
-        logdir = 'logs/resnet101'
+        # logdir = 'logs/resnext101-32x8d'
+        # logdir = 'logs/resnext50-32x4d'
+        logdir = 'logs/resnet34'
+        if train_set.transform is not None:
+            logdir += '-aug'
         if pretrained:
             logdir += '-pretrained'
         logger = Logger(logdir)
