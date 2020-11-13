@@ -46,22 +46,22 @@ def bsb_window(dcm):
     brain_img = window_image(dcm, 40, 80)
     subdural_img = window_image(dcm, 80, 200)
     bone_img = window_image(dcm, 600, 2600)    
-    return np.array([brain_img, subdural_img, bone_img]).transpose(1, 2, 0)
+    return np.array([brain_img, subdural_img, bone_img])
 
 
 def all_channel_window(dcm):
     grey_img = brain_window(dcm) * 3.0
-    all_channel_img = np.zeros((grey_img.shape[0], grey_img.shape[1], 3))
-    all_channel_img[:, :, 2] = np.clip(grey_img, 0.0, 1.0)
-    all_channel_img[:, :, 0] = np.clip(grey_img-1.0, 0.0, 1.0)
-    all_channel_img[:, :, 1] = np.clip(grey_img-2.0, 0.0, 1.0)
+    all_channel_img = np.zeros((3, grey_img.shape[0], grey_img.shape[1]))
+    all_channel_img[2, :, :] = np.clip(grey_img, 0.0, 1.0)
+    all_channel_img[0, :, :] = np.clip(grey_img-1.0, 0.0, 1.0)
+    all_channel_img[1, :, :] = np.clip(grey_img-2.0, 0.0, 1.0)
     return all_channel_img
 
 
 def rainbow_window(dcm):
     grey_img = brain_window(dcm)
-    rainbow_img = np.zeros((grey_img.shape[0], grey_img.shape[1], 3))
-    rainbow_img[:, :, 0] = np.clip(4*grey_img-2, 0, 1.0) * (grey_img>0) * (grey_img<=1.0)
-    rainbow_img[:, :, 1] = np.clip(4*grey_img*(grey_img <=0.75), 0, 1) + np.clip((-4*grey_img+4)*(grey_img>0.75), 0, 1)
-    rainbow_img[:, :, 2] = np.clip(-4*grey_img+2, 0, 1.0) * (grey_img>0) * (grey_img<=1.0)
+    rainbow_img = np.zeros((3, grey_img.shape[0], grey_img.shape[1]))
+    rainbow_img[0, :, :] = np.clip(4*grey_img-2, 0, 1.0) * (grey_img>0) * (grey_img<=1.0)
+    rainbow_img[1, :, :] = np.clip(4*grey_img*(grey_img <=0.75), 0, 1) + np.clip((-4*grey_img+4)*(grey_img>0.75), 0, 1)
+    rainbow_img[2, :, :] = np.clip(-4*grey_img+2, 0, 1.0) * (grey_img>0) * (grey_img<=1.0)
     return rainbow_img
