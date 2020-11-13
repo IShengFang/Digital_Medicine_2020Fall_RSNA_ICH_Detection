@@ -155,15 +155,12 @@ if __name__ == '__main__':
     valid_set = ICHDataset('config/valid.txt')
     valid_loader = DataLoader(valid_set, batch_size=8, shuffle=True, num_workers=8)
 
-    for pretrained in [False, True]:
+    for pretrained in [False]:
         model = models.resnet18(pretrained=pretrained)
         if pretrained:
             set_parameter_requires_grad(model, True)
         num_in_features = model.fc.in_features
-        model.fc = nn.Sequential(
-            nn.Linear(num_in_features, num_classes),
-            nn.LogSoftmax(dim=1)
-        )
+        model.fc = nn.Linear(num_in_features, num_classes)
         model = model.to(device)
         # optimizer = optim.Adam(model.parameters(), lr=lr)
         optimizer = optim.RAdam(model.parameters(), lr=lr)
