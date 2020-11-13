@@ -1,0 +1,11848 @@
+{
+  "ID_e251d7a5": {
+    "epidural": 7
+  },
+  "ID_20e55d5c": {
+    "epidural": 4
+  },
+  "ID_9b7288b7": {
+    "epidural": 6
+  },
+  "ID_630eb027": {
+    "epidural": 12
+  },
+  "ID_85f6c9bb": {
+    "epidural": 3
+  },
+  "ID_651d7ccc": {
+    "epidural": 5,
+    "subarachnoid": 1
+  },
+  "ID_8fd2b487": {
+    "epidural": 3
+  },
+  "ID_84bcb39c": {
+    "epidural": 3
+  },
+  "ID_445f82bd": {
+    "epidural": 6
+  },
+  "ID_4f907188": {
+    "epidural": 4
+  },
+  "ID_b5da3c80": {
+    "epidural": 8
+  },
+  "ID_24ff6686": {
+    "epidural": 7
+  },
+  "ID_444805f3": {
+    "epidural": 6
+  },
+  "ID_eb6fe6e8": {
+    "epidural": 11
+  },
+  "ID_7860208e": {
+    "epidural": 14
+  },
+  "ID_f7f8a536": {
+    "epidural": 17
+  },
+  "ID_3d3460a7": {
+    "epidural": 4
+  },
+  "ID_e8952b1f": {
+    "epidural": 4
+  },
+  "ID_383d60c1": {
+    "epidural": 3
+  },
+  "ID_3efd4491": {
+    "epidural": 1,
+    "subdural": 1
+  },
+  "ID_25a77d0e": {
+    "epidural": 5
+  },
+  "ID_b474e26c": {
+    "epidural": 6,
+    "subarachnoid": 3
+  },
+  "ID_c35b68fe": {
+    "epidural": 16,
+    "healthy": 1
+  },
+  "ID_0b808081": {
+    "epidural": 5
+  },
+  "ID_99d36662": {
+    "epidural": 8
+  },
+  "ID_81030a57": {
+    "epidural": 3
+  },
+  "ID_8384191f": {
+    "epidural": 9
+  },
+  "ID_e4963636": {
+    "epidural": 6,
+    "subarachnoid": 2
+  },
+  "ID_403ae26a": {
+    "epidural": 8
+  },
+  "ID_a0a829f6": {
+    "epidural": 6
+  },
+  "ID_b05332ad": {
+    "epidural": 9
+  },
+  "ID_26885caa": {
+    "epidural": 8
+  },
+  "ID_ac57e226": {
+    "epidural": 16
+  },
+  "ID_2e21c3f3": {
+    "epidural": 8
+  },
+  "ID_f4875e26": {
+    "epidural": 11
+  },
+  "ID_69ed246e": {
+    "epidural": 4
+  },
+  "ID_8c298617": {
+    "epidural": 4,
+    "healthy": 1
+  },
+  "ID_1bcc1362": {
+    "epidural": 5
+  },
+  "ID_3594f146": {
+    "epidural": 8,
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_dd3d4c39": {
+    "epidural": 5,
+    "subdural": 1
+  },
+  "ID_cd8ceacc": {
+    "epidural": 6
+  },
+  "ID_ded086e5": {
+    "epidural": 10
+  },
+  "ID_bc7cce39": {
+    "epidural": 8
+  },
+  "ID_427ce0ea": {
+    "epidural": 9
+  },
+  "ID_c901fb65": {
+    "epidural": 7
+  },
+  "ID_a456acb7": {
+    "epidural": 2
+  },
+  "ID_ab47109e": {
+    "epidural": 7,
+    "healthy": 1
+  },
+  "ID_b76f619d": {
+    "epidural": 4,
+    "intraparenchymal": 1
+  },
+  "ID_21b3c3cd": {
+    "epidural": 8,
+    "subdural": 1
+  },
+  "ID_1955fb4d": {
+    "epidural": 3
+  },
+  "ID_d819107e": {
+    "epidural": 4
+  },
+  "ID_ba01f551": {
+    "epidural": 19
+  },
+  "ID_75e616a8": {
+    "epidural": 4
+  },
+  "ID_87e60d98": {
+    "epidural": 9
+  },
+  "ID_871ce4ee": {
+    "epidural": 13
+  },
+  "ID_ea32a910": {
+    "epidural": 11,
+    "healthy": 1
+  },
+  "ID_4d990362": {
+    "epidural": 9,
+    "intraparenchymal": 3
+  },
+  "ID_bf60eac5": {
+    "epidural": 7,
+    "subdural": 1
+  },
+  "ID_8565c234": {
+    "epidural": 3,
+    "healthy": 1
+  },
+  "ID_dae1fbbc": {
+    "epidural": 4
+  },
+  "ID_39d7d875": {
+    "epidural": 2,
+    "healthy": 1,
+    "subdural": 2
+  },
+  "ID_57374966": {
+    "epidural": 3,
+    "subdural": 2
+  },
+  "ID_2fb5fa0e": {
+    "epidural": 1
+  },
+  "ID_fc9a4b1c": {
+    "epidural": 8
+  },
+  "ID_6f5384b7": {
+    "epidural": 2
+  },
+  "ID_6afd5abc": {
+    "epidural": 10
+  },
+  "ID_4bb8ae52": {
+    "epidural": 1,
+    "intraventricular": 1
+  },
+  "ID_5ec27190": {
+    "epidural": 6
+  },
+  "ID_c76680f2": {
+    "epidural": 4
+  },
+  "ID_8549ded3": {
+    "epidural": 8
+  },
+  "ID_3a9f4b6d": {
+    "epidural": 7
+  },
+  "ID_1e74903a": {
+    "epidural": 7
+  },
+  "ID_690ae4e4": {
+    "epidural": 4
+  },
+  "ID_92e736ef": {
+    "epidural": 3,
+    "intraparenchymal": 1
+  },
+  "ID_5ac292c4": {
+    "epidural": 1
+  },
+  "ID_fe438a3d": {
+    "epidural": 7,
+    "healthy": 1
+  },
+  "ID_88088ce7": {
+    "epidural": 1,
+    "intraparenchymal": 1
+  },
+  "ID_0762da12": {
+    "epidural": 3
+  },
+  "ID_a6334d08": {
+    "epidural": 5
+  },
+  "ID_25f0e1e7": {
+    "epidural": 10
+  },
+  "ID_346de481": {
+    "epidural": 3
+  },
+  "ID_440937a3": {
+    "epidural": 2,
+    "healthy": 1
+  },
+  "ID_42d822a2": {
+    "epidural": 3,
+    "subarachnoid": 1
+  },
+  "ID_ed896f0e": {
+    "epidural": 5
+  },
+  "ID_f32f20ff": {
+    "epidural": 4,
+    "intraparenchymal": 1
+  },
+  "ID_2db7ee14": {
+    "epidural": 5,
+    "subarachnoid": 2
+  },
+  "ID_6438d441": {
+    "epidural": 6
+  },
+  "ID_3fd996e7": {
+    "epidural": 3
+  },
+  "ID_e1be8ce4": {
+    "epidural": 9
+  },
+  "ID_513aee23": {
+    "epidural": 4
+  },
+  "ID_f71b4758": {
+    "epidural": 8
+  },
+  "ID_041e6601": {
+    "epidural": 5
+  },
+  "ID_da3a2f5b": {
+    "epidural": 2
+  },
+  "ID_ad07d7aa": {
+    "epidural": 10,
+    "healthy": 1
+  },
+  "ID_cb107f22": {
+    "epidural": 6
+  },
+  "ID_325f8c88": {
+    "epidural": 5
+  },
+  "ID_a6e0b7eb": {
+    "epidural": 10
+  },
+  "ID_8c9e951f": {
+    "epidural": 2
+  },
+  "ID_09ff08f3": {
+    "epidural": 1,
+    "subdural": 1
+  },
+  "ID_78d74f62": {
+    "epidural": 4
+  },
+  "ID_9d4cdb11": {
+    "epidural": 2,
+    "subdural": 2
+  },
+  "ID_5ca2154a": {
+    "epidural": 7
+  },
+  "ID_27d83c0c": {
+    "epidural": 3
+  },
+  "ID_b9d72e17": {
+    "epidural": 6
+  },
+  "ID_45cf154d": {
+    "epidural": 5
+  },
+  "ID_69e721e0": {
+    "epidural": 7
+  },
+  "ID_993b6d73": {
+    "epidural": 5
+  },
+  "ID_08ef021d": {
+    "epidural": 1
+  },
+  "ID_d8c19fe5": {
+    "epidural": 4
+  },
+  "ID_448867a7": {
+    "epidural": 2
+  },
+  "ID_00307f7a": {
+    "epidural": 2
+  },
+  "ID_9cd6c40f": {
+    "epidural": 2
+  },
+  "ID_081eb8a0": {
+    "epidural": 6
+  },
+  "ID_1d298cc5": {
+    "epidural": 8
+  },
+  "ID_db2ea1fb": {
+    "epidural": 4
+  },
+  "ID_e7ad0ec0": {
+    "epidural": 5,
+    "subdural": 1
+  },
+  "ID_23a783f2": {
+    "epidural": 2
+  },
+  "ID_0b10cbee": {
+    "epidural": 4
+  },
+  "ID_c9551245": {
+    "epidural": 6
+  },
+  "ID_88690153": {
+    "epidural": 2
+  },
+  "ID_04332a9c": {
+    "epidural": 4
+  },
+  "ID_2b7cc24e": {
+    "epidural": 4,
+    "subdural": 1
+  },
+  "ID_8ab2b639": {
+    "epidural": 4
+  },
+  "ID_b16784be": {
+    "epidural": 1
+  },
+  "ID_dfd11f1c": {
+    "epidural": 5,
+    "subarachnoid": 1
+  },
+  "ID_f3c126e1": {
+    "epidural": 3
+  },
+  "ID_975c6560": {
+    "epidural": 9
+  },
+  "ID_55bced3b": {
+    "epidural": 3
+  },
+  "ID_8c21ac23": {
+    "epidural": 3
+  },
+  "ID_2ce270c1": {
+    "epidural": 6
+  },
+  "ID_b56039b2": {
+    "epidural": 8
+  },
+  "ID_89bdcc3b": {
+    "epidural": 2,
+    "healthy": 1
+  },
+  "ID_6dc60a4c": {
+    "epidural": 2,
+    "subarachnoid": 1
+  },
+  "ID_fdff0117": {
+    "epidural": 3
+  },
+  "ID_37a525a6": {
+    "epidural": 4
+  },
+  "ID_def2db8e": {
+    "epidural": 4
+  },
+  "ID_c1510a7c": {
+    "epidural": 4,
+    "intraventricular": 1
+  },
+  "ID_537d7edd": {
+    "epidural": 4
+  },
+  "ID_e3b032d3": {
+    "epidural": 2,
+    "intraventricular": 1
+  },
+  "ID_82095f4d": {
+    "epidural": 3,
+    "subdural": 2
+  },
+  "ID_58ba1d4a": {
+    "epidural": 4
+  },
+  "ID_4966daf7": {
+    "epidural": 1
+  },
+  "ID_5d628650": {
+    "epidural": 10
+  },
+  "ID_53da8694": {
+    "epidural": 2
+  },
+  "ID_87f833c5": {
+    "epidural": 2
+  },
+  "ID_f44b0ff7": {
+    "epidural": 1
+  },
+  "ID_3e481fc5": {
+    "epidural": 4
+  },
+  "ID_ed311598": {
+    "epidural": 9
+  },
+  "ID_92ef7cc4": {
+    "epidural": 2
+  },
+  "ID_2e956777": {
+    "epidural": 10
+  },
+  "ID_32e5f08b": {
+    "epidural": 4
+  },
+  "ID_039bebb1": {
+    "epidural": 2
+  },
+  "ID_8331415a": {
+    "epidural": 2
+  },
+  "ID_2abbc883": {
+    "epidural": 5,
+    "subarachnoid": 1
+  },
+  "ID_9395fbe8": {
+    "epidural": 4
+  },
+  "ID_0bff8c5d": {
+    "epidural": 2,
+    "subarachnoid": 1
+  },
+  "ID_02e7feba": {
+    "epidural": 1,
+    "subdural": 1
+  },
+  "ID_68ca6165": {
+    "epidural": 4
+  },
+  "ID_b890eb63": {
+    "epidural": 5,
+    "intraparenchymal": 2
+  },
+  "ID_874c1d59": {
+    "epidural": 2
+  },
+  "ID_e885c7e6": {
+    "epidural": 6
+  },
+  "ID_50df2165": {
+    "epidural": 1
+  },
+  "ID_e276b5aa": {
+    "epidural": 6
+  },
+  "ID_928137e0": {
+    "epidural": 7
+  },
+  "ID_38ead96b": {
+    "epidural": 2
+  },
+  "ID_b8016b87": {
+    "epidural": 5,
+    "intraparenchymal": 1
+  },
+  "ID_a29261e1": {
+    "epidural": 2
+  },
+  "ID_c4b3d0b0": {
+    "epidural": 6
+  },
+  "ID_f2d7ad48": {
+    "epidural": 1
+  },
+  "ID_d92fcdc3": {
+    "epidural": 8
+  },
+  "ID_90b88b8b": {
+    "epidural": 3
+  },
+  "ID_0c45b337": {
+    "epidural": 2
+  },
+  "ID_7991c2ca": {
+    "epidural": 2
+  },
+  "ID_a99b01bc": {
+    "epidural": 3
+  },
+  "ID_a5c02968": {
+    "epidural": 1
+  },
+  "ID_b956c8dd": {
+    "epidural": 3
+  },
+  "ID_bf703ef7": {
+    "epidural": 1,
+    "subdural": 2
+  },
+  "ID_befb1eca": {
+    "epidural": 2
+  },
+  "ID_489037e0": {
+    "epidural": 2
+  },
+  "ID_2439bb07": {
+    "epidural": 4
+  },
+  "ID_3ac363d8": {
+    "epidural": 4,
+    "subarachnoid": 1
+  },
+  "ID_4fe73b37": {
+    "epidural": 3,
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_cba722d6": {
+    "epidural": 1
+  },
+  "ID_69605b0b": {
+    "epidural": 2
+  },
+  "ID_7aa7859c": {
+    "epidural": 2
+  },
+  "ID_0635d3a6": {
+    "epidural": 3,
+    "intraventricular": 1,
+    "subarachnoid": 6
+  },
+  "ID_c9d6fdc6": {
+    "epidural": 1
+  },
+  "ID_8b028eb4": {
+    "epidural": 3
+  },
+  "ID_afa0b3b8": {
+    "epidural": 1
+  },
+  "ID_991ad3c5": {
+    "epidural": 4
+  },
+  "ID_3d20cfde": {
+    "epidural": 5,
+    "healthy": 1
+  },
+  "ID_dfc1c365": {
+    "epidural": 2
+  },
+  "ID_a6d9799e": {
+    "epidural": 1
+  },
+  "ID_9da4ffd8": {
+    "epidural": 1
+  },
+  "ID_6a6976ae": {
+    "epidural": 2
+  },
+  "ID_9924516d": {
+    "epidural": 2,
+    "healthy": 1
+  },
+  "ID_ce543a28": {
+    "epidural": 1
+  },
+  "ID_8954e651": {
+    "epidural": 2,
+    "intraparenchymal": 1
+  },
+  "ID_82cfc6a8": {
+    "epidural": 5
+  },
+  "ID_7a83bc13": {
+    "epidural": 1,
+    "subarachnoid": 1
+  },
+  "ID_e2acbd17": {
+    "epidural": 1,
+    "subdural": 1
+  },
+  "ID_5b3de196": {
+    "epidural": 1
+  },
+  "ID_998f053a": {
+    "epidural": 3
+  },
+  "ID_a51ae735": {
+    "epidural": 1
+  },
+  "ID_2872834a": {
+    "epidural": 2
+  },
+  "ID_a959a93c": {
+    "epidural": 1
+  },
+  "ID_5c79bc51": {
+    "epidural": 1
+  },
+  "ID_2749f535": {
+    "epidural": 1
+  },
+  "ID_606b68f7": {
+    "epidural": 3,
+    "intraparenchymal": 1
+  },
+  "ID_6aad491a": {
+    "epidural": 1,
+    "intraparenchymal": 1
+  },
+  "ID_64fd0a0d": {
+    "epidural": 1,
+    "intraparenchymal": 1
+  },
+  "ID_11744b2c": {
+    "epidural": 3,
+    "subdural": 1
+  },
+  "ID_c6116413": {
+    "epidural": 1,
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_01cfbe78": {
+    "epidural": 2
+  },
+  "ID_f80441b1": {
+    "epidural": 1,
+    "healthy": 1
+  },
+  "ID_ebc02280": {
+    "epidural": 2
+  },
+  "ID_1b11ccae": {
+    "epidural": 2,
+    "intraparenchymal": 1
+  },
+  "ID_7e97c648": {
+    "epidural": 1
+  },
+  "ID_5f5ca2c5": {
+    "epidural": 2,
+    "subarachnoid": 2
+  },
+  "ID_33c166ab": {
+    "epidural": 2
+  },
+  "ID_9e667a00": {
+    "epidural": 1
+  },
+  "ID_5fe1b289": {
+    "epidural": 1
+  },
+  "ID_3f8612c3": {
+    "epidural": 1,
+    "subdural": 1
+  },
+  "ID_9bcf6bec": {
+    "healthy": 1
+  },
+  "ID_62267b10": {
+    "healthy": 1
+  },
+  "ID_a1037072": {
+    "healthy": 1
+  },
+  "ID_7c59c7c4": {
+    "healthy": 1
+  },
+  "ID_588ca051": {
+    "healthy": 1
+  },
+  "ID_273e3a07": {
+    "healthy": 1
+  },
+  "ID_e23364fa": {
+    "healthy": 1
+  },
+  "ID_6122e2ea": {
+    "healthy": 1
+  },
+  "ID_567ffaff": {
+    "healthy": 1
+  },
+  "ID_1e91a5a4": {
+    "healthy": 1
+  },
+  "ID_dc077aae": {
+    "healthy": 1
+  },
+  "ID_888659b9": {
+    "healthy": 1
+  },
+  "ID_558ab10b": {
+    "healthy": 1
+  },
+  "ID_1ee4dbb8": {
+    "healthy": 1
+  },
+  "ID_bd255039": {
+    "healthy": 1
+  },
+  "ID_aa415689": {
+    "healthy": 1
+  },
+  "ID_6809a911": {
+    "healthy": 1
+  },
+  "ID_aedbe6dc": {
+    "healthy": 1
+  },
+  "ID_a6d53330": {
+    "healthy": 1
+  },
+  "ID_1b4b3c3a": {
+    "healthy": 1
+  },
+  "ID_a27892b2": {
+    "healthy": 1
+  },
+  "ID_fe5a22db": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_2ce409f2": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_c7ca752a": {
+    "healthy": 1
+  },
+  "ID_d71b92d9": {
+    "healthy": 2
+  },
+  "ID_3091586d": {
+    "healthy": 1
+  },
+  "ID_5d00f63a": {
+    "healthy": 1
+  },
+  "ID_db05f671": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_0ea9cb99": {
+    "healthy": 1
+  },
+  "ID_c87bafd0": {
+    "healthy": 1
+  },
+  "ID_47028184": {
+    "healthy": 1
+  },
+  "ID_7ec79379": {
+    "healthy": 1
+  },
+  "ID_d212cb48": {
+    "healthy": 2,
+    "subarachnoid": 4,
+    "subdural": 1
+  },
+  "ID_9149a6b9": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_2a7ae9cd": {
+    "healthy": 1
+  },
+  "ID_69bfcf64": {
+    "healthy": 1
+  },
+  "ID_f42cb8f8": {
+    "healthy": 1
+  },
+  "ID_9eb2472f": {
+    "healthy": 1
+  },
+  "ID_11d2bfca": {
+    "healthy": 1
+  },
+  "ID_6a91f9b3": {
+    "healthy": 1
+  },
+  "ID_7e10e633": {
+    "healthy": 1
+  },
+  "ID_cae2704b": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_12206c1e": {
+    "healthy": 1
+  },
+  "ID_398198e6": {
+    "healthy": 1
+  },
+  "ID_4f87ed82": {
+    "healthy": 2,
+    "intraparenchymal": 4,
+    "subarachnoid": 1
+  },
+  "ID_df751e93": {
+    "healthy": 1
+  },
+  "ID_bf5258df": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_1161063d": {
+    "healthy": 1
+  },
+  "ID_368f0a93": {
+    "healthy": 1
+  },
+  "ID_89925eed": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_e2df650c": {
+    "healthy": 1
+  },
+  "ID_b50babc9": {
+    "healthy": 1
+  },
+  "ID_e75e1a4b": {
+    "healthy": 1
+  },
+  "ID_e017154b": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_49c6c5ce": {
+    "healthy": 1
+  },
+  "ID_1dab5633": {
+    "healthy": 1
+  },
+  "ID_bbd348f7": {
+    "healthy": 1
+  },
+  "ID_526a173b": {
+    "healthy": 1
+  },
+  "ID_e37581cb": {
+    "healthy": 2
+  },
+  "ID_8084d6cf": {
+    "healthy": 1
+  },
+  "ID_1cbfd490": {
+    "healthy": 1
+  },
+  "ID_02584b75": {
+    "healthy": 1
+  },
+  "ID_0cdd2365": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_e0fd4285": {
+    "healthy": 1
+  },
+  "ID_b85a4f61": {
+    "healthy": 1
+  },
+  "ID_b69a5403": {
+    "healthy": 1
+  },
+  "ID_a1d58c0b": {
+    "healthy": 1
+  },
+  "ID_ca5f7a99": {
+    "healthy": 1
+  },
+  "ID_8074f54e": {
+    "healthy": 1
+  },
+  "ID_4892efc1": {
+    "healthy": 1
+  },
+  "ID_4d753fe4": {
+    "healthy": 1
+  },
+  "ID_2b8b26d4": {
+    "healthy": 1
+  },
+  "ID_3a12cfa6": {
+    "healthy": 1
+  },
+  "ID_30c6469a": {
+    "healthy": 1
+  },
+  "ID_fcdd856c": {
+    "healthy": 1
+  },
+  "ID_ceb9d66b": {
+    "healthy": 1
+  },
+  "ID_99a527c9": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_fec98ea4": {
+    "healthy": 1
+  },
+  "ID_d61f280d": {
+    "healthy": 1
+  },
+  "ID_c25f6ad8": {
+    "healthy": 1
+  },
+  "ID_953f476c": {
+    "healthy": 1
+  },
+  "ID_f66e8d42": {
+    "healthy": 1
+  },
+  "ID_bba3edea": {
+    "healthy": 1
+  },
+  "ID_a59ca853": {
+    "healthy": 1
+  },
+  "ID_222cd55f": {
+    "healthy": 1
+  },
+  "ID_93536e2c": {
+    "healthy": 1
+  },
+  "ID_6cfd0a00": {
+    "healthy": 1
+  },
+  "ID_31b9ecda": {
+    "healthy": 1
+  },
+  "ID_c2c4df47": {
+    "healthy": 1
+  },
+  "ID_f1a87e13": {
+    "healthy": 1
+  },
+  "ID_9a1d042c": {
+    "healthy": 1
+  },
+  "ID_902345d1": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_7afee1c8": {
+    "healthy": 2,
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_6c8b32ba": {
+    "healthy": 1
+  },
+  "ID_704e8dcd": {
+    "healthy": 1
+  },
+  "ID_90ed948c": {
+    "healthy": 1
+  },
+  "ID_7760e93c": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_31015256": {
+    "healthy": 1
+  },
+  "ID_19634b2d": {
+    "healthy": 1
+  },
+  "ID_4092e41f": {
+    "healthy": 1
+  },
+  "ID_db4960f1": {
+    "healthy": 2,
+    "subdural": 1
+  },
+  "ID_b0d3997b": {
+    "healthy": 1
+  },
+  "ID_655de2a8": {
+    "healthy": 1
+  },
+  "ID_79e467bc": {
+    "healthy": 1
+  },
+  "ID_3f931a6c": {
+    "healthy": 1
+  },
+  "ID_a7c275fe": {
+    "healthy": 1
+  },
+  "ID_56b481a5": {
+    "healthy": 1
+  },
+  "ID_aae608bd": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_303784aa": {
+    "healthy": 2
+  },
+  "ID_538abc9c": {
+    "healthy": 1
+  },
+  "ID_386ae8ad": {
+    "healthy": 1
+  },
+  "ID_0c2b9c6a": {
+    "healthy": 1
+  },
+  "ID_8ac3f114": {
+    "healthy": 1
+  },
+  "ID_9b237ffd": {
+    "healthy": 1
+  },
+  "ID_d278c67b": {
+    "healthy": 1
+  },
+  "ID_fd948657": {
+    "healthy": 1
+  },
+  "ID_97b28fdc": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_b2dbfd2b": {
+    "healthy": 1
+  },
+  "ID_d6130fac": {
+    "healthy": 1,
+    "subdural": 2
+  },
+  "ID_a30c7311": {
+    "healthy": 1
+  },
+  "ID_fb61be69": {
+    "healthy": 1
+  },
+  "ID_80853b58": {
+    "healthy": 1
+  },
+  "ID_8f1e5472": {
+    "healthy": 1
+  },
+  "ID_396ef364": {
+    "healthy": 1
+  },
+  "ID_69149cd0": {
+    "healthy": 1
+  },
+  "ID_af5af013": {
+    "healthy": 1
+  },
+  "ID_b1d963df": {
+    "healthy": 1
+  },
+  "ID_5772ebe3": {
+    "healthy": 1
+  },
+  "ID_f586b2a4": {
+    "healthy": 1,
+    "subarachnoid": 4
+  },
+  "ID_33eb3a24": {
+    "healthy": 1
+  },
+  "ID_224dd012": {
+    "healthy": 1
+  },
+  "ID_40eae8b3": {
+    "healthy": 1
+  },
+  "ID_74ac4443": {
+    "healthy": 1
+  },
+  "ID_4ec716d4": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "intraventricular": 6
+  },
+  "ID_e49afd3b": {
+    "healthy": 1
+  },
+  "ID_9f321a8f": {
+    "healthy": 1
+  },
+  "ID_185cc403": {
+    "healthy": 1
+  },
+  "ID_0d113626": {
+    "healthy": 1
+  },
+  "ID_e8bf16aa": {
+    "healthy": 1
+  },
+  "ID_6ee554c1": {
+    "healthy": 1
+  },
+  "ID_5f035345": {
+    "healthy": 2
+  },
+  "ID_970aa3db": {
+    "healthy": 1
+  },
+  "ID_a449357f": {
+    "healthy": 1
+  },
+  "ID_9998deea": {
+    "healthy": 2
+  },
+  "ID_aea0d84c": {
+    "healthy": 1
+  },
+  "ID_bc12d210": {
+    "healthy": 1
+  },
+  "ID_480078d0": {
+    "healthy": 1
+  },
+  "ID_aeee6c28": {
+    "healthy": 1
+  },
+  "ID_225d147f": {
+    "healthy": 1
+  },
+  "ID_377ba512": {
+    "healthy": 1
+  },
+  "ID_edecd4e3": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_96a8fc36": {
+    "healthy": 1
+  },
+  "ID_5c769bff": {
+    "healthy": 1
+  },
+  "ID_bc7cac97": {
+    "healthy": 1
+  },
+  "ID_04904c87": {
+    "healthy": 1
+  },
+  "ID_c760b47b": {
+    "healthy": 1
+  },
+  "ID_5b684c07": {
+    "healthy": 1
+  },
+  "ID_2f38ac65": {
+    "healthy": 1
+  },
+  "ID_9e8b4c53": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_786e4162": {
+    "healthy": 1
+  },
+  "ID_4fe5ddf8": {
+    "healthy": 1
+  },
+  "ID_ff39ea1d": {
+    "healthy": 1
+  },
+  "ID_8544b614": {
+    "healthy": 1
+  },
+  "ID_a3899fd6": {
+    "healthy": 1
+  },
+  "ID_8b2a72f0": {
+    "healthy": 1
+  },
+  "ID_7f10a2cb": {
+    "healthy": 1
+  },
+  "ID_937dc98a": {
+    "healthy": 1
+  },
+  "ID_d79d4129": {
+    "healthy": 1
+  },
+  "ID_6c279d75": {
+    "healthy": 1
+  },
+  "ID_013cf2a2": {
+    "healthy": 1
+  },
+  "ID_6884cc6b": {
+    "healthy": 1,
+    "subdural": 2
+  },
+  "ID_d32c5e7e": {
+    "healthy": 1
+  },
+  "ID_bbf1ddb2": {
+    "healthy": 1
+  },
+  "ID_742cb908": {
+    "healthy": 1
+  },
+  "ID_606e6ba3": {
+    "healthy": 1
+  },
+  "ID_9f8f54ba": {
+    "healthy": 1
+  },
+  "ID_6beeda4e": {
+    "healthy": 1
+  },
+  "ID_6b18af15": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_f267cbc7": {
+    "healthy": 1
+  },
+  "ID_d93be25b": {
+    "healthy": 1
+  },
+  "ID_e62cf6dd": {
+    "healthy": 1
+  },
+  "ID_80288540": {
+    "healthy": 1
+  },
+  "ID_bee66b22": {
+    "healthy": 1
+  },
+  "ID_edff13ba": {
+    "healthy": 1
+  },
+  "ID_404695d0": {
+    "healthy": 1
+  },
+  "ID_ffedaf23": {
+    "healthy": 1
+  },
+  "ID_cf845919": {
+    "healthy": 2
+  },
+  "ID_50b67b52": {
+    "healthy": 1
+  },
+  "ID_65f05a7f": {
+    "healthy": 1,
+    "intraparenchymal": 2
+  },
+  "ID_6f5deff5": {
+    "healthy": 1
+  },
+  "ID_5e16c6c2": {
+    "healthy": 1
+  },
+  "ID_33810a81": {
+    "healthy": 1,
+    "subdural": 2
+  },
+  "ID_d8e67d7d": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_da2fb868": {
+    "healthy": 1
+  },
+  "ID_d25acee4": {
+    "healthy": 1
+  },
+  "ID_f662abfb": {
+    "healthy": 1
+  },
+  "ID_8c76aa42": {
+    "healthy": 1
+  },
+  "ID_c73283fa": {
+    "healthy": 1
+  },
+  "ID_361fe46f": {
+    "healthy": 1
+  },
+  "ID_94a2779e": {
+    "healthy": 1
+  },
+  "ID_4023983d": {
+    "healthy": 1
+  },
+  "ID_b88e6222": {
+    "healthy": 1
+  },
+  "ID_e6d4b60c": {
+    "healthy": 1
+  },
+  "ID_eee1670f": {
+    "healthy": 1
+  },
+  "ID_dbad7de6": {
+    "healthy": 1
+  },
+  "ID_33d65356": {
+    "healthy": 1
+  },
+  "ID_a40513cf": {
+    "healthy": 1
+  },
+  "ID_884b9179": {
+    "healthy": 1
+  },
+  "ID_f7240d09": {
+    "healthy": 1,
+    "intraventricular": 2
+  },
+  "ID_ba524ca4": {
+    "healthy": 1
+  },
+  "ID_9000b8b6": {
+    "healthy": 1
+  },
+  "ID_53dfec14": {
+    "healthy": 1
+  },
+  "ID_c33c2f22": {
+    "healthy": 1
+  },
+  "ID_443f4e7d": {
+    "healthy": 1
+  },
+  "ID_44ff1e10": {
+    "healthy": 1
+  },
+  "ID_f335b6db": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_aae68f32": {
+    "healthy": 1
+  },
+  "ID_124518ae": {
+    "healthy": 1
+  },
+  "ID_44cb63fb": {
+    "healthy": 1
+  },
+  "ID_d31acf65": {
+    "healthy": 1
+  },
+  "ID_68ff97cb": {
+    "healthy": 1
+  },
+  "ID_307c6e99": {
+    "healthy": 1
+  },
+  "ID_ffd4ab30": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_8150b90a": {
+    "healthy": 1
+  },
+  "ID_f38dc533": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_327813ce": {
+    "healthy": 1
+  },
+  "ID_674c7c5b": {
+    "healthy": 1
+  },
+  "ID_a7cee4e2": {
+    "healthy": 1
+  },
+  "ID_256ab70a": {
+    "healthy": 1
+  },
+  "ID_8f70289d": {
+    "healthy": 1
+  },
+  "ID_c5997bde": {
+    "healthy": 1
+  },
+  "ID_0ff437c4": {
+    "healthy": 1
+  },
+  "ID_c3e6eede": {
+    "healthy": 1
+  },
+  "ID_93d09510": {
+    "healthy": 1
+  },
+  "ID_c62dbdd4": {
+    "healthy": 1
+  },
+  "ID_d6502c2c": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_43b36c47": {
+    "healthy": 1
+  },
+  "ID_e35eae9c": {
+    "healthy": 2
+  },
+  "ID_d338249d": {
+    "healthy": 1
+  },
+  "ID_7ab78320": {
+    "healthy": 1
+  },
+  "ID_290476d4": {
+    "healthy": 1
+  },
+  "ID_b5c92cf8": {
+    "healthy": 1
+  },
+  "ID_73a1a049": {
+    "healthy": 1
+  },
+  "ID_67b5f6c3": {
+    "healthy": 1
+  },
+  "ID_48ff59f4": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_a24a86fa": {
+    "healthy": 1
+  },
+  "ID_60e01ed8": {
+    "healthy": 1
+  },
+  "ID_dd5c50d1": {
+    "healthy": 1
+  },
+  "ID_ec5a9a79": {
+    "healthy": 1
+  },
+  "ID_0c6e9439": {
+    "healthy": 1
+  },
+  "ID_9e31846b": {
+    "healthy": 1
+  },
+  "ID_12e91e1f": {
+    "healthy": 1
+  },
+  "ID_3c0bf981": {
+    "healthy": 1
+  },
+  "ID_7717e8f5": {
+    "healthy": 1
+  },
+  "ID_084b8d0d": {
+    "healthy": 1
+  },
+  "ID_4df69bae": {
+    "healthy": 1
+  },
+  "ID_4728a41a": {
+    "healthy": 2,
+    "intraparenchymal": 4,
+    "intraventricular": 1
+  },
+  "ID_400d37ea": {
+    "healthy": 1
+  },
+  "ID_cb3eb750": {
+    "healthy": 1
+  },
+  "ID_08556604": {
+    "healthy": 1
+  },
+  "ID_61d71ec0": {
+    "healthy": 1
+  },
+  "ID_75f9e684": {
+    "healthy": 1
+  },
+  "ID_ce3878c0": {
+    "healthy": 1
+  },
+  "ID_a78362f9": {
+    "healthy": 1
+  },
+  "ID_88cb970d": {
+    "healthy": 1
+  },
+  "ID_d2d0c69d": {
+    "healthy": 1,
+    "intraventricular": 2
+  },
+  "ID_37d7492d": {
+    "healthy": 1
+  },
+  "ID_ec15ac16": {
+    "healthy": 1
+  },
+  "ID_74f1577b": {
+    "healthy": 1
+  },
+  "ID_b4e2a64a": {
+    "healthy": 1
+  },
+  "ID_68ce9a00": {
+    "healthy": 1
+  },
+  "ID_17d6af95": {
+    "healthy": 1
+  },
+  "ID_12d6e4d6": {
+    "healthy": 1
+  },
+  "ID_3f41c11e": {
+    "healthy": 1
+  },
+  "ID_7126f98e": {
+    "healthy": 1
+  },
+  "ID_14827086": {
+    "healthy": 1
+  },
+  "ID_3076f772": {
+    "healthy": 1
+  },
+  "ID_93468b88": {
+    "healthy": 1
+  },
+  "ID_79c0838b": {
+    "healthy": 2
+  },
+  "ID_9a482d8b": {
+    "healthy": 1
+  },
+  "ID_af62dc73": {
+    "healthy": 1
+  },
+  "ID_b0f6a0ac": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_9b52099e": {
+    "healthy": 1
+  },
+  "ID_1c1de252": {
+    "healthy": 1
+  },
+  "ID_a9f38e6b": {
+    "healthy": 1
+  },
+  "ID_efc33786": {
+    "healthy": 1
+  },
+  "ID_90b22585": {
+    "healthy": 1
+  },
+  "ID_99309a84": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_e8bc4ae5": {
+    "healthy": 1
+  },
+  "ID_6a4716e0": {
+    "healthy": 1
+  },
+  "ID_eeeaa4d5": {
+    "healthy": 1
+  },
+  "ID_dc431a87": {
+    "healthy": 1
+  },
+  "ID_d2deede6": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_b13dd1c5": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_17560e8b": {
+    "healthy": 1
+  },
+  "ID_a9dd0614": {
+    "healthy": 1
+  },
+  "ID_9a97da06": {
+    "healthy": 1
+  },
+  "ID_2906d78a": {
+    "healthy": 1
+  },
+  "ID_845aa72d": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_80f45ef1": {
+    "healthy": 1
+  },
+  "ID_876fb942": {
+    "healthy": 1
+  },
+  "ID_32cf2598": {
+    "healthy": 1
+  },
+  "ID_6b72349b": {
+    "healthy": 1
+  },
+  "ID_81c9a455": {
+    "healthy": 1
+  },
+  "ID_c221a86e": {
+    "healthy": 1
+  },
+  "ID_c81a7500": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_a7b43494": {
+    "healthy": 1
+  },
+  "ID_1e9281ea": {
+    "healthy": 1
+  },
+  "ID_7b52f981": {
+    "healthy": 1
+  },
+  "ID_e7b72252": {
+    "healthy": 1
+  },
+  "ID_09c4008a": {
+    "healthy": 1
+  },
+  "ID_05be3c93": {
+    "healthy": 1
+  },
+  "ID_9db962ca": {
+    "healthy": 1
+  },
+  "ID_f5643190": {
+    "healthy": 1
+  },
+  "ID_4b658bba": {
+    "healthy": 1
+  },
+  "ID_297c4fd1": {
+    "healthy": 1
+  },
+  "ID_59f204cd": {
+    "healthy": 1
+  },
+  "ID_e97b9c4a": {
+    "healthy": 1
+  },
+  "ID_a595254c": {
+    "healthy": 1
+  },
+  "ID_e87cd52c": {
+    "healthy": 1
+  },
+  "ID_b683a90a": {
+    "healthy": 1
+  },
+  "ID_4e42b5a8": {
+    "healthy": 1
+  },
+  "ID_f6b01a30": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_cb161494": {
+    "healthy": 1
+  },
+  "ID_7273e748": {
+    "healthy": 1
+  },
+  "ID_6bcd2de7": {
+    "healthy": 1
+  },
+  "ID_a47e96c1": {
+    "healthy": 1
+  },
+  "ID_10beb45f": {
+    "healthy": 1
+  },
+  "ID_e94cf8c1": {
+    "healthy": 1
+  },
+  "ID_e30cbcbd": {
+    "healthy": 1
+  },
+  "ID_2125278e": {
+    "healthy": 1
+  },
+  "ID_ec054318": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_3a808037": {
+    "healthy": 1
+  },
+  "ID_5dd94cdf": {
+    "healthy": 1
+  },
+  "ID_e6458262": {
+    "healthy": 1
+  },
+  "ID_108a1798": {
+    "healthy": 1
+  },
+  "ID_2b9e0826": {
+    "healthy": 1
+  },
+  "ID_284800b8": {
+    "healthy": 1
+  },
+  "ID_cc69b33c": {
+    "healthy": 1
+  },
+  "ID_780b336d": {
+    "healthy": 1
+  },
+  "ID_e17609bb": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_a23091a6": {
+    "healthy": 1
+  },
+  "ID_b41a358c": {
+    "healthy": 1
+  },
+  "ID_ebb38182": {
+    "healthy": 1
+  },
+  "ID_faf8ae52": {
+    "healthy": 1
+  },
+  "ID_22544ec3": {
+    "healthy": 1
+  },
+  "ID_1dffa787": {
+    "healthy": 1
+  },
+  "ID_86f54873": {
+    "healthy": 1
+  },
+  "ID_835d91ce": {
+    "healthy": 1
+  },
+  "ID_96cc52ba": {
+    "healthy": 1
+  },
+  "ID_c62ab4c9": {
+    "healthy": 1
+  },
+  "ID_33c69e52": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_7bdd793f": {
+    "healthy": 1
+  },
+  "ID_c0257ff9": {
+    "healthy": 1
+  },
+  "ID_b31ea623": {
+    "healthy": 1
+  },
+  "ID_1112543c": {
+    "healthy": 1
+  },
+  "ID_0d0f361b": {
+    "healthy": 1
+  },
+  "ID_a990e72b": {
+    "healthy": 1
+  },
+  "ID_a2bdb55d": {
+    "healthy": 1
+  },
+  "ID_d559c35d": {
+    "healthy": 1
+  },
+  "ID_d72217c2": {
+    "healthy": 1
+  },
+  "ID_64d0c678": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_d8aabc0a": {
+    "healthy": 1
+  },
+  "ID_f77f2422": {
+    "healthy": 1
+  },
+  "ID_0d1f0b77": {
+    "healthy": 1
+  },
+  "ID_1e9e02d0": {
+    "healthy": 1
+  },
+  "ID_501b4a30": {
+    "healthy": 1
+  },
+  "ID_02f779fb": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "subarachnoid": 2
+  },
+  "ID_506cbd17": {
+    "healthy": 1
+  },
+  "ID_5a631c20": {
+    "healthy": 1
+  },
+  "ID_98e00832": {
+    "healthy": 1
+  },
+  "ID_8b3dfd59": {
+    "healthy": 1
+  },
+  "ID_9297e32b": {
+    "healthy": 1
+  },
+  "ID_5f3dcabd": {
+    "healthy": 1
+  },
+  "ID_b447fab9": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_3959f44b": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_8931541c": {
+    "healthy": 1
+  },
+  "ID_74c7b6f6": {
+    "healthy": 1
+  },
+  "ID_e0a0b072": {
+    "healthy": 1
+  },
+  "ID_38e588ce": {
+    "healthy": 1
+  },
+  "ID_61ed49a7": {
+    "healthy": 1
+  },
+  "ID_ddef688d": {
+    "healthy": 1
+  },
+  "ID_ab775264": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_323a0c0b": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "subarachnoid": 1,
+    "subdural": 3
+  },
+  "ID_c53e53eb": {
+    "healthy": 1
+  },
+  "ID_cba8105a": {
+    "healthy": 1
+  },
+  "ID_8c958cd7": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_92294f57": {
+    "healthy": 1
+  },
+  "ID_0475a455": {
+    "healthy": 1
+  },
+  "ID_d0b84a58": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_25ac1eca": {
+    "healthy": 1
+  },
+  "ID_d721470e": {
+    "healthy": 1,
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_93d0e65b": {
+    "healthy": 1
+  },
+  "ID_b39053dd": {
+    "healthy": 1
+  },
+  "ID_0f845eee": {
+    "healthy": 1
+  },
+  "ID_2ebf9380": {
+    "healthy": 1,
+    "intraventricular": 3
+  },
+  "ID_549a3fac": {
+    "healthy": 1
+  },
+  "ID_8b2ff24b": {
+    "healthy": 1
+  },
+  "ID_165e8bbd": {
+    "healthy": 1
+  },
+  "ID_2a26b413": {
+    "healthy": 1
+  },
+  "ID_3c63f200": {
+    "healthy": 1
+  },
+  "ID_e71b6700": {
+    "healthy": 1
+  },
+  "ID_607544ff": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_acff8b41": {
+    "healthy": 1
+  },
+  "ID_827751f2": {
+    "healthy": 1
+  },
+  "ID_5de1f5e6": {
+    "healthy": 1
+  },
+  "ID_8aad4eec": {
+    "healthy": 1
+  },
+  "ID_af2cad41": {
+    "healthy": 1
+  },
+  "ID_6d6820a3": {
+    "healthy": 1
+  },
+  "ID_6985a211": {
+    "healthy": 1
+  },
+  "ID_cc6860e4": {
+    "healthy": 1
+  },
+  "ID_7b4b4ad6": {
+    "healthy": 1
+  },
+  "ID_ed237adb": {
+    "healthy": 1
+  },
+  "ID_05166c03": {
+    "healthy": 1
+  },
+  "ID_a5aa7aeb": {
+    "healthy": 1
+  },
+  "ID_33e26eaf": {
+    "healthy": 2,
+    "intraparenchymal": 1,
+    "intraventricular": 5
+  },
+  "ID_822276a2": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_4d3cb3d4": {
+    "healthy": 1
+  },
+  "ID_e9de1e66": {
+    "healthy": 1
+  },
+  "ID_1dfa5b21": {
+    "healthy": 1
+  },
+  "ID_551f3eeb": {
+    "healthy": 1
+  },
+  "ID_419adf88": {
+    "healthy": 1
+  },
+  "ID_88485bf3": {
+    "healthy": 1
+  },
+  "ID_bf92d683": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_6554837a": {
+    "healthy": 1
+  },
+  "ID_41e0465a": {
+    "healthy": 1
+  },
+  "ID_7d39919c": {
+    "healthy": 1
+  },
+  "ID_939865e4": {
+    "healthy": 1
+  },
+  "ID_1e48ef1c": {
+    "healthy": 1
+  },
+  "ID_0f27dd70": {
+    "healthy": 1
+  },
+  "ID_09d2045f": {
+    "healthy": 1
+  },
+  "ID_3e628503": {
+    "healthy": 1
+  },
+  "ID_5cc14259": {
+    "healthy": 1
+  },
+  "ID_2d190915": {
+    "healthy": 1
+  },
+  "ID_4cb19396": {
+    "healthy": 1
+  },
+  "ID_4913efcf": {
+    "healthy": 1
+  },
+  "ID_cdfee6ca": {
+    "healthy": 1
+  },
+  "ID_70dedcf9": {
+    "healthy": 1
+  },
+  "ID_294ddd4c": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_f3226edd": {
+    "healthy": 1
+  },
+  "ID_b5766012": {
+    "healthy": 1
+  },
+  "ID_8f8bfc71": {
+    "healthy": 1
+  },
+  "ID_ddf19f80": {
+    "healthy": 1
+  },
+  "ID_ac0cf876": {
+    "healthy": 1
+  },
+  "ID_39c814dd": {
+    "healthy": 2
+  },
+  "ID_f00cc9c9": {
+    "healthy": 1
+  },
+  "ID_4dff7413": {
+    "healthy": 1
+  },
+  "ID_14ed6374": {
+    "healthy": 1
+  },
+  "ID_9268a772": {
+    "healthy": 1
+  },
+  "ID_1e71e05a": {
+    "healthy": 1
+  },
+  "ID_2e5447f5": {
+    "healthy": 1
+  },
+  "ID_404bb270": {
+    "healthy": 1
+  },
+  "ID_eec74a75": {
+    "healthy": 1
+  },
+  "ID_264ba535": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_21daa8ce": {
+    "healthy": 1,
+    "intraparenchymal": 3
+  },
+  "ID_907b01cd": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_81ac39a5": {
+    "healthy": 1
+  },
+  "ID_3521556e": {
+    "healthy": 1
+  },
+  "ID_f9662236": {
+    "healthy": 1
+  },
+  "ID_ba7146d2": {
+    "healthy": 2
+  },
+  "ID_7ea2a779": {
+    "healthy": 1
+  },
+  "ID_c6c26fe4": {
+    "healthy": 1
+  },
+  "ID_424a4e71": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_13486f2b": {
+    "healthy": 1
+  },
+  "ID_e1c337fc": {
+    "healthy": 1
+  },
+  "ID_6a656c8c": {
+    "healthy": 1
+  },
+  "ID_ccf54013": {
+    "healthy": 1
+  },
+  "ID_0657250c": {
+    "healthy": 1
+  },
+  "ID_4bcc8462": {
+    "healthy": 1
+  },
+  "ID_22f38530": {
+    "healthy": 1
+  },
+  "ID_1e2d58f5": {
+    "healthy": 1
+  },
+  "ID_65a6ab44": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_3e3d844a": {
+    "healthy": 1
+  },
+  "ID_6b735849": {
+    "healthy": 1
+  },
+  "ID_682a37f5": {
+    "healthy": 1
+  },
+  "ID_f0f40a2a": {
+    "healthy": 1
+  },
+  "ID_e0d8b5d9": {
+    "healthy": 1
+  },
+  "ID_320cb2c7": {
+    "healthy": 1
+  },
+  "ID_7351c061": {
+    "healthy": 1
+  },
+  "ID_647c421e": {
+    "healthy": 1
+  },
+  "ID_7c5d364a": {
+    "healthy": 1
+  },
+  "ID_7abf3ccb": {
+    "healthy": 1
+  },
+  "ID_1282de64": {
+    "healthy": 1
+  },
+  "ID_0a35571a": {
+    "healthy": 1
+  },
+  "ID_7dd4d49c": {
+    "healthy": 1
+  },
+  "ID_3f297326": {
+    "healthy": 1
+  },
+  "ID_e9f4488b": {
+    "healthy": 1
+  },
+  "ID_10c07909": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_abc12fe9": {
+    "healthy": 2
+  },
+  "ID_a0be6fee": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_ad012cb0": {
+    "healthy": 1
+  },
+  "ID_0ce7ddbc": {
+    "healthy": 1
+  },
+  "ID_af7960e3": {
+    "healthy": 1
+  },
+  "ID_015471c8": {
+    "healthy": 1
+  },
+  "ID_58c8a86b": {
+    "healthy": 1
+  },
+  "ID_7c3602e4": {
+    "healthy": 1
+  },
+  "ID_9af829bd": {
+    "healthy": 1
+  },
+  "ID_a9679497": {
+    "healthy": 1
+  },
+  "ID_7b9a8838": {
+    "healthy": 1,
+    "intraparenchymal": 2
+  },
+  "ID_031b4b45": {
+    "healthy": 1
+  },
+  "ID_78040198": {
+    "healthy": 1
+  },
+  "ID_2fce5a81": {
+    "healthy": 1
+  },
+  "ID_917e6b47": {
+    "healthy": 1
+  },
+  "ID_1c9eacb9": {
+    "healthy": 1
+  },
+  "ID_fef05960": {
+    "healthy": 1
+  },
+  "ID_2c53732b": {
+    "healthy": 1
+  },
+  "ID_4bb5a171": {
+    "healthy": 1
+  },
+  "ID_51edac64": {
+    "healthy": 1
+  },
+  "ID_0a3c322a": {
+    "healthy": 1
+  },
+  "ID_a77ca40c": {
+    "healthy": 1
+  },
+  "ID_e895dd1c": {
+    "healthy": 1
+  },
+  "ID_90d48217": {
+    "healthy": 1
+  },
+  "ID_2ed4e37d": {
+    "healthy": 1
+  },
+  "ID_083f644d": {
+    "healthy": 1
+  },
+  "ID_66574892": {
+    "healthy": 1
+  },
+  "ID_12bd4f33": {
+    "healthy": 1
+  },
+  "ID_de00daba": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_33e60842": {
+    "healthy": 1
+  },
+  "ID_f2eceaf2": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_31520222": {
+    "healthy": 1
+  },
+  "ID_e91d3652": {
+    "healthy": 1
+  },
+  "ID_6c4f8067": {
+    "healthy": 1
+  },
+  "ID_a7462f7e": {
+    "healthy": 1
+  },
+  "ID_760dc621": {
+    "healthy": 1
+  },
+  "ID_a9fb228e": {
+    "healthy": 1
+  },
+  "ID_c504dedd": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_ad1dee15": {
+    "healthy": 1
+  },
+  "ID_5d81e0ab": {
+    "healthy": 1
+  },
+  "ID_18e16208": {
+    "healthy": 2,
+    "intraparenchymal": 2
+  },
+  "ID_3c049e38": {
+    "healthy": 1
+  },
+  "ID_6358cde3": {
+    "healthy": 1
+  },
+  "ID_6837f845": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_88030977": {
+    "healthy": 1
+  },
+  "ID_25950ca7": {
+    "healthy": 1
+  },
+  "ID_34469f25": {
+    "healthy": 2
+  },
+  "ID_28cc5cf5": {
+    "healthy": 1
+  },
+  "ID_1e1aae48": {
+    "healthy": 1
+  },
+  "ID_9b017c03": {
+    "healthy": 1
+  },
+  "ID_c638c66f": {
+    "healthy": 1
+  },
+  "ID_9dfb8d7a": {
+    "healthy": 1
+  },
+  "ID_d65349ae": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_ea13ed34": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_42e1df3a": {
+    "healthy": 1
+  },
+  "ID_232a9b95": {
+    "healthy": 1
+  },
+  "ID_5117f9bf": {
+    "healthy": 2,
+    "subarachnoid": 8
+  },
+  "ID_bfe2d5bd": {
+    "healthy": 1
+  },
+  "ID_6b257d60": {
+    "healthy": 1
+  },
+  "ID_7480ca8c": {
+    "healthy": 1
+  },
+  "ID_51ac8454": {
+    "healthy": 1
+  },
+  "ID_883b0ece": {
+    "healthy": 1
+  },
+  "ID_651ef9ca": {
+    "healthy": 1
+  },
+  "ID_23fef42b": {
+    "healthy": 1
+  },
+  "ID_61ab9815": {
+    "healthy": 1
+  },
+  "ID_f772d97c": {
+    "healthy": 1
+  },
+  "ID_6152f77c": {
+    "healthy": 1
+  },
+  "ID_ab0d55dc": {
+    "healthy": 1
+  },
+  "ID_a0ac77af": {
+    "healthy": 1
+  },
+  "ID_1ee15ca7": {
+    "healthy": 1
+  },
+  "ID_f4f364b4": {
+    "healthy": 1,
+    "intraventricular": 2
+  },
+  "ID_33a05aa7": {
+    "healthy": 1
+  },
+  "ID_73a09ce8": {
+    "healthy": 1
+  },
+  "ID_f9ab3774": {
+    "healthy": 1
+  },
+  "ID_18170c47": {
+    "healthy": 1
+  },
+  "ID_881a520c": {
+    "healthy": 1
+  },
+  "ID_e1ed2e81": {
+    "healthy": 1
+  },
+  "ID_71530cf5": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_cbe4d402": {
+    "healthy": 1
+  },
+  "ID_da7bc99c": {
+    "healthy": 1
+  },
+  "ID_5dd1a0a9": {
+    "healthy": 1
+  },
+  "ID_03c27d89": {
+    "healthy": 1
+  },
+  "ID_cd2cd174": {
+    "healthy": 1
+  },
+  "ID_ee2df115": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_97f29c50": {
+    "healthy": 1,
+    "intraventricular": 2
+  },
+  "ID_67ab4da2": {
+    "healthy": 1
+  },
+  "ID_6a52948e": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_80be1498": {
+    "healthy": 1
+  },
+  "ID_ee547514": {
+    "healthy": 1
+  },
+  "ID_ec3688a6": {
+    "healthy": 1
+  },
+  "ID_3ae81c2d": {
+    "healthy": 1
+  },
+  "ID_66b4c82c": {
+    "healthy": 1
+  },
+  "ID_96a5c837": {
+    "healthy": 1
+  },
+  "ID_a4c3807f": {
+    "healthy": 1
+  },
+  "ID_0ab04035": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_4e543d8e": {
+    "healthy": 1
+  },
+  "ID_8aa838ec": {
+    "healthy": 1
+  },
+  "ID_87572210": {
+    "healthy": 1
+  },
+  "ID_5a67f6db": {
+    "healthy": 1
+  },
+  "ID_5f3bc633": {
+    "healthy": 1
+  },
+  "ID_29222f4e": {
+    "healthy": 1
+  },
+  "ID_d79bbd03": {
+    "healthy": 1
+  },
+  "ID_25fe2dd2": {
+    "healthy": 1
+  },
+  "ID_6288ad4c": {
+    "healthy": 1
+  },
+  "ID_63cfba4b": {
+    "healthy": 1
+  },
+  "ID_b2852766": {
+    "healthy": 1
+  },
+  "ID_d85f2708": {
+    "healthy": 1
+  },
+  "ID_d08a8ccf": {
+    "healthy": 1
+  },
+  "ID_e01dfc0c": {
+    "healthy": 1
+  },
+  "ID_5ddd9657": {
+    "healthy": 1
+  },
+  "ID_572f5ead": {
+    "healthy": 1
+  },
+  "ID_34be79b0": {
+    "healthy": 1
+  },
+  "ID_f7c2f01d": {
+    "healthy": 1
+  },
+  "ID_ac178241": {
+    "healthy": 1
+  },
+  "ID_4a5cab9b": {
+    "healthy": 1
+  },
+  "ID_096ce185": {
+    "healthy": 1
+  },
+  "ID_3e9eaa61": {
+    "healthy": 1
+  },
+  "ID_1f2289a1": {
+    "healthy": 1
+  },
+  "ID_3a544285": {
+    "healthy": 1
+  },
+  "ID_96462e69": {
+    "healthy": 1
+  },
+  "ID_7092995c": {
+    "healthy": 1
+  },
+  "ID_cf409bad": {
+    "healthy": 1
+  },
+  "ID_e1ae9b26": {
+    "healthy": 1
+  },
+  "ID_d0c6227e": {
+    "healthy": 1
+  },
+  "ID_3d53f63c": {
+    "healthy": 1
+  },
+  "ID_9622dd5e": {
+    "healthy": 1
+  },
+  "ID_9acb75e3": {
+    "healthy": 1
+  },
+  "ID_c3769f3a": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_b8c547b7": {
+    "healthy": 1
+  },
+  "ID_44ddd9d9": {
+    "healthy": 1
+  },
+  "ID_984202c4": {
+    "healthy": 1
+  },
+  "ID_ffadefb3": {
+    "healthy": 1
+  },
+  "ID_edbe2c1b": {
+    "healthy": 1
+  },
+  "ID_ae840ea3": {
+    "healthy": 1
+  },
+  "ID_9e610649": {
+    "healthy": 1
+  },
+  "ID_e478d355": {
+    "healthy": 1
+  },
+  "ID_71dd0662": {
+    "healthy": 1
+  },
+  "ID_fc6d8c72": {
+    "healthy": 1
+  },
+  "ID_de996ff3": {
+    "healthy": 1
+  },
+  "ID_5caa9ecd": {
+    "healthy": 1
+  },
+  "ID_e2c7206b": {
+    "healthy": 1
+  },
+  "ID_3b6bcf48": {
+    "healthy": 1
+  },
+  "ID_1ce93dde": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_b2cd8791": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_c1296360": {
+    "healthy": 1
+  },
+  "ID_c39f3da7": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_4c3dea53": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_c28b4d30": {
+    "healthy": 1
+  },
+  "ID_a4ae7048": {
+    "healthy": 1
+  },
+  "ID_d10d3b59": {
+    "healthy": 1
+  },
+  "ID_09ac4875": {
+    "healthy": 1,
+    "intraventricular": 2
+  },
+  "ID_a38fe4b6": {
+    "healthy": 1
+  },
+  "ID_c782bb75": {
+    "healthy": 1
+  },
+  "ID_c9b2d9b3": {
+    "healthy": 2
+  },
+  "ID_d871261b": {
+    "healthy": 1
+  },
+  "ID_24b9cbc7": {
+    "healthy": 1
+  },
+  "ID_dace2e46": {
+    "healthy": 1
+  },
+  "ID_6f066f9b": {
+    "healthy": 1
+  },
+  "ID_258648ec": {
+    "healthy": 1
+  },
+  "ID_a5360db3": {
+    "healthy": 1
+  },
+  "ID_45c7cac3": {
+    "healthy": 1
+  },
+  "ID_b68d1218": {
+    "healthy": 1
+  },
+  "ID_daaf62d1": {
+    "healthy": 1
+  },
+  "ID_f2c14ea8": {
+    "healthy": 1
+  },
+  "ID_334009e6": {
+    "healthy": 1
+  },
+  "ID_4cb50838": {
+    "healthy": 1
+  },
+  "ID_7a342c73": {
+    "healthy": 1
+  },
+  "ID_0307b1bc": {
+    "healthy": 1
+  },
+  "ID_c8ffe7fe": {
+    "healthy": 1
+  },
+  "ID_de938607": {
+    "healthy": 1
+  },
+  "ID_76cf7b4f": {
+    "healthy": 1
+  },
+  "ID_04819e81": {
+    "healthy": 1
+  },
+  "ID_32150121": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_c8ee42c7": {
+    "healthy": 1
+  },
+  "ID_b3ce8042": {
+    "healthy": 1
+  },
+  "ID_23ffa2d1": {
+    "healthy": 1
+  },
+  "ID_f7fbe666": {
+    "healthy": 1
+  },
+  "ID_feaaf8dc": {
+    "healthy": 1
+  },
+  "ID_4a70082f": {
+    "healthy": 1
+  },
+  "ID_be09d60c": {
+    "healthy": 1
+  },
+  "ID_9d76d970": {
+    "healthy": 1
+  },
+  "ID_4b47c322": {
+    "healthy": 1
+  },
+  "ID_b220771e": {
+    "healthy": 1
+  },
+  "ID_4dde0ec5": {
+    "healthy": 1
+  },
+  "ID_b2f8ff72": {
+    "healthy": 1
+  },
+  "ID_30c59756": {
+    "healthy": 1
+  },
+  "ID_f5b01ca3": {
+    "healthy": 1
+  },
+  "ID_dedc71d2": {
+    "healthy": 1
+  },
+  "ID_dfaf0c89": {
+    "healthy": 1
+  },
+  "ID_448ca3fa": {
+    "healthy": 1
+  },
+  "ID_3de53d66": {
+    "healthy": 1
+  },
+  "ID_111db8c2": {
+    "healthy": 1
+  },
+  "ID_60f71816": {
+    "healthy": 1
+  },
+  "ID_9da37a1b": {
+    "healthy": 1
+  },
+  "ID_5e536edb": {
+    "healthy": 1
+  },
+  "ID_f89f90d4": {
+    "healthy": 1
+  },
+  "ID_4ca4f72c": {
+    "healthy": 1
+  },
+  "ID_e215810f": {
+    "healthy": 2
+  },
+  "ID_f5cdc448": {
+    "healthy": 1
+  },
+  "ID_5ed6d1e1": {
+    "healthy": 1
+  },
+  "ID_752e8968": {
+    "healthy": 1
+  },
+  "ID_c2b06d86": {
+    "healthy": 1
+  },
+  "ID_63df10a9": {
+    "healthy": 1
+  },
+  "ID_b84e241b": {
+    "healthy": 1
+  },
+  "ID_5b38772a": {
+    "healthy": 1
+  },
+  "ID_e4886f40": {
+    "healthy": 1
+  },
+  "ID_e4d9cfe1": {
+    "healthy": 1
+  },
+  "ID_c2068699": {
+    "healthy": 1
+  },
+  "ID_7f32d6e9": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_69b4a608": {
+    "healthy": 1
+  },
+  "ID_9f433466": {
+    "healthy": 1
+  },
+  "ID_92d6579c": {
+    "healthy": 1
+  },
+  "ID_bdaa75c5": {
+    "healthy": 1
+  },
+  "ID_5508aaa8": {
+    "healthy": 1
+  },
+  "ID_a95e2a3a": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_5df95615": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_793b5f86": {
+    "healthy": 1
+  },
+  "ID_138f1ee6": {
+    "healthy": 1
+  },
+  "ID_ab1ba874": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_a3b0687f": {
+    "healthy": 1
+  },
+  "ID_2b915b9b": {
+    "healthy": 1
+  },
+  "ID_a19b4867": {
+    "healthy": 1
+  },
+  "ID_fd7947f1": {
+    "healthy": 1
+  },
+  "ID_8c9fd387": {
+    "healthy": 1
+  },
+  "ID_9156d773": {
+    "healthy": 1
+  },
+  "ID_cbae67f6": {
+    "healthy": 1
+  },
+  "ID_b4dc0fe8": {
+    "healthy": 1
+  },
+  "ID_eeed63b2": {
+    "healthy": 1
+  },
+  "ID_83e2d0dd": {
+    "healthy": 1
+  },
+  "ID_bfa485f1": {
+    "healthy": 1
+  },
+  "ID_7174641a": {
+    "healthy": 1
+  },
+  "ID_c8e1a704": {
+    "healthy": 1
+  },
+  "ID_63a3a20e": {
+    "healthy": 1
+  },
+  "ID_632befe8": {
+    "healthy": 1
+  },
+  "ID_26d3d601": {
+    "healthy": 1
+  },
+  "ID_3d1ec99f": {
+    "healthy": 1
+  },
+  "ID_db6de618": {
+    "healthy": 1
+  },
+  "ID_79c40b30": {
+    "healthy": 1
+  },
+  "ID_a0b76f75": {
+    "healthy": 1
+  },
+  "ID_7696f054": {
+    "healthy": 1
+  },
+  "ID_9b641e03": {
+    "healthy": 1
+  },
+  "ID_f0e3047e": {
+    "healthy": 1
+  },
+  "ID_40b402d1": {
+    "healthy": 1
+  },
+  "ID_91e01be5": {
+    "healthy": 1
+  },
+  "ID_fecb36f5": {
+    "healthy": 1
+  },
+  "ID_bd87618c": {
+    "healthy": 1
+  },
+  "ID_5b469eb2": {
+    "healthy": 1
+  },
+  "ID_264dc2d3": {
+    "healthy": 1
+  },
+  "ID_aba191b2": {
+    "healthy": 1
+  },
+  "ID_f2abe525": {
+    "healthy": 1
+  },
+  "ID_f8195f8f": {
+    "healthy": 1
+  },
+  "ID_356ab4c2": {
+    "healthy": 1
+  },
+  "ID_db79698d": {
+    "healthy": 1
+  },
+  "ID_4bb80799": {
+    "healthy": 1
+  },
+  "ID_b660e753": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_92d0d795": {
+    "healthy": 1
+  },
+  "ID_a825a9d4": {
+    "healthy": 1
+  },
+  "ID_0b902b36": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_a4a0c8d2": {
+    "healthy": 1
+  },
+  "ID_aac9b6e5": {
+    "healthy": 1
+  },
+  "ID_7684c4b6": {
+    "healthy": 1
+  },
+  "ID_a74d8c13": {
+    "healthy": 1
+  },
+  "ID_eaa70790": {
+    "healthy": 1
+  },
+  "ID_5558448f": {
+    "healthy": 1
+  },
+  "ID_a50040f9": {
+    "healthy": 1
+  },
+  "ID_8592afd7": {
+    "healthy": 1
+  },
+  "ID_eac5718d": {
+    "healthy": 1,
+    "intraventricular": 2,
+    "subarachnoid": 1
+  },
+  "ID_997a6a4c": {
+    "healthy": 1
+  },
+  "ID_31092827": {
+    "healthy": 1
+  },
+  "ID_9b41d8ef": {
+    "healthy": 1
+  },
+  "ID_803b893f": {
+    "healthy": 1
+  },
+  "ID_3370a5fe": {
+    "healthy": 1
+  },
+  "ID_0f03698d": {
+    "healthy": 1,
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_d2e0da4c": {
+    "healthy": 1
+  },
+  "ID_55513c6e": {
+    "healthy": 1
+  },
+  "ID_5fef5fbe": {
+    "healthy": 1
+  },
+  "ID_19539b5f": {
+    "healthy": 1
+  },
+  "ID_cfcbaa47": {
+    "healthy": 1
+  },
+  "ID_7855c723": {
+    "healthy": 1
+  },
+  "ID_26d7a071": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_36bc0a1c": {
+    "healthy": 1
+  },
+  "ID_8c74e004": {
+    "healthy": 1
+  },
+  "ID_ff0ef658": {
+    "healthy": 1,
+    "intraparenchymal": 2,
+    "intraventricular": 4,
+    "subarachnoid": 1
+  },
+  "ID_24ee7809": {
+    "healthy": 1
+  },
+  "ID_a8b9a80c": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_2c2c9fa9": {
+    "healthy": 1
+  },
+  "ID_a60ad53b": {
+    "healthy": 1
+  },
+  "ID_ff2437a9": {
+    "healthy": 1
+  },
+  "ID_55d11ef7": {
+    "healthy": 1
+  },
+  "ID_6a1d0700": {
+    "healthy": 1
+  },
+  "ID_9f027843": {
+    "healthy": 1,
+    "subdural": 3
+  },
+  "ID_c6f3dc82": {
+    "healthy": 1
+  },
+  "ID_b2fa61be": {
+    "healthy": 1
+  },
+  "ID_ac6e1c61": {
+    "healthy": 1
+  },
+  "ID_0508409d": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_682f37bc": {
+    "healthy": 1
+  },
+  "ID_e8473099": {
+    "healthy": 1
+  },
+  "ID_3481ed3e": {
+    "healthy": 1
+  },
+  "ID_0d3cb1d2": {
+    "healthy": 1
+  },
+  "ID_7af4d520": {
+    "healthy": 1
+  },
+  "ID_d66e6cea": {
+    "healthy": 1
+  },
+  "ID_6b74e297": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_db5ec483": {
+    "healthy": 1
+  },
+  "ID_55cc3479": {
+    "healthy": 1
+  },
+  "ID_d6d1c9e1": {
+    "healthy": 1
+  },
+  "ID_90835b63": {
+    "healthy": 1
+  },
+  "ID_2b37f3b2": {
+    "healthy": 1
+  },
+  "ID_18857cf2": {
+    "healthy": 1,
+    "intraparenchymal": 2
+  },
+  "ID_52e61dac": {
+    "healthy": 1
+  },
+  "ID_a874f137": {
+    "healthy": 1
+  },
+  "ID_06c7d632": {
+    "healthy": 1
+  },
+  "ID_d781cab7": {
+    "healthy": 1
+  },
+  "ID_35a8c625": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_82301f9b": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_f665a745": {
+    "healthy": 1
+  },
+  "ID_e2f9fc7f": {
+    "healthy": 1
+  },
+  "ID_7481a5d5": {
+    "healthy": 1
+  },
+  "ID_bf1e691b": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_1a05e7aa": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_0eb18335": {
+    "healthy": 1
+  },
+  "ID_1b8e6d29": {
+    "healthy": 1
+  },
+  "ID_d0a758aa": {
+    "healthy": 1
+  },
+  "ID_d922d235": {
+    "healthy": 1
+  },
+  "ID_ac1d904a": {
+    "healthy": 1
+  },
+  "ID_58d9377d": {
+    "healthy": 1
+  },
+  "ID_2ccad886": {
+    "healthy": 1
+  },
+  "ID_7855c784": {
+    "healthy": 1
+  },
+  "ID_1eeb77fe": {
+    "healthy": 1
+  },
+  "ID_a8333cb5": {
+    "healthy": 1
+  },
+  "ID_778967e4": {
+    "healthy": 1
+  },
+  "ID_52901698": {
+    "healthy": 1
+  },
+  "ID_d605c27a": {
+    "healthy": 1
+  },
+  "ID_d3a6ac57": {
+    "healthy": 1
+  },
+  "ID_73ce26d7": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_fe24014f": {
+    "healthy": 1
+  },
+  "ID_8bbe99c9": {
+    "healthy": 1
+  },
+  "ID_74e102b8": {
+    "healthy": 1,
+    "intraparenchymal": 2
+  },
+  "ID_7fc02933": {
+    "healthy": 1,
+    "subdural": 3
+  },
+  "ID_cf56b157": {
+    "healthy": 1
+  },
+  "ID_2589802c": {
+    "healthy": 1
+  },
+  "ID_71657234": {
+    "healthy": 1
+  },
+  "ID_009cae85": {
+    "healthy": 1
+  },
+  "ID_40ee999b": {
+    "healthy": 1
+  },
+  "ID_d6c8a691": {
+    "healthy": 1,
+    "intraparenchymal": 2,
+    "subarachnoid": 1
+  },
+  "ID_b9b8c408": {
+    "healthy": 1
+  },
+  "ID_eef431b9": {
+    "healthy": 1,
+    "intraventricular": 2
+  },
+  "ID_b817086c": {
+    "healthy": 1,
+    "intraparenchymal": 2
+  },
+  "ID_bdd9bde2": {
+    "healthy": 1
+  },
+  "ID_50713bdb": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_62a71aed": {
+    "healthy": 1
+  },
+  "ID_84387574": {
+    "healthy": 1
+  },
+  "ID_eacae737": {
+    "healthy": 1
+  },
+  "ID_c33465f0": {
+    "healthy": 1
+  },
+  "ID_1158082c": {
+    "healthy": 1
+  },
+  "ID_725b9cfc": {
+    "healthy": 1
+  },
+  "ID_7d79962a": {
+    "healthy": 1
+  },
+  "ID_8492cc67": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_a9fe41fd": {
+    "healthy": 1
+  },
+  "ID_2ff47295": {
+    "healthy": 1
+  },
+  "ID_6094bc64": {
+    "healthy": 1
+  },
+  "ID_0aa6657c": {
+    "healthy": 1
+  },
+  "ID_a83b4937": {
+    "healthy": 1
+  },
+  "ID_dcf037b5": {
+    "healthy": 1
+  },
+  "ID_782599c8": {
+    "healthy": 1
+  },
+  "ID_318df29d": {
+    "healthy": 1
+  },
+  "ID_2b32c840": {
+    "healthy": 1
+  },
+  "ID_124b9430": {
+    "healthy": 1
+  },
+  "ID_22552356": {
+    "healthy": 1
+  },
+  "ID_18980436": {
+    "healthy": 1
+  },
+  "ID_c66bf112": {
+    "healthy": 1
+  },
+  "ID_b3792edb": {
+    "healthy": 1
+  },
+  "ID_9e469702": {
+    "healthy": 1
+  },
+  "ID_477bbe72": {
+    "healthy": 1
+  },
+  "ID_3bc81c6b": {
+    "healthy": 1
+  },
+  "ID_245df219": {
+    "healthy": 1
+  },
+  "ID_5bf5c909": {
+    "healthy": 1
+  },
+  "ID_ed03f4d3": {
+    "healthy": 1
+  },
+  "ID_1806a2d5": {
+    "healthy": 1
+  },
+  "ID_7539d21c": {
+    "healthy": 1
+  },
+  "ID_3a1ab345": {
+    "healthy": 1
+  },
+  "ID_17d6d6d3": {
+    "healthy": 1
+  },
+  "ID_58fd06ca": {
+    "healthy": 1
+  },
+  "ID_7f1fbb56": {
+    "healthy": 1
+  },
+  "ID_96bb2a7c": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_c94a3cb2": {
+    "healthy": 1
+  },
+  "ID_0803f6d3": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_73948586": {
+    "healthy": 2
+  },
+  "ID_7c5cf0c0": {
+    "healthy": 1
+  },
+  "ID_1c46b4a3": {
+    "healthy": 1
+  },
+  "ID_d49c8f32": {
+    "healthy": 1
+  },
+  "ID_0d952528": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_dec4e956": {
+    "healthy": 1
+  },
+  "ID_e1ad7ed7": {
+    "healthy": 1
+  },
+  "ID_c96869b4": {
+    "healthy": 1,
+    "subdural": 2
+  },
+  "ID_29fe1024": {
+    "healthy": 1
+  },
+  "ID_55bfa4fd": {
+    "healthy": 1
+  },
+  "ID_4419398c": {
+    "healthy": 1
+  },
+  "ID_bd0f8923": {
+    "healthy": 1
+  },
+  "ID_a0c5ab75": {
+    "healthy": 1
+  },
+  "ID_1278204b": {
+    "healthy": 1
+  },
+  "ID_1ab55eeb": {
+    "healthy": 1
+  },
+  "ID_f8e8e3b1": {
+    "healthy": 1
+  },
+  "ID_7d358982": {
+    "healthy": 1
+  },
+  "ID_b5bf431e": {
+    "healthy": 1
+  },
+  "ID_be140856": {
+    "healthy": 1
+  },
+  "ID_d93f1dd6": {
+    "healthy": 1
+  },
+  "ID_4858aacd": {
+    "healthy": 1
+  },
+  "ID_f7258f07": {
+    "healthy": 1
+  },
+  "ID_45438087": {
+    "healthy": 1
+  },
+  "ID_c9c4e004": {
+    "healthy": 1
+  },
+  "ID_ff6613a0": {
+    "healthy": 1
+  },
+  "ID_d5fddd83": {
+    "healthy": 1
+  },
+  "ID_7ddf5de3": {
+    "healthy": 1
+  },
+  "ID_fb45ed82": {
+    "healthy": 1
+  },
+  "ID_c8f3d848": {
+    "healthy": 1
+  },
+  "ID_69dfe91d": {
+    "healthy": 1
+  },
+  "ID_6d3e003b": {
+    "healthy": 1
+  },
+  "ID_40346595": {
+    "healthy": 1
+  },
+  "ID_bbd101aa": {
+    "healthy": 1
+  },
+  "ID_c089cc5c": {
+    "healthy": 1
+  },
+  "ID_0b842cc4": {
+    "healthy": 1
+  },
+  "ID_636b0976": {
+    "healthy": 1
+  },
+  "ID_2e8c6992": {
+    "healthy": 1
+  },
+  "ID_b99cba1f": {
+    "healthy": 1,
+    "subdural": 1
+  },
+  "ID_545695d6": {
+    "healthy": 1
+  },
+  "ID_9a807ed6": {
+    "healthy": 1
+  },
+  "ID_45904266": {
+    "healthy": 1
+  },
+  "ID_739fc738": {
+    "healthy": 1
+  },
+  "ID_eab14924": {
+    "healthy": 1
+  },
+  "ID_0d4eb267": {
+    "healthy": 1
+  },
+  "ID_13e64853": {
+    "healthy": 1
+  },
+  "ID_d80dcd28": {
+    "healthy": 1
+  },
+  "ID_d0363806": {
+    "healthy": 1
+  },
+  "ID_61c423e3": {
+    "healthy": 1
+  },
+  "ID_b6cdcfd8": {
+    "healthy": 1
+  },
+  "ID_ea6d6af9": {
+    "healthy": 1
+  },
+  "ID_a82aa655": {
+    "healthy": 1
+  },
+  "ID_147f4167": {
+    "healthy": 1
+  },
+  "ID_2829c960": {
+    "healthy": 1
+  },
+  "ID_98b10cbd": {
+    "healthy": 1
+  },
+  "ID_3e0173a9": {
+    "healthy": 1,
+    "intraparenchymal": 1
+  },
+  "ID_021124a5": {
+    "healthy": 1
+  },
+  "ID_3f72dd67": {
+    "healthy": 1
+  },
+  "ID_b9797064": {
+    "healthy": 1
+  },
+  "ID_bc4ea3f7": {
+    "healthy": 1
+  },
+  "ID_228dceac": {
+    "healthy": 1
+  },
+  "ID_4ae95aa6": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_1d8bbd59": {
+    "healthy": 1
+  },
+  "ID_fb2d3816": {
+    "healthy": 1
+  },
+  "ID_67b04dd8": {
+    "healthy": 1
+  },
+  "ID_dd672ced": {
+    "healthy": 1
+  },
+  "ID_12b839e5": {
+    "healthy": 1
+  },
+  "ID_ceedb69a": {
+    "healthy": 1,
+    "intraventricular": 1
+  },
+  "ID_ebb62360": {
+    "healthy": 1
+  },
+  "ID_7a1b977e": {
+    "healthy": 1
+  },
+  "ID_c5e13702": {
+    "healthy": 1
+  },
+  "ID_42bd7022": {
+    "healthy": 1
+  },
+  "ID_f1c39c27": {
+    "healthy": 1,
+    "subarachnoid": 2
+  },
+  "ID_6534a7b2": {
+    "healthy": 1
+  },
+  "ID_bb3626fb": {
+    "healthy": 1
+  },
+  "ID_e9f7cd32": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_6e19df89": {
+    "healthy": 1
+  },
+  "ID_c6bbe414": {
+    "healthy": 1
+  },
+  "ID_1dbc0d64": {
+    "healthy": 1
+  },
+  "ID_a27ca0c9": {
+    "healthy": 1
+  },
+  "ID_141458f1": {
+    "healthy": 1
+  },
+  "ID_c79ad1bf": {
+    "healthy": 1,
+    "subarachnoid": 1
+  },
+  "ID_268b38fe": {
+    "healthy": 1,
+    "intraparenchymal": 2,
+    "intraventricular": 1,
+    "subarachnoid": 4
+  },
+  "ID_00eead0b": {
+    "healthy": 1
+  },
+  "ID_3d2e8725": {
+    "healthy": 1,
+    "intraparenchymal": 2
+  },
+  "ID_6fc9ffc5": {
+    "healthy": 1
+  },
+  "ID_b3ca2164": {
+    "healthy": 1
+  },
+  "ID_16205502": {
+    "healthy": 1,
+    "subdural": 2
+  },
+  "ID_65570143": {
+    "healthy": 1,
+    "intraparenchymal": 1,
+    "intraventricular": 3
+  },
+  "ID_baf23a0f": {
+    "healthy": 1
+  },
+  "ID_da5a72ca": {
+    "intraparenchymal": 2
+  },
+  "ID_3576873c": {
+    "intraparenchymal": 2
+  },
+  "ID_186b5f45": {
+    "intraparenchymal": 3
+  },
+  "ID_e8fe82da": {
+    "intraparenchymal": 1,
+    "intraventricular": 2,
+    "subarachnoid": 1
+  },
+  "ID_b6768893": {
+    "intraparenchymal": 1
+  },
+  "ID_0fe6803a": {
+    "intraparenchymal": 3
+  },
+  "ID_f3121a61": {
+    "intraparenchymal": 1
+  },
+  "ID_44608181": {
+    "intraparenchymal": 1,
+    "intraventricular": 7,
+    "subarachnoid": 1
+  },
+  "ID_f08d80dc": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_35f26ca4": {
+    "intraparenchymal": 1
+  },
+  "ID_e56a89e1": {
+    "intraparenchymal": 1
+  },
+  "ID_0cb5642c": {
+    "intraparenchymal": 1
+  },
+  "ID_fff502d5": {
+    "intraparenchymal": 2
+  },
+  "ID_205faae1": {
+    "intraparenchymal": 1
+  },
+  "ID_28d52dd2": {
+    "intraparenchymal": 2
+  },
+  "ID_12aace91": {
+    "intraparenchymal": 1
+  },
+  "ID_1a12135c": {
+    "intraparenchymal": 4
+  },
+  "ID_9870c7ec": {
+    "intraparenchymal": 1
+  },
+  "ID_50eeebcf": {
+    "intraparenchymal": 1
+  },
+  "ID_52602196": {
+    "intraparenchymal": 3
+  },
+  "ID_e4d02843": {
+    "intraparenchymal": 1
+  },
+  "ID_31c05e49": {
+    "intraparenchymal": 1
+  },
+  "ID_d59f8a11": {
+    "intraparenchymal": 3
+  },
+  "ID_45834c0f": {
+    "intraparenchymal": 1
+  },
+  "ID_6497ed37": {
+    "intraparenchymal": 1
+  },
+  "ID_bb5e42d0": {
+    "intraparenchymal": 1
+  },
+  "ID_6c817f7f": {
+    "intraparenchymal": 1
+  },
+  "ID_445e2341": {
+    "intraparenchymal": 2
+  },
+  "ID_a7161629": {
+    "intraparenchymal": 1
+  },
+  "ID_ea4a84fc": {
+    "intraparenchymal": 3,
+    "subarachnoid": 1
+  },
+  "ID_1c25d1f2": {
+    "intraparenchymal": 2
+  },
+  "ID_c868505f": {
+    "intraparenchymal": 1
+  },
+  "ID_7ee052ff": {
+    "intraparenchymal": 1
+  },
+  "ID_3956b469": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_2378f0b7": {
+    "intraparenchymal": 2,
+    "subarachnoid": 1
+  },
+  "ID_7af4d3f6": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_fe208961": {
+    "intraparenchymal": 3
+  },
+  "ID_bd8b1bf8": {
+    "intraparenchymal": 1
+  },
+  "ID_a66b6cf6": {
+    "intraparenchymal": 1
+  },
+  "ID_a3f71e25": {
+    "intraparenchymal": 1
+  },
+  "ID_0bedea53": {
+    "intraparenchymal": 1
+  },
+  "ID_41be649c": {
+    "intraparenchymal": 1
+  },
+  "ID_18127557": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_5b20477d": {
+    "intraparenchymal": 2
+  },
+  "ID_fdd74e44": {
+    "intraparenchymal": 1
+  },
+  "ID_332c6aa2": {
+    "intraparenchymal": 2,
+    "subdural": 1
+  },
+  "ID_a0ea897e": {
+    "intraparenchymal": 1
+  },
+  "ID_768d04c1": {
+    "intraparenchymal": 2
+  },
+  "ID_be31ec78": {
+    "intraparenchymal": 2
+  },
+  "ID_4731cad5": {
+    "intraparenchymal": 5
+  },
+  "ID_d2df5851": {
+    "intraparenchymal": 1
+  },
+  "ID_c6a52782": {
+    "intraparenchymal": 3
+  },
+  "ID_dd7984b2": {
+    "intraparenchymal": 1
+  },
+  "ID_8676cf8c": {
+    "intraparenchymal": 1
+  },
+  "ID_e874b8c9": {
+    "intraparenchymal": 3
+  },
+  "ID_47205cd5": {
+    "intraparenchymal": 1
+  },
+  "ID_baa892b0": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_d187f1a0": {
+    "intraparenchymal": 1
+  },
+  "ID_1eb6ed8e": {
+    "intraparenchymal": 4
+  },
+  "ID_c2abd321": {
+    "intraparenchymal": 1
+  },
+  "ID_61bf05ca": {
+    "intraparenchymal": 2
+  },
+  "ID_b7c176bb": {
+    "intraparenchymal": 2
+  },
+  "ID_5822f02b": {
+    "intraparenchymal": 1
+  },
+  "ID_4545b272": {
+    "intraparenchymal": 2
+  },
+  "ID_eb2f4336": {
+    "intraparenchymal": 1
+  },
+  "ID_ca2d3746": {
+    "intraparenchymal": 1
+  },
+  "ID_b5fa40b5": {
+    "intraparenchymal": 1
+  },
+  "ID_dca1dd33": {
+    "intraparenchymal": 1
+  },
+  "ID_84c664c7": {
+    "intraparenchymal": 1
+  },
+  "ID_dc09fe49": {
+    "intraparenchymal": 1
+  },
+  "ID_29580daf": {
+    "intraparenchymal": 2
+  },
+  "ID_bcceb83c": {
+    "intraparenchymal": 1
+  },
+  "ID_86274a3c": {
+    "intraparenchymal": 1
+  },
+  "ID_19edd875": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_3bc48def": {
+    "intraparenchymal": 1
+  },
+  "ID_c9242368": {
+    "intraparenchymal": 1
+  },
+  "ID_ffc709c0": {
+    "intraparenchymal": 4
+  },
+  "ID_f6d0d5fc": {
+    "intraparenchymal": 1
+  },
+  "ID_7cd83cc2": {
+    "intraparenchymal": 1
+  },
+  "ID_5f978ff3": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_e5494f6c": {
+    "intraparenchymal": 3
+  },
+  "ID_02a8f616": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_b2ed8c2f": {
+    "intraparenchymal": 2
+  },
+  "ID_6f37c3fc": {
+    "intraparenchymal": 2
+  },
+  "ID_8e4447bb": {
+    "intraparenchymal": 2
+  },
+  "ID_c5beae71": {
+    "intraparenchymal": 1
+  },
+  "ID_0b58d657": {
+    "intraparenchymal": 1
+  },
+  "ID_8e954b69": {
+    "intraparenchymal": 2,
+    "subarachnoid": 1
+  },
+  "ID_bab3bc6a": {
+    "intraparenchymal": 1
+  },
+  "ID_58d2ebfa": {
+    "intraparenchymal": 3
+  },
+  "ID_25033f73": {
+    "intraparenchymal": 1
+  },
+  "ID_3f06e85f": {
+    "intraparenchymal": 1
+  },
+  "ID_78abc21e": {
+    "intraparenchymal": 1
+  },
+  "ID_2be598e4": {
+    "intraparenchymal": 1
+  },
+  "ID_08e0e72b": {
+    "intraparenchymal": 1
+  },
+  "ID_b2f84a34": {
+    "intraparenchymal": 3
+  },
+  "ID_867b3488": {
+    "intraparenchymal": 2
+  },
+  "ID_6ad17e99": {
+    "intraparenchymal": 1
+  },
+  "ID_70121b5f": {
+    "intraparenchymal": 1
+  },
+  "ID_bb7fc7d7": {
+    "intraparenchymal": 1
+  },
+  "ID_86541e96": {
+    "intraparenchymal": 1
+  },
+  "ID_7cd8cdf9": {
+    "intraparenchymal": 1
+  },
+  "ID_35d7023b": {
+    "intraparenchymal": 1
+  },
+  "ID_462cddb3": {
+    "intraparenchymal": 3,
+    "subdural": 1
+  },
+  "ID_13b01207": {
+    "intraparenchymal": 2
+  },
+  "ID_3c4bab8c": {
+    "intraparenchymal": 2,
+    "intraventricular": 1
+  },
+  "ID_e0116431": {
+    "intraparenchymal": 1
+  },
+  "ID_136e616e": {
+    "intraparenchymal": 1
+  },
+  "ID_1434c983": {
+    "intraparenchymal": 1
+  },
+  "ID_623e4a54": {
+    "intraparenchymal": 1
+  },
+  "ID_3bc0e94d": {
+    "intraparenchymal": 5
+  },
+  "ID_5926272d": {
+    "intraparenchymal": 3
+  },
+  "ID_34fffd88": {
+    "intraparenchymal": 1
+  },
+  "ID_2488aa10": {
+    "intraparenchymal": 1
+  },
+  "ID_64b7d0f2": {
+    "intraparenchymal": 2
+  },
+  "ID_f2039ba6": {
+    "intraparenchymal": 1
+  },
+  "ID_2d10524e": {
+    "intraparenchymal": 2
+  },
+  "ID_32209df4": {
+    "intraparenchymal": 1
+  },
+  "ID_739323da": {
+    "intraparenchymal": 1
+  },
+  "ID_c5d901c9": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_45ba75fb": {
+    "intraparenchymal": 1
+  },
+  "ID_b91125a1": {
+    "intraparenchymal": 2
+  },
+  "ID_499470c9": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_185c821f": {
+    "intraparenchymal": 2
+  },
+  "ID_88125283": {
+    "intraparenchymal": 2
+  },
+  "ID_b55d06ba": {
+    "intraparenchymal": 2
+  },
+  "ID_c4bfb0ba": {
+    "intraparenchymal": 1
+  },
+  "ID_38d164bd": {
+    "intraparenchymal": 1
+  },
+  "ID_14c5ca98": {
+    "intraparenchymal": 2
+  },
+  "ID_afe6953e": {
+    "intraparenchymal": 1
+  },
+  "ID_277ac13d": {
+    "intraparenchymal": 2
+  },
+  "ID_a529bb49": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_d9ece391": {
+    "intraparenchymal": 1
+  },
+  "ID_33af5bc0": {
+    "intraparenchymal": 1
+  },
+  "ID_a7f1eb0e": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_e9159f46": {
+    "intraparenchymal": 1
+  },
+  "ID_81031dfb": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_21413937": {
+    "intraparenchymal": 2,
+    "subarachnoid": 1
+  },
+  "ID_ee026b13": {
+    "intraparenchymal": 3
+  },
+  "ID_4506eb54": {
+    "intraparenchymal": 1
+  },
+  "ID_852bc014": {
+    "intraparenchymal": 1
+  },
+  "ID_dd2967ee": {
+    "intraparenchymal": 1
+  },
+  "ID_c4e1b9f5": {
+    "intraparenchymal": 3
+  },
+  "ID_574f4335": {
+    "intraparenchymal": 2
+  },
+  "ID_dbabc6d4": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_6d278348": {
+    "intraparenchymal": 1
+  },
+  "ID_4ca49c3b": {
+    "intraparenchymal": 1
+  },
+  "ID_c5fad953": {
+    "intraparenchymal": 2
+  },
+  "ID_97880795": {
+    "intraparenchymal": 1
+  },
+  "ID_ca5aaa97": {
+    "intraparenchymal": 2
+  },
+  "ID_88a0b0a7": {
+    "intraparenchymal": 1
+  },
+  "ID_a1826ebb": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_4f1f1821": {
+    "intraparenchymal": 1,
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_82624eed": {
+    "intraparenchymal": 1
+  },
+  "ID_9d758247": {
+    "intraparenchymal": 1
+  },
+  "ID_6c70bf18": {
+    "intraparenchymal": 4
+  },
+  "ID_91b3716e": {
+    "intraparenchymal": 1
+  },
+  "ID_0f4b0ace": {
+    "intraparenchymal": 3
+  },
+  "ID_a3ee3dbb": {
+    "intraparenchymal": 1
+  },
+  "ID_6292fced": {
+    "intraparenchymal": 1
+  },
+  "ID_6d1719c9": {
+    "intraparenchymal": 1
+  },
+  "ID_74161877": {
+    "intraparenchymal": 1
+  },
+  "ID_7e25d631": {
+    "intraparenchymal": 3
+  },
+  "ID_431170ec": {
+    "intraparenchymal": 1
+  },
+  "ID_6172a307": {
+    "intraparenchymal": 1
+  },
+  "ID_0993c586": {
+    "intraparenchymal": 1
+  },
+  "ID_4285310a": {
+    "intraparenchymal": 1
+  },
+  "ID_bfd8a048": {
+    "intraparenchymal": 1
+  },
+  "ID_f0ddb4bd": {
+    "intraparenchymal": 1
+  },
+  "ID_822a6043": {
+    "intraparenchymal": 1
+  },
+  "ID_95dbfe21": {
+    "intraparenchymal": 1
+  },
+  "ID_3d6d5c25": {
+    "intraparenchymal": 1
+  },
+  "ID_41daa7fb": {
+    "intraparenchymal": 1
+  },
+  "ID_2319d650": {
+    "intraparenchymal": 1
+  },
+  "ID_7a79d731": {
+    "intraparenchymal": 1
+  },
+  "ID_2349a958": {
+    "intraparenchymal": 2
+  },
+  "ID_c40a676b": {
+    "intraparenchymal": 2
+  },
+  "ID_5150137b": {
+    "intraparenchymal": 1
+  },
+  "ID_1419ca0d": {
+    "intraparenchymal": 1
+  },
+  "ID_80d06ebf": {
+    "intraparenchymal": 1
+  },
+  "ID_de5816f6": {
+    "intraparenchymal": 1
+  },
+  "ID_42b5c14d": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_e05a3ff4": {
+    "intraparenchymal": 1
+  },
+  "ID_677f38f6": {
+    "intraparenchymal": 1
+  },
+  "ID_21952137": {
+    "intraparenchymal": 1
+  },
+  "ID_75320bdd": {
+    "intraparenchymal": 2
+  },
+  "ID_ac18b4ae": {
+    "intraparenchymal": 1
+  },
+  "ID_f3be5604": {
+    "intraparenchymal": 1
+  },
+  "ID_ca5c9044": {
+    "intraparenchymal": 2
+  },
+  "ID_c2fc566e": {
+    "intraparenchymal": 1
+  },
+  "ID_c6e6ab15": {
+    "intraparenchymal": 3
+  },
+  "ID_e49e5c51": {
+    "intraparenchymal": 2
+  },
+  "ID_d1150afd": {
+    "intraparenchymal": 2
+  },
+  "ID_0624bc91": {
+    "intraparenchymal": 1
+  },
+  "ID_823749bb": {
+    "intraparenchymal": 1
+  },
+  "ID_e1d48306": {
+    "intraparenchymal": 2
+  },
+  "ID_895444b4": {
+    "intraparenchymal": 1
+  },
+  "ID_916c7a9a": {
+    "intraparenchymal": 1
+  },
+  "ID_e8691c40": {
+    "intraparenchymal": 1
+  },
+  "ID_50ab6b98": {
+    "intraparenchymal": 1
+  },
+  "ID_d3503971": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_9728ab11": {
+    "intraparenchymal": 1
+  },
+  "ID_cbe77d79": {
+    "intraparenchymal": 1
+  },
+  "ID_ce19f7c4": {
+    "intraparenchymal": 1
+  },
+  "ID_67d8de35": {
+    "intraparenchymal": 1
+  },
+  "ID_22583dfc": {
+    "intraparenchymal": 1
+  },
+  "ID_8cad2456": {
+    "intraparenchymal": 1
+  },
+  "ID_9b35e9ae": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_229559fd": {
+    "intraparenchymal": 1
+  },
+  "ID_9fc512c3": {
+    "intraparenchymal": 2,
+    "intraventricular": 2
+  },
+  "ID_df113992": {
+    "intraparenchymal": 1
+  },
+  "ID_a47a3d26": {
+    "intraparenchymal": 1
+  },
+  "ID_9e08f3c7": {
+    "intraparenchymal": 1
+  },
+  "ID_5717d422": {
+    "intraparenchymal": 3
+  },
+  "ID_6f32a59a": {
+    "intraparenchymal": 1
+  },
+  "ID_ce22d504": {
+    "intraparenchymal": 1
+  },
+  "ID_75d7c81d": {
+    "intraparenchymal": 1
+  },
+  "ID_42940b2c": {
+    "intraparenchymal": 3
+  },
+  "ID_cdba3f64": {
+    "intraparenchymal": 1
+  },
+  "ID_27592647": {
+    "intraparenchymal": 1
+  },
+  "ID_d927d4c5": {
+    "intraparenchymal": 1
+  },
+  "ID_4819eb89": {
+    "intraparenchymal": 1
+  },
+  "ID_8e56d9b4": {
+    "intraparenchymal": 1
+  },
+  "ID_491a9f4d": {
+    "intraparenchymal": 1
+  },
+  "ID_5b65d68a": {
+    "intraparenchymal": 1
+  },
+  "ID_0b9fa71d": {
+    "intraparenchymal": 1
+  },
+  "ID_375f9747": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_5054b147": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_d1f11939": {
+    "intraparenchymal": 3
+  },
+  "ID_cc1fba8f": {
+    "intraparenchymal": 1
+  },
+  "ID_62c088f3": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_a60b147f": {
+    "intraparenchymal": 1
+  },
+  "ID_3bda60be": {
+    "intraparenchymal": 2
+  },
+  "ID_336f76cc": {
+    "intraparenchymal": 1
+  },
+  "ID_7118b2af": {
+    "intraparenchymal": 2
+  },
+  "ID_d977bdad": {
+    "intraparenchymal": 1
+  },
+  "ID_96d236d4": {
+    "intraparenchymal": 1
+  },
+  "ID_3ca61b1d": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_3e5c544d": {
+    "intraparenchymal": 1
+  },
+  "ID_ddbf8c70": {
+    "intraparenchymal": 1
+  },
+  "ID_d0dc83a3": {
+    "intraparenchymal": 2
+  },
+  "ID_b2856c82": {
+    "intraparenchymal": 1
+  },
+  "ID_1f1c7f6a": {
+    "intraparenchymal": 2
+  },
+  "ID_4e227c9c": {
+    "intraparenchymal": 2
+  },
+  "ID_788f8ccf": {
+    "intraparenchymal": 1
+  },
+  "ID_201ca6d3": {
+    "intraparenchymal": 1
+  },
+  "ID_c9c83f17": {
+    "intraparenchymal": 1
+  },
+  "ID_be3accc6": {
+    "intraparenchymal": 2
+  },
+  "ID_f35a5b51": {
+    "intraparenchymal": 1
+  },
+  "ID_d28f1086": {
+    "intraparenchymal": 1
+  },
+  "ID_11628769": {
+    "intraparenchymal": 1
+  },
+  "ID_9d7de224": {
+    "intraparenchymal": 3
+  },
+  "ID_0dee9569": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_928c03ea": {
+    "intraparenchymal": 2
+  },
+  "ID_2ab495f3": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_e32bc9b5": {
+    "intraparenchymal": 2
+  },
+  "ID_7eef463c": {
+    "intraparenchymal": 1
+  },
+  "ID_c468e6f3": {
+    "intraparenchymal": 1
+  },
+  "ID_1f52dd8e": {
+    "intraparenchymal": 1
+  },
+  "ID_b57a3189": {
+    "intraparenchymal": 2
+  },
+  "ID_2203178d": {
+    "intraparenchymal": 1
+  },
+  "ID_afeaf1b6": {
+    "intraparenchymal": 1
+  },
+  "ID_cb944761": {
+    "intraparenchymal": 1
+  },
+  "ID_5d950745": {
+    "intraparenchymal": 1
+  },
+  "ID_2822acc1": {
+    "intraparenchymal": 1
+  },
+  "ID_87567c9c": {
+    "intraparenchymal": 1
+  },
+  "ID_4e2ea29a": {
+    "intraparenchymal": 2
+  },
+  "ID_85f42dd5": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_f675a5d5": {
+    "intraparenchymal": 1
+  },
+  "ID_daf22e49": {
+    "intraparenchymal": 2
+  },
+  "ID_33ed66df": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_9631ec18": {
+    "intraparenchymal": 1
+  },
+  "ID_56021be6": {
+    "intraparenchymal": 1
+  },
+  "ID_bf47e981": {
+    "intraparenchymal": 1
+  },
+  "ID_5eb7fb5e": {
+    "intraparenchymal": 1
+  },
+  "ID_bb0aefc6": {
+    "intraparenchymal": 1
+  },
+  "ID_ec1e4f7b": {
+    "intraparenchymal": 1
+  },
+  "ID_b92b91e9": {
+    "intraparenchymal": 2
+  },
+  "ID_35423680": {
+    "intraparenchymal": 1
+  },
+  "ID_fd8ab0a0": {
+    "intraparenchymal": 1
+  },
+  "ID_42b13337": {
+    "intraparenchymal": 2
+  },
+  "ID_0731aefa": {
+    "intraparenchymal": 1
+  },
+  "ID_35d01b89": {
+    "intraparenchymal": 1
+  },
+  "ID_46e6ab10": {
+    "intraparenchymal": 1
+  },
+  "ID_30ff2856": {
+    "intraparenchymal": 1
+  },
+  "ID_13402da1": {
+    "intraparenchymal": 2
+  },
+  "ID_2bc7fff4": {
+    "intraparenchymal": 2
+  },
+  "ID_a0f42489": {
+    "intraparenchymal": 1
+  },
+  "ID_c07aab7d": {
+    "intraparenchymal": 1
+  },
+  "ID_4e39ce54": {
+    "intraparenchymal": 1
+  },
+  "ID_2cbea247": {
+    "intraparenchymal": 1
+  },
+  "ID_f51b96a1": {
+    "intraparenchymal": 2
+  },
+  "ID_38f6a555": {
+    "intraparenchymal": 2
+  },
+  "ID_ed3f6807": {
+    "intraparenchymal": 1
+  },
+  "ID_a3b0db7b": {
+    "intraparenchymal": 1
+  },
+  "ID_5214af9f": {
+    "intraparenchymal": 1
+  },
+  "ID_66a9e1b8": {
+    "intraparenchymal": 1
+  },
+  "ID_375ab0d7": {
+    "intraparenchymal": 2
+  },
+  "ID_11f2035e": {
+    "intraparenchymal": 2
+  },
+  "ID_615bed53": {
+    "intraparenchymal": 1
+  },
+  "ID_55f41512": {
+    "intraparenchymal": 1
+  },
+  "ID_3ec4fa47": {
+    "intraparenchymal": 1
+  },
+  "ID_5c6640f0": {
+    "intraparenchymal": 1
+  },
+  "ID_184a83b8": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_208d065b": {
+    "intraparenchymal": 1
+  },
+  "ID_948e9fce": {
+    "intraparenchymal": 1
+  },
+  "ID_6099d535": {
+    "intraparenchymal": 1
+  },
+  "ID_9f9cbd40": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_3d3e8e8a": {
+    "intraparenchymal": 1
+  },
+  "ID_a94b0a09": {
+    "intraparenchymal": 1
+  },
+  "ID_deb7af25": {
+    "intraparenchymal": 1
+  },
+  "ID_d7dbaf54": {
+    "intraparenchymal": 1
+  },
+  "ID_206904ea": {
+    "intraparenchymal": 1
+  },
+  "ID_6597fc99": {
+    "intraparenchymal": 2
+  },
+  "ID_21aeda40": {
+    "intraparenchymal": 1
+  },
+  "ID_4db9c3cd": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_82b074db": {
+    "intraparenchymal": 1
+  },
+  "ID_40dca36c": {
+    "intraparenchymal": 1
+  },
+  "ID_2136d5a3": {
+    "intraparenchymal": 3
+  },
+  "ID_c6980033": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_1e5523ad": {
+    "intraparenchymal": 1
+  },
+  "ID_43b79d91": {
+    "intraparenchymal": 1
+  },
+  "ID_279acf4b": {
+    "intraparenchymal": 1
+  },
+  "ID_573e3d1d": {
+    "intraparenchymal": 1
+  },
+  "ID_2e423ec4": {
+    "intraparenchymal": 1,
+    "subarachnoid": 2
+  },
+  "ID_cec78b3f": {
+    "intraparenchymal": 1
+  },
+  "ID_d051eff4": {
+    "intraparenchymal": 2
+  },
+  "ID_1f59ce32": {
+    "intraparenchymal": 1
+  },
+  "ID_1107858c": {
+    "intraparenchymal": 1
+  },
+  "ID_29d968ea": {
+    "intraparenchymal": 1
+  },
+  "ID_3c5f664d": {
+    "intraparenchymal": 1
+  },
+  "ID_74d68581": {
+    "intraparenchymal": 1
+  },
+  "ID_54a18e32": {
+    "intraparenchymal": 1
+  },
+  "ID_01269c54": {
+    "intraparenchymal": 1
+  },
+  "ID_d69ae555": {
+    "intraparenchymal": 1,
+    "subarachnoid": 3
+  },
+  "ID_800ea912": {
+    "intraparenchymal": 1
+  },
+  "ID_03b6bb6f": {
+    "intraparenchymal": 1
+  },
+  "ID_8e8df8c0": {
+    "intraparenchymal": 1
+  },
+  "ID_6874ab42": {
+    "intraparenchymal": 1
+  },
+  "ID_88de88f7": {
+    "intraparenchymal": 1
+  },
+  "ID_c792f495": {
+    "intraparenchymal": 2
+  },
+  "ID_a668d3ec": {
+    "intraparenchymal": 1
+  },
+  "ID_1f40e4b1": {
+    "intraparenchymal": 1
+  },
+  "ID_28d8209b": {
+    "intraparenchymal": 1
+  },
+  "ID_0f35c7b2": {
+    "intraparenchymal": 1
+  },
+  "ID_7bc95597": {
+    "intraparenchymal": 1
+  },
+  "ID_11b4b009": {
+    "intraparenchymal": 1
+  },
+  "ID_6fb71c14": {
+    "intraparenchymal": 2
+  },
+  "ID_3ec2900e": {
+    "intraparenchymal": 1
+  },
+  "ID_4fe0762c": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_ebde4a55": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_97a91046": {
+    "intraparenchymal": 1
+  },
+  "ID_ed1b3f50": {
+    "intraparenchymal": 1
+  },
+  "ID_46cd34ad": {
+    "intraparenchymal": 1
+  },
+  "ID_2c4b8ecc": {
+    "intraparenchymal": 2
+  },
+  "ID_1f2c240e": {
+    "intraparenchymal": 1
+  },
+  "ID_83721bc2": {
+    "intraparenchymal": 1
+  },
+  "ID_b258f048": {
+    "intraparenchymal": 1
+  },
+  "ID_df39e3d4": {
+    "intraparenchymal": 1
+  },
+  "ID_5ae36db5": {
+    "intraparenchymal": 1
+  },
+  "ID_5d5206b1": {
+    "intraparenchymal": 1
+  },
+  "ID_29a2a09d": {
+    "intraparenchymal": 1
+  },
+  "ID_1b5a3933": {
+    "intraparenchymal": 1
+  },
+  "ID_db90e80d": {
+    "intraparenchymal": 1
+  },
+  "ID_ab500c7f": {
+    "intraparenchymal": 1
+  },
+  "ID_3f2fe9e1": {
+    "intraparenchymal": 1
+  },
+  "ID_108d13d8": {
+    "intraparenchymal": 1
+  },
+  "ID_d40e7592": {
+    "intraparenchymal": 1
+  },
+  "ID_0837c474": {
+    "intraparenchymal": 2
+  },
+  "ID_a9faf241": {
+    "intraparenchymal": 1
+  },
+  "ID_3933b87a": {
+    "intraparenchymal": 3
+  },
+  "ID_73916521": {
+    "intraparenchymal": 1
+  },
+  "ID_214e5c5c": {
+    "intraparenchymal": 1
+  },
+  "ID_c81bdd26": {
+    "intraparenchymal": 1
+  },
+  "ID_45eeab18": {
+    "intraparenchymal": 2
+  },
+  "ID_6e8c7b6e": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_969ae9c2": {
+    "intraparenchymal": 3
+  },
+  "ID_ab3ccce6": {
+    "intraparenchymal": 1
+  },
+  "ID_8bfe6c11": {
+    "intraparenchymal": 1
+  },
+  "ID_7f554a4a": {
+    "intraparenchymal": 2
+  },
+  "ID_245f8079": {
+    "intraparenchymal": 1
+  },
+  "ID_f78cbc3b": {
+    "intraparenchymal": 1
+  },
+  "ID_3d14f863": {
+    "intraparenchymal": 1
+  },
+  "ID_50e6ae68": {
+    "intraparenchymal": 1
+  },
+  "ID_19deef4f": {
+    "intraparenchymal": 2
+  },
+  "ID_167f8800": {
+    "intraparenchymal": 1
+  },
+  "ID_cd20aac7": {
+    "intraparenchymal": 1
+  },
+  "ID_f79b6890": {
+    "intraparenchymal": 1
+  },
+  "ID_8cba159c": {
+    "intraparenchymal": 1
+  },
+  "ID_d5131b6b": {
+    "intraparenchymal": 1
+  },
+  "ID_5de29890": {
+    "intraparenchymal": 1
+  },
+  "ID_bfccec56": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_aa80dfb4": {
+    "intraparenchymal": 1
+  },
+  "ID_79079fc5": {
+    "intraparenchymal": 1
+  },
+  "ID_3a5356f6": {
+    "intraparenchymal": 1
+  },
+  "ID_22c909b4": {
+    "intraparenchymal": 1
+  },
+  "ID_55742eb7": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_fc504748": {
+    "intraparenchymal": 1
+  },
+  "ID_ae2ba27f": {
+    "intraparenchymal": 2
+  },
+  "ID_65430a7b": {
+    "intraparenchymal": 1
+  },
+  "ID_6b601439": {
+    "intraparenchymal": 1
+  },
+  "ID_24bd3b12": {
+    "intraparenchymal": 1,
+    "subarachnoid": 3
+  },
+  "ID_40876fa5": {
+    "intraparenchymal": 1
+  },
+  "ID_cc62fef2": {
+    "intraparenchymal": 1
+  },
+  "ID_3a34579b": {
+    "intraparenchymal": 2
+  },
+  "ID_588b05d0": {
+    "intraparenchymal": 1
+  },
+  "ID_7d032def": {
+    "intraparenchymal": 1
+  },
+  "ID_ebbc569a": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_338d5930": {
+    "intraparenchymal": 1
+  },
+  "ID_e13dba7d": {
+    "intraparenchymal": 1
+  },
+  "ID_b51cc00c": {
+    "intraparenchymal": 1
+  },
+  "ID_1c380d3b": {
+    "intraparenchymal": 1
+  },
+  "ID_4cfd6d83": {
+    "intraparenchymal": 1
+  },
+  "ID_34375431": {
+    "intraparenchymal": 1
+  },
+  "ID_807ad7a7": {
+    "intraparenchymal": 1
+  },
+  "ID_69801201": {
+    "intraparenchymal": 1
+  },
+  "ID_15dd83a8": {
+    "intraparenchymal": 1
+  },
+  "ID_ae80f6b2": {
+    "intraparenchymal": 1
+  },
+  "ID_6e3c9105": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_5bbe3fed": {
+    "intraparenchymal": 1
+  },
+  "ID_da672e4d": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_dfe9de6a": {
+    "intraparenchymal": 1
+  },
+  "ID_3d7b4dbd": {
+    "intraparenchymal": 1
+  },
+  "ID_d0caad7d": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_eec2c113": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_dc552e09": {
+    "intraparenchymal": 2
+  },
+  "ID_0273e00b": {
+    "intraparenchymal": 1
+  },
+  "ID_ba65c2df": {
+    "intraparenchymal": 1
+  },
+  "ID_e05b3047": {
+    "intraparenchymal": 1
+  },
+  "ID_32ee8552": {
+    "intraparenchymal": 1
+  },
+  "ID_aaaf69c0": {
+    "intraparenchymal": 1
+  },
+  "ID_3ff6c61d": {
+    "intraparenchymal": 2
+  },
+  "ID_1087528f": {
+    "intraparenchymal": 1
+  },
+  "ID_f934bb5d": {
+    "intraparenchymal": 1
+  },
+  "ID_01cd219d": {
+    "intraparenchymal": 1
+  },
+  "ID_c8fdc4e1": {
+    "intraparenchymal": 2
+  },
+  "ID_6b5f434e": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_d8c4830e": {
+    "intraparenchymal": 3
+  },
+  "ID_0fcf1154": {
+    "intraparenchymal": 1
+  },
+  "ID_663c54a5": {
+    "intraparenchymal": 1
+  },
+  "ID_08d52317": {
+    "intraparenchymal": 1
+  },
+  "ID_a17c99c8": {
+    "intraparenchymal": 1
+  },
+  "ID_d36cdd6d": {
+    "intraparenchymal": 1
+  },
+  "ID_4fc6a7cc": {
+    "intraparenchymal": 1
+  },
+  "ID_181b3f28": {
+    "intraparenchymal": 1
+  },
+  "ID_d51212ee": {
+    "intraparenchymal": 1
+  },
+  "ID_be7c2674": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_db4efd01": {
+    "intraparenchymal": 1
+  },
+  "ID_1a4a9740": {
+    "intraparenchymal": 1
+  },
+  "ID_f9111629": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_6a0fe841": {
+    "intraparenchymal": 1
+  },
+  "ID_5639a46a": {
+    "intraparenchymal": 1
+  },
+  "ID_3be12d48": {
+    "intraparenchymal": 1
+  },
+  "ID_e4488e09": {
+    "intraparenchymal": 2
+  },
+  "ID_e456b69f": {
+    "intraparenchymal": 1
+  },
+  "ID_5263b6b9": {
+    "intraparenchymal": 1
+  },
+  "ID_b17eb92e": {
+    "intraparenchymal": 2
+  },
+  "ID_57ae8838": {
+    "intraparenchymal": 1
+  },
+  "ID_2e31d710": {
+    "intraparenchymal": 1
+  },
+  "ID_6698d72f": {
+    "intraparenchymal": 1
+  },
+  "ID_d6d54b06": {
+    "intraparenchymal": 1
+  },
+  "ID_966b8054": {
+    "intraparenchymal": 1
+  },
+  "ID_24d60095": {
+    "intraparenchymal": 1,
+    "subarachnoid": 2
+  },
+  "ID_467176fd": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_335eb97e": {
+    "intraparenchymal": 1
+  },
+  "ID_adaecb58": {
+    "intraparenchymal": 1
+  },
+  "ID_99973224": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_db78a6bc": {
+    "intraparenchymal": 1
+  },
+  "ID_b51b0e06": {
+    "intraparenchymal": 1
+  },
+  "ID_5eec2f9e": {
+    "intraparenchymal": 1
+  },
+  "ID_b25a3894": {
+    "intraparenchymal": 2
+  },
+  "ID_5d996a4f": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_37ed6de8": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_4a89eaec": {
+    "intraparenchymal": 2,
+    "intraventricular": 1
+  },
+  "ID_08137fcb": {
+    "intraparenchymal": 1
+  },
+  "ID_2904bc36": {
+    "intraparenchymal": 1
+  },
+  "ID_edce1ff3": {
+    "intraparenchymal": 2
+  },
+  "ID_113df753": {
+    "intraparenchymal": 1
+  },
+  "ID_bc330b3c": {
+    "intraparenchymal": 3
+  },
+  "ID_52a0d60d": {
+    "intraparenchymal": 1,
+    "intraventricular": 2,
+    "subarachnoid": 6
+  },
+  "ID_be981e4a": {
+    "intraparenchymal": 1
+  },
+  "ID_3750087a": {
+    "intraparenchymal": 2
+  },
+  "ID_18bf7430": {
+    "intraparenchymal": 1
+  },
+  "ID_7a357cee": {
+    "intraparenchymal": 1
+  },
+  "ID_05618860": {
+    "intraparenchymal": 1
+  },
+  "ID_454a4783": {
+    "intraparenchymal": 1
+  },
+  "ID_25e12394": {
+    "intraparenchymal": 1
+  },
+  "ID_0aac4598": {
+    "intraparenchymal": 1
+  },
+  "ID_73246ce3": {
+    "intraparenchymal": 1
+  },
+  "ID_438fbe32": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_21ae9427": {
+    "intraparenchymal": 1
+  },
+  "ID_a9618926": {
+    "intraparenchymal": 1
+  },
+  "ID_8cd1784a": {
+    "intraparenchymal": 1
+  },
+  "ID_94f43373": {
+    "intraparenchymal": 1
+  },
+  "ID_01c99e86": {
+    "intraparenchymal": 1
+  },
+  "ID_9f6960ad": {
+    "intraparenchymal": 1
+  },
+  "ID_395abf86": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_77580806": {
+    "intraparenchymal": 1
+  },
+  "ID_50af0d8a": {
+    "intraparenchymal": 1
+  },
+  "ID_4898318b": {
+    "intraparenchymal": 1
+  },
+  "ID_184cffb9": {
+    "intraparenchymal": 1
+  },
+  "ID_e064be77": {
+    "intraparenchymal": 1
+  },
+  "ID_81dd3dd7": {
+    "intraparenchymal": 1
+  },
+  "ID_0e5a23c1": {
+    "intraparenchymal": 1
+  },
+  "ID_6117a7bf": {
+    "intraparenchymal": 2
+  },
+  "ID_4bf4dbd0": {
+    "intraparenchymal": 1
+  },
+  "ID_d645bec6": {
+    "intraparenchymal": 1
+  },
+  "ID_8037aa9c": {
+    "intraparenchymal": 1
+  },
+  "ID_8f5aacb2": {
+    "intraparenchymal": 2
+  },
+  "ID_a1524763": {
+    "intraparenchymal": 1
+  },
+  "ID_a5feed45": {
+    "intraparenchymal": 2
+  },
+  "ID_f41d724c": {
+    "intraparenchymal": 2
+  },
+  "ID_6d156aa6": {
+    "intraparenchymal": 1
+  },
+  "ID_d23942c7": {
+    "intraparenchymal": 1
+  },
+  "ID_2e9b5682": {
+    "intraparenchymal": 1
+  },
+  "ID_bb127dbe": {
+    "intraparenchymal": 1
+  },
+  "ID_ff36c150": {
+    "intraparenchymal": 1
+  },
+  "ID_7a27e341": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_1a076337": {
+    "intraparenchymal": 1
+  },
+  "ID_cca9a5c1": {
+    "intraparenchymal": 1
+  },
+  "ID_3c72a3f2": {
+    "intraparenchymal": 1
+  },
+  "ID_929dd3c6": {
+    "intraparenchymal": 1
+  },
+  "ID_ab355c08": {
+    "intraparenchymal": 2,
+    "intraventricular": 1
+  },
+  "ID_b7e5fec5": {
+    "intraparenchymal": 1
+  },
+  "ID_0a23f539": {
+    "intraparenchymal": 1
+  },
+  "ID_a1703be5": {
+    "intraparenchymal": 2,
+    "intraventricular": 1
+  },
+  "ID_545cd536": {
+    "intraparenchymal": 1
+  },
+  "ID_b9c3fa70": {
+    "intraparenchymal": 1
+  },
+  "ID_89dacb02": {
+    "intraparenchymal": 1
+  },
+  "ID_683fd24c": {
+    "intraparenchymal": 1,
+    "subarachnoid": 2
+  },
+  "ID_7dd55f3b": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_8a37a55d": {
+    "intraparenchymal": 1
+  },
+  "ID_944f9841": {
+    "intraparenchymal": 2
+  },
+  "ID_afca31e0": {
+    "intraparenchymal": 1
+  },
+  "ID_44f83d88": {
+    "intraparenchymal": 1
+  },
+  "ID_a3d4a9bf": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_6a2e7a0e": {
+    "intraparenchymal": 1
+  },
+  "ID_8d69a9d8": {
+    "intraparenchymal": 1
+  },
+  "ID_9ddf016e": {
+    "intraparenchymal": 1
+  },
+  "ID_e1d9fe9d": {
+    "intraparenchymal": 1
+  },
+  "ID_da5593c4": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_1c3e63d0": {
+    "intraparenchymal": 1
+  },
+  "ID_22f10875": {
+    "intraparenchymal": 1
+  },
+  "ID_93bf4ecc": {
+    "intraparenchymal": 1
+  },
+  "ID_ac6c7192": {
+    "intraparenchymal": 1
+  },
+  "ID_d49e582e": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_39b74850": {
+    "intraparenchymal": 1
+  },
+  "ID_3fafbfe7": {
+    "intraparenchymal": 1
+  },
+  "ID_cf1e1825": {
+    "intraparenchymal": 1
+  },
+  "ID_a39ccea6": {
+    "intraparenchymal": 1
+  },
+  "ID_84e345eb": {
+    "intraparenchymal": 2,
+    "intraventricular": 1
+  },
+  "ID_7b60f421": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_6377f72a": {
+    "intraparenchymal": 1
+  },
+  "ID_43f6e099": {
+    "intraparenchymal": 1
+  },
+  "ID_eef79e26": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_2966237a": {
+    "intraparenchymal": 1
+  },
+  "ID_b5a6544c": {
+    "intraparenchymal": 1
+  },
+  "ID_874f7749": {
+    "intraparenchymal": 1
+  },
+  "ID_06df6318": {
+    "intraparenchymal": 1
+  },
+  "ID_24df80e7": {
+    "intraparenchymal": 1,
+    "intraventricular": 6,
+    "subdural": 1
+  },
+  "ID_cb8b9c9e": {
+    "intraparenchymal": 1
+  },
+  "ID_feff9d53": {
+    "intraparenchymal": 2
+  },
+  "ID_f651f957": {
+    "intraparenchymal": 1
+  },
+  "ID_6136f924": {
+    "intraparenchymal": 1
+  },
+  "ID_998f41d0": {
+    "intraparenchymal": 1
+  },
+  "ID_6c027363": {
+    "intraparenchymal": 1
+  },
+  "ID_4f6577e4": {
+    "intraparenchymal": 1
+  },
+  "ID_3e0b59ed": {
+    "intraparenchymal": 1
+  },
+  "ID_ec56dd83": {
+    "intraparenchymal": 1
+  },
+  "ID_74fb3379": {
+    "intraparenchymal": 1
+  },
+  "ID_819de77c": {
+    "intraparenchymal": 2
+  },
+  "ID_eed25553": {
+    "intraparenchymal": 1
+  },
+  "ID_1fa04130": {
+    "intraparenchymal": 1
+  },
+  "ID_4f2cee3a": {
+    "intraparenchymal": 1
+  },
+  "ID_c50728a3": {
+    "intraparenchymal": 1
+  },
+  "ID_e8c8d283": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_17027b61": {
+    "intraparenchymal": 1
+  },
+  "ID_feb83fb3": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_c8f3e0ac": {
+    "intraparenchymal": 1
+  },
+  "ID_0e70c83e": {
+    "intraparenchymal": 1
+  },
+  "ID_4da5153c": {
+    "intraparenchymal": 1
+  },
+  "ID_00760731": {
+    "intraparenchymal": 1
+  },
+  "ID_d5f86cf3": {
+    "intraparenchymal": 1
+  },
+  "ID_2967a1ab": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_b0bca4d7": {
+    "intraparenchymal": 2
+  },
+  "ID_35a658d8": {
+    "intraparenchymal": 1
+  },
+  "ID_a57d053f": {
+    "intraparenchymal": 1
+  },
+  "ID_5e0169e6": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_31652e46": {
+    "intraparenchymal": 1
+  },
+  "ID_8c0dbe7b": {
+    "intraparenchymal": 1
+  },
+  "ID_01e24385": {
+    "intraparenchymal": 1
+  },
+  "ID_041f90b6": {
+    "intraparenchymal": 2
+  },
+  "ID_ed24fb51": {
+    "intraparenchymal": 1
+  },
+  "ID_dc541146": {
+    "intraparenchymal": 1
+  },
+  "ID_36a116b7": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_5e5f8d7f": {
+    "intraparenchymal": 1
+  },
+  "ID_14cf72f7": {
+    "intraparenchymal": 1
+  },
+  "ID_aa551e3c": {
+    "intraparenchymal": 1
+  },
+  "ID_9799e136": {
+    "intraparenchymal": 1
+  },
+  "ID_4ac59d94": {
+    "intraparenchymal": 1
+  },
+  "ID_f2908ee5": {
+    "intraparenchymal": 1
+  },
+  "ID_0bd4f22e": {
+    "intraparenchymal": 1
+  },
+  "ID_692cc1e9": {
+    "intraparenchymal": 1,
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_e62f0744": {
+    "intraparenchymal": 2
+  },
+  "ID_5b557029": {
+    "intraparenchymal": 1,
+    "subarachnoid": 2
+  },
+  "ID_595c7343": {
+    "intraparenchymal": 1
+  },
+  "ID_552aabb9": {
+    "intraparenchymal": 1
+  },
+  "ID_ea3e827b": {
+    "intraparenchymal": 1
+  },
+  "ID_644c9b32": {
+    "intraparenchymal": 1
+  },
+  "ID_9edb3b73": {
+    "intraparenchymal": 1
+  },
+  "ID_03fce484": {
+    "intraparenchymal": 1
+  },
+  "ID_08bced69": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_8afdc77b": {
+    "intraparenchymal": 2
+  },
+  "ID_12870e1d": {
+    "intraparenchymal": 1
+  },
+  "ID_673d2622": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_02fbcb24": {
+    "intraparenchymal": 1
+  },
+  "ID_5d8de873": {
+    "intraparenchymal": 1
+  },
+  "ID_e37e1810": {
+    "intraparenchymal": 1
+  },
+  "ID_1749434a": {
+    "intraparenchymal": 1
+  },
+  "ID_1bcbc450": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_16692b39": {
+    "intraparenchymal": 1
+  },
+  "ID_70e09078": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_71753549": {
+    "intraparenchymal": 1
+  },
+  "ID_cd591aa9": {
+    "intraparenchymal": 1
+  },
+  "ID_a1087c83": {
+    "intraparenchymal": 1
+  },
+  "ID_41e8438e": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_60f4a35e": {
+    "intraparenchymal": 1
+  },
+  "ID_439c2910": {
+    "intraparenchymal": 1
+  },
+  "ID_50c077ac": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_e74d490a": {
+    "intraparenchymal": 1
+  },
+  "ID_d2ae8c89": {
+    "intraparenchymal": 1
+  },
+  "ID_43770afd": {
+    "intraparenchymal": 2
+  },
+  "ID_0b2c7b15": {
+    "intraparenchymal": 1
+  },
+  "ID_48db11cd": {
+    "intraparenchymal": 1
+  },
+  "ID_16ed917a": {
+    "intraparenchymal": 1
+  },
+  "ID_82ec32e5": {
+    "intraparenchymal": 1
+  },
+  "ID_27a4a016": {
+    "intraparenchymal": 1
+  },
+  "ID_dfb6f705": {
+    "intraparenchymal": 1
+  },
+  "ID_4d8cb266": {
+    "intraparenchymal": 1
+  },
+  "ID_e32ae164": {
+    "intraparenchymal": 2
+  },
+  "ID_8fad20a6": {
+    "intraparenchymal": 1
+  },
+  "ID_a7c95afd": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_782dc039": {
+    "intraparenchymal": 1
+  },
+  "ID_017f7d77": {
+    "intraparenchymal": 1
+  },
+  "ID_39d5c8e4": {
+    "intraparenchymal": 1
+  },
+  "ID_f2fd09e7": {
+    "intraparenchymal": 1
+  },
+  "ID_700226cd": {
+    "intraparenchymal": 1
+  },
+  "ID_a5551fa1": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_c488fbef": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_3046bcf5": {
+    "intraparenchymal": 1
+  },
+  "ID_2b065d6a": {
+    "intraparenchymal": 1
+  },
+  "ID_a8a3893b": {
+    "intraparenchymal": 1
+  },
+  "ID_fb4512ab": {
+    "intraparenchymal": 1
+  },
+  "ID_57fa7495": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_85f3ab6b": {
+    "intraparenchymal": 1
+  },
+  "ID_e9b627fe": {
+    "intraparenchymal": 1
+  },
+  "ID_b3a33085": {
+    "intraparenchymal": 1
+  },
+  "ID_b68ab3fb": {
+    "intraparenchymal": 1
+  },
+  "ID_720c9f32": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_0f190fe2": {
+    "intraparenchymal": 1
+  },
+  "ID_f9e0ec9c": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_7fa71147": {
+    "intraparenchymal": 1
+  },
+  "ID_16d96f0e": {
+    "intraparenchymal": 1,
+    "intraventricular": 2
+  },
+  "ID_ebcf8504": {
+    "intraparenchymal": 1
+  },
+  "ID_49e392bd": {
+    "intraparenchymal": 1
+  },
+  "ID_d256e882": {
+    "intraparenchymal": 1
+  },
+  "ID_04710d7c": {
+    "intraparenchymal": 1
+  },
+  "ID_2c7a2548": {
+    "intraparenchymal": 1
+  },
+  "ID_75e3aff0": {
+    "intraparenchymal": 1
+  },
+  "ID_67c62d2f": {
+    "intraparenchymal": 1
+  },
+  "ID_2c995fe7": {
+    "intraparenchymal": 1
+  },
+  "ID_214c236d": {
+    "intraparenchymal": 1
+  },
+  "ID_7f853ca3": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_0a76b590": {
+    "intraparenchymal": 1
+  },
+  "ID_2a8201ec": {
+    "intraparenchymal": 2
+  },
+  "ID_37cb65c8": {
+    "intraparenchymal": 1
+  },
+  "ID_76d9765b": {
+    "intraparenchymal": 1
+  },
+  "ID_a32d1c4b": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_0011dd8c": {
+    "intraparenchymal": 1
+  },
+  "ID_e51bee68": {
+    "intraparenchymal": 1
+  },
+  "ID_18304980": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_e10d19e2": {
+    "intraparenchymal": 1
+  },
+  "ID_1b7ae260": {
+    "intraparenchymal": 1
+  },
+  "ID_9c170b95": {
+    "intraparenchymal": 1
+  },
+  "ID_2c898ede": {
+    "intraparenchymal": 1
+  },
+  "ID_bbccb460": {
+    "intraparenchymal": 1
+  },
+  "ID_c3f89dc3": {
+    "intraparenchymal": 1
+  },
+  "ID_a307919f": {
+    "intraparenchymal": 1
+  },
+  "ID_08110722": {
+    "intraparenchymal": 1
+  },
+  "ID_353d4c41": {
+    "intraparenchymal": 1
+  },
+  "ID_fd05ef91": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_c50c397a": {
+    "intraparenchymal": 1
+  },
+  "ID_0c964a49": {
+    "intraparenchymal": 1
+  },
+  "ID_34785bbe": {
+    "intraparenchymal": 1
+  },
+  "ID_898ae391": {
+    "intraparenchymal": 1
+  },
+  "ID_855fb249": {
+    "intraparenchymal": 1
+  },
+  "ID_d6ea6f35": {
+    "intraparenchymal": 1
+  },
+  "ID_a11e58c7": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_7bbe40f7": {
+    "intraparenchymal": 1
+  },
+  "ID_2ea42279": {
+    "intraparenchymal": 1
+  },
+  "ID_2b75e193": {
+    "intraparenchymal": 1
+  },
+  "ID_40d6277f": {
+    "intraparenchymal": 1
+  },
+  "ID_5e91dd9c": {
+    "intraparenchymal": 1
+  },
+  "ID_fb1ff97a": {
+    "intraparenchymal": 1
+  },
+  "ID_2b35cfb8": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_f4f7a9a6": {
+    "intraparenchymal": 1,
+    "intraventricular": 4
+  },
+  "ID_80035f09": {
+    "intraparenchymal": 1
+  },
+  "ID_b1d5d5e8": {
+    "intraparenchymal": 1,
+    "subdural": 1
+  },
+  "ID_19f4165d": {
+    "intraparenchymal": 1
+  },
+  "ID_6294b47e": {
+    "intraparenchymal": 1
+  },
+  "ID_a8039f0c": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_d728878e": {
+    "intraparenchymal": 1
+  },
+  "ID_e349df33": {
+    "intraparenchymal": 1
+  },
+  "ID_38fee9a9": {
+    "intraparenchymal": 1
+  },
+  "ID_14f6dbe9": {
+    "intraparenchymal": 1
+  },
+  "ID_5cafe430": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_a7895faf": {
+    "intraparenchymal": 1
+  },
+  "ID_738c701f": {
+    "intraparenchymal": 1
+  },
+  "ID_de28dcda": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_093e114b": {
+    "intraparenchymal": 1,
+    "subarachnoid": 1
+  },
+  "ID_bdf6c606": {
+    "intraparenchymal": 1
+  },
+  "ID_331a0a71": {
+    "intraparenchymal": 1
+  },
+  "ID_fd0e71a6": {
+    "intraparenchymal": 1
+  },
+  "ID_7b434bfd": {
+    "intraparenchymal": 1
+  },
+  "ID_ae5c7e4a": {
+    "intraparenchymal": 1
+  },
+  "ID_40f61dbc": {
+    "intraparenchymal": 1
+  },
+  "ID_b3c5bf1f": {
+    "intraparenchymal": 1
+  },
+  "ID_52d546ac": {
+    "intraparenchymal": 1
+  },
+  "ID_cd977a88": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_55acef8e": {
+    "intraparenchymal": 1
+  },
+  "ID_806a8589": {
+    "intraparenchymal": 1
+  },
+  "ID_7fa21d3f": {
+    "intraparenchymal": 1
+  },
+  "ID_70d77532": {
+    "intraparenchymal": 1
+  },
+  "ID_21cbc42c": {
+    "intraparenchymal": 1
+  },
+  "ID_f4b01a9c": {
+    "intraparenchymal": 1
+  },
+  "ID_f37e8410": {
+    "intraparenchymal": 1
+  },
+  "ID_20c1b8d4": {
+    "intraparenchymal": 1
+  },
+  "ID_8fcaa953": {
+    "intraparenchymal": 1
+  },
+  "ID_2de86b8a": {
+    "intraparenchymal": 1
+  },
+  "ID_1e6e98d4": {
+    "intraparenchymal": 1
+  },
+  "ID_c9ea8d5b": {
+    "intraparenchymal": 1
+  },
+  "ID_7d2fad7e": {
+    "intraparenchymal": 1
+  },
+  "ID_3c698bb4": {
+    "intraparenchymal": 1
+  },
+  "ID_f78b2a21": {
+    "intraparenchymal": 1
+  },
+  "ID_76882853": {
+    "intraparenchymal": 1,
+    "intraventricular": 1
+  },
+  "ID_189c03f4": {
+    "intraventricular": 2
+  },
+  "ID_4a67c0d3": {
+    "intraventricular": 2
+  },
+  "ID_3e516427": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_f3fbe976": {
+    "intraventricular": 1
+  },
+  "ID_1cb5899a": {
+    "intraventricular": 4
+  },
+  "ID_2ca521bb": {
+    "intraventricular": 3
+  },
+  "ID_6b3d711e": {
+    "intraventricular": 2
+  },
+  "ID_99c84e2b": {
+    "intraventricular": 1
+  },
+  "ID_13a300dc": {
+    "intraventricular": 2
+  },
+  "ID_fdcced09": {
+    "intraventricular": 1
+  },
+  "ID_1ec9fe3a": {
+    "intraventricular": 1
+  },
+  "ID_90bcef47": {
+    "intraventricular": 2
+  },
+  "ID_a96cdbdf": {
+    "intraventricular": 1
+  },
+  "ID_be4fb4b3": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_34c46748": {
+    "intraventricular": 2
+  },
+  "ID_2cb66c95": {
+    "intraventricular": 1
+  },
+  "ID_1790ad18": {
+    "intraventricular": 1
+  },
+  "ID_6fa7e57b": {
+    "intraventricular": 1
+  },
+  "ID_ca23b0fa": {
+    "intraventricular": 1
+  },
+  "ID_2258b885": {
+    "intraventricular": 1
+  },
+  "ID_bfb9a9e6": {
+    "intraventricular": 8
+  },
+  "ID_ac4691db": {
+    "intraventricular": 1,
+    "subarachnoid": 9,
+    "subdural": 1
+  },
+  "ID_015d2c2c": {
+    "intraventricular": 2
+  },
+  "ID_a19a1530": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_4bf3e51c": {
+    "intraventricular": 3
+  },
+  "ID_789f81ba": {
+    "intraventricular": 1
+  },
+  "ID_b1ff5bc4": {
+    "intraventricular": 1
+  },
+  "ID_2625fc3c": {
+    "intraventricular": 2
+  },
+  "ID_3fc31a7a": {
+    "intraventricular": 1
+  },
+  "ID_7e8279ce": {
+    "intraventricular": 1
+  },
+  "ID_89fe015a": {
+    "intraventricular": 1
+  },
+  "ID_7f02f485": {
+    "intraventricular": 1
+  },
+  "ID_90a157e8": {
+    "intraventricular": 2
+  },
+  "ID_42fcab49": {
+    "intraventricular": 3
+  },
+  "ID_ab374c63": {
+    "intraventricular": 2
+  },
+  "ID_169ccaa8": {
+    "intraventricular": 1
+  },
+  "ID_c7097cd4": {
+    "intraventricular": 13
+  },
+  "ID_e85ba9f1": {
+    "intraventricular": 2
+  },
+  "ID_49794c39": {
+    "intraventricular": 2
+  },
+  "ID_268a7454": {
+    "intraventricular": 3
+  },
+  "ID_6e677c4b": {
+    "intraventricular": 2
+  },
+  "ID_90470c71": {
+    "intraventricular": 1
+  },
+  "ID_c0add735": {
+    "intraventricular": 1
+  },
+  "ID_7930f55d": {
+    "intraventricular": 1
+  },
+  "ID_034ddaa1": {
+    "intraventricular": 1
+  },
+  "ID_604aa1c4": {
+    "intraventricular": 2
+  },
+  "ID_08315ae4": {
+    "intraventricular": 2
+  },
+  "ID_e1f702c0": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_dc580e9c": {
+    "intraventricular": 1
+  },
+  "ID_bfda553a": {
+    "intraventricular": 3
+  },
+  "ID_82aeeb06": {
+    "intraventricular": 1
+  },
+  "ID_115ab3ff": {
+    "intraventricular": 1
+  },
+  "ID_4e988371": {
+    "intraventricular": 2
+  },
+  "ID_83b5c549": {
+    "intraventricular": 1
+  },
+  "ID_47d25e32": {
+    "intraventricular": 3
+  },
+  "ID_5424780c": {
+    "intraventricular": 3
+  },
+  "ID_edeafe28": {
+    "intraventricular": 1
+  },
+  "ID_7e822681": {
+    "intraventricular": 3
+  },
+  "ID_803c44a2": {
+    "intraventricular": 1
+  },
+  "ID_03962d75": {
+    "intraventricular": 4
+  },
+  "ID_3a501035": {
+    "intraventricular": 1
+  },
+  "ID_37a40cf8": {
+    "intraventricular": 1
+  },
+  "ID_cd16dbf8": {
+    "intraventricular": 1
+  },
+  "ID_044c7c03": {
+    "intraventricular": 3
+  },
+  "ID_aef7aaef": {
+    "intraventricular": 1
+  },
+  "ID_cb03e82a": {
+    "intraventricular": 3
+  },
+  "ID_05d1fcd0": {
+    "intraventricular": 2
+  },
+  "ID_a839a698": {
+    "intraventricular": 1
+  },
+  "ID_54362bc6": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_915ada23": {
+    "intraventricular": 3
+  },
+  "ID_dfcb0de2": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_e563d4dd": {
+    "intraventricular": 2
+  },
+  "ID_22fd7a3a": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_8f17a99b": {
+    "intraventricular": 1
+  },
+  "ID_e3b54f29": {
+    "intraventricular": 1
+  },
+  "ID_40e9e7d3": {
+    "intraventricular": 1
+  },
+  "ID_f960654f": {
+    "intraventricular": 2
+  },
+  "ID_d4188e21": {
+    "intraventricular": 2
+  },
+  "ID_fb940629": {
+    "intraventricular": 1
+  },
+  "ID_447a577b": {
+    "intraventricular": 3
+  },
+  "ID_e9367cd7": {
+    "intraventricular": 1
+  },
+  "ID_ec9fb82a": {
+    "intraventricular": 4
+  },
+  "ID_dad914c7": {
+    "intraventricular": 1
+  },
+  "ID_8e7abba2": {
+    "intraventricular": 1
+  },
+  "ID_b6bc7cb0": {
+    "intraventricular": 4,
+    "subarachnoid": 2
+  },
+  "ID_5bd4703d": {
+    "intraventricular": 1
+  },
+  "ID_891ec6ab": {
+    "intraventricular": 3
+  },
+  "ID_439765ae": {
+    "intraventricular": 2
+  },
+  "ID_9fe2ff40": {
+    "intraventricular": 4
+  },
+  "ID_d15ff9b3": {
+    "intraventricular": 1
+  },
+  "ID_b2c49d42": {
+    "intraventricular": 1
+  },
+  "ID_b086eeae": {
+    "intraventricular": 2
+  },
+  "ID_5601d6b9": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_917ac018": {
+    "intraventricular": 1
+  },
+  "ID_f4c0b0fd": {
+    "intraventricular": 1
+  },
+  "ID_8be24dfd": {
+    "intraventricular": 3
+  },
+  "ID_671317ff": {
+    "intraventricular": 1
+  },
+  "ID_6df3c00a": {
+    "intraventricular": 1
+  },
+  "ID_b7c09634": {
+    "intraventricular": 1
+  },
+  "ID_950a880d": {
+    "intraventricular": 1
+  },
+  "ID_fd0bec25": {
+    "intraventricular": 2
+  },
+  "ID_aa1d288b": {
+    "intraventricular": 2
+  },
+  "ID_86816c7f": {
+    "intraventricular": 2
+  },
+  "ID_a2f9bbf1": {
+    "intraventricular": 3
+  },
+  "ID_53105d97": {
+    "intraventricular": 1
+  },
+  "ID_1f5a9be9": {
+    "intraventricular": 3,
+    "subarachnoid": 1
+  },
+  "ID_a7bb471c": {
+    "intraventricular": 4
+  },
+  "ID_83b77fd1": {
+    "intraventricular": 1
+  },
+  "ID_21b6c1a3": {
+    "intraventricular": 2
+  },
+  "ID_b7456843": {
+    "intraventricular": 1
+  },
+  "ID_ee8c2880": {
+    "intraventricular": 1
+  },
+  "ID_3343ddf2": {
+    "intraventricular": 1
+  },
+  "ID_8c6c6584": {
+    "intraventricular": 1
+  },
+  "ID_7300a5cd": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_b0109e2e": {
+    "intraventricular": 1
+  },
+  "ID_0fb0d3d2": {
+    "intraventricular": 1
+  },
+  "ID_438b641c": {
+    "intraventricular": 2
+  },
+  "ID_0adba494": {
+    "intraventricular": 2
+  },
+  "ID_1130d804": {
+    "intraventricular": 1
+  },
+  "ID_3889b7a2": {
+    "intraventricular": 3
+  },
+  "ID_7c5be9ec": {
+    "intraventricular": 1
+  },
+  "ID_728f938f": {
+    "intraventricular": 1
+  },
+  "ID_640125a5": {
+    "intraventricular": 2
+  },
+  "ID_70b98f7a": {
+    "intraventricular": 2
+  },
+  "ID_dae9bf93": {
+    "intraventricular": 2
+  },
+  "ID_189e9bba": {
+    "intraventricular": 3
+  },
+  "ID_4a0c4fd9": {
+    "intraventricular": 3
+  },
+  "ID_dbfc362d": {
+    "intraventricular": 2
+  },
+  "ID_4f1df637": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_c7807be6": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_5f207aa6": {
+    "intraventricular": 2
+  },
+  "ID_ee85c04a": {
+    "intraventricular": 1
+  },
+  "ID_8422642f": {
+    "intraventricular": 1
+  },
+  "ID_39268852": {
+    "intraventricular": 1
+  },
+  "ID_507a35a1": {
+    "intraventricular": 1
+  },
+  "ID_9cdaade5": {
+    "intraventricular": 1
+  },
+  "ID_dcc6785a": {
+    "intraventricular": 1
+  },
+  "ID_227dc0d6": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_fb383bec": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_053d7d49": {
+    "intraventricular": 1
+  },
+  "ID_36a99844": {
+    "intraventricular": 1
+  },
+  "ID_661c95f6": {
+    "intraventricular": 2
+  },
+  "ID_66726044": {
+    "intraventricular": 1
+  },
+  "ID_bf162227": {
+    "intraventricular": 2
+  },
+  "ID_3e7af6e9": {
+    "intraventricular": 1
+  },
+  "ID_51076f6e": {
+    "intraventricular": 1
+  },
+  "ID_a7492fc4": {
+    "intraventricular": 1,
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_d09d008b": {
+    "intraventricular": 3
+  },
+  "ID_9557fa78": {
+    "intraventricular": 4,
+    "subarachnoid": 3
+  },
+  "ID_2c329601": {
+    "intraventricular": 1
+  },
+  "ID_8760f7c2": {
+    "intraventricular": 2
+  },
+  "ID_18c56b97": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_089596a9": {
+    "intraventricular": 2
+  },
+  "ID_fbda6c44": {
+    "intraventricular": 2
+  },
+  "ID_3fc70a0d": {
+    "intraventricular": 5
+  },
+  "ID_05a8fcb4": {
+    "intraventricular": 2
+  },
+  "ID_0350f9e0": {
+    "intraventricular": 2
+  },
+  "ID_422e5268": {
+    "intraventricular": 1
+  },
+  "ID_48a81cfc": {
+    "intraventricular": 1
+  },
+  "ID_82cded18": {
+    "intraventricular": 2
+  },
+  "ID_8f9959a2": {
+    "intraventricular": 2
+  },
+  "ID_5558cf26": {
+    "intraventricular": 3
+  },
+  "ID_0e9e73f2": {
+    "intraventricular": 3
+  },
+  "ID_8993cd25": {
+    "intraventricular": 2
+  },
+  "ID_13d85b1f": {
+    "intraventricular": 1
+  },
+  "ID_984a3f15": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_4cb478c7": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_2cd98572": {
+    "intraventricular": 1
+  },
+  "ID_18ac26cc": {
+    "intraventricular": 1
+  },
+  "ID_fb56e006": {
+    "intraventricular": 1
+  },
+  "ID_bc6ce2d3": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_528bc5ef": {
+    "intraventricular": 1
+  },
+  "ID_69ab36c0": {
+    "intraventricular": 1
+  },
+  "ID_140887d9": {
+    "intraventricular": 1
+  },
+  "ID_a72de500": {
+    "intraventricular": 1
+  },
+  "ID_91435b79": {
+    "intraventricular": 1
+  },
+  "ID_692b750b": {
+    "intraventricular": 2
+  },
+  "ID_a90855a6": {
+    "intraventricular": 1
+  },
+  "ID_fa781eec": {
+    "intraventricular": 1
+  },
+  "ID_ebc6d9aa": {
+    "intraventricular": 2
+  },
+  "ID_3dab46e7": {
+    "intraventricular": 1
+  },
+  "ID_bc94004f": {
+    "intraventricular": 1
+  },
+  "ID_794c56b4": {
+    "intraventricular": 1
+  },
+  "ID_0d43c2a2": {
+    "intraventricular": 1
+  },
+  "ID_9dd581ee": {
+    "intraventricular": 1
+  },
+  "ID_65e61b16": {
+    "intraventricular": 2
+  },
+  "ID_7cc053a6": {
+    "intraventricular": 1
+  },
+  "ID_7ab72860": {
+    "intraventricular": 1
+  },
+  "ID_d1e43ba9": {
+    "intraventricular": 1
+  },
+  "ID_28746e74": {
+    "intraventricular": 1
+  },
+  "ID_9304492f": {
+    "intraventricular": 1,
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_46cb0a0b": {
+    "intraventricular": 2,
+    "subarachnoid": 1
+  },
+  "ID_43b43cc8": {
+    "intraventricular": 1
+  },
+  "ID_22206225": {
+    "intraventricular": 1
+  },
+  "ID_0aeac25d": {
+    "intraventricular": 1
+  },
+  "ID_66de94cd": {
+    "intraventricular": 3
+  },
+  "ID_7e4c2ae7": {
+    "intraventricular": 1
+  },
+  "ID_571d3939": {
+    "intraventricular": 1
+  },
+  "ID_afb4b845": {
+    "intraventricular": 2
+  },
+  "ID_5ea5dd51": {
+    "intraventricular": 1
+  },
+  "ID_bedbdbf6": {
+    "intraventricular": 2
+  },
+  "ID_f94a3090": {
+    "intraventricular": 1
+  },
+  "ID_08557d34": {
+    "intraventricular": 1
+  },
+  "ID_dadb217d": {
+    "intraventricular": 1
+  },
+  "ID_5331a509": {
+    "intraventricular": 1
+  },
+  "ID_41550e26": {
+    "intraventricular": 2
+  },
+  "ID_bd512e94": {
+    "intraventricular": 2
+  },
+  "ID_b6b7b7cd": {
+    "intraventricular": 1
+  },
+  "ID_a1035ba4": {
+    "intraventricular": 2
+  },
+  "ID_08c94a8b": {
+    "intraventricular": 1
+  },
+  "ID_8c69a6ec": {
+    "intraventricular": 1
+  },
+  "ID_4695e5e2": {
+    "intraventricular": 1
+  },
+  "ID_5918a5fb": {
+    "intraventricular": 1
+  },
+  "ID_aa996d53": {
+    "intraventricular": 2,
+    "subarachnoid": 1
+  },
+  "ID_e056b05b": {
+    "intraventricular": 1
+  },
+  "ID_069f11b6": {
+    "intraventricular": 2
+  },
+  "ID_71b6d741": {
+    "intraventricular": 1
+  },
+  "ID_b1e806ff": {
+    "intraventricular": 1
+  },
+  "ID_edab84b0": {
+    "intraventricular": 2
+  },
+  "ID_07ef940d": {
+    "intraventricular": 1
+  },
+  "ID_91becc9a": {
+    "intraventricular": 1
+  },
+  "ID_ea9b1371": {
+    "intraventricular": 1
+  },
+  "ID_f761f3bf": {
+    "intraventricular": 1
+  },
+  "ID_59c04019": {
+    "intraventricular": 2
+  },
+  "ID_7a5941ba": {
+    "intraventricular": 2
+  },
+  "ID_2c511d8d": {
+    "intraventricular": 1
+  },
+  "ID_b4d1c8f5": {
+    "intraventricular": 1
+  },
+  "ID_7918b66b": {
+    "intraventricular": 2
+  },
+  "ID_13509a03": {
+    "intraventricular": 1
+  },
+  "ID_172d6638": {
+    "intraventricular": 1
+  },
+  "ID_0151d3bf": {
+    "intraventricular": 1
+  },
+  "ID_891513a6": {
+    "intraventricular": 1
+  },
+  "ID_850af668": {
+    "intraventricular": 3
+  },
+  "ID_dd5b78f2": {
+    "intraventricular": 1
+  },
+  "ID_6e61e4ee": {
+    "intraventricular": 1
+  },
+  "ID_e070edfa": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_33a89c47": {
+    "intraventricular": 1
+  },
+  "ID_3140ad87": {
+    "intraventricular": 3
+  },
+  "ID_297f9343": {
+    "intraventricular": 2
+  },
+  "ID_73313980": {
+    "intraventricular": 3
+  },
+  "ID_048f5065": {
+    "intraventricular": 2
+  },
+  "ID_17bc3551": {
+    "intraventricular": 3
+  },
+  "ID_e44deb4e": {
+    "intraventricular": 1
+  },
+  "ID_0f661acd": {
+    "intraventricular": 3
+  },
+  "ID_62c51b35": {
+    "intraventricular": 1
+  },
+  "ID_d6d079fb": {
+    "intraventricular": 1
+  },
+  "ID_4f36eb55": {
+    "intraventricular": 1
+  },
+  "ID_27b6ff99": {
+    "intraventricular": 1
+  },
+  "ID_318db5eb": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_26479553": {
+    "intraventricular": 1
+  },
+  "ID_42369d79": {
+    "intraventricular": 1
+  },
+  "ID_85d1ff7a": {
+    "intraventricular": 1
+  },
+  "ID_63506056": {
+    "intraventricular": 3,
+    "subarachnoid": 1
+  },
+  "ID_3777997d": {
+    "intraventricular": 1
+  },
+  "ID_1fa590ef": {
+    "intraventricular": 2
+  },
+  "ID_32195b60": {
+    "intraventricular": 1
+  },
+  "ID_caa15978": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_d96ccec1": {
+    "intraventricular": 3
+  },
+  "ID_91e06790": {
+    "intraventricular": 2
+  },
+  "ID_b56338cf": {
+    "intraventricular": 1
+  },
+  "ID_db2f95d7": {
+    "intraventricular": 1
+  },
+  "ID_1f211488": {
+    "intraventricular": 1
+  },
+  "ID_81928375": {
+    "intraventricular": 2
+  },
+  "ID_c0d6a5b4": {
+    "intraventricular": 2
+  },
+  "ID_275b3a15": {
+    "intraventricular": 1,
+    "subdural": 2
+  },
+  "ID_b5f905f3": {
+    "intraventricular": 1
+  },
+  "ID_c696e4ec": {
+    "intraventricular": 2
+  },
+  "ID_38ea5a9a": {
+    "intraventricular": 1
+  },
+  "ID_44e4d960": {
+    "intraventricular": 2
+  },
+  "ID_07d6a385": {
+    "intraventricular": 1
+  },
+  "ID_47057fa5": {
+    "intraventricular": 1
+  },
+  "ID_87f66e36": {
+    "intraventricular": 1
+  },
+  "ID_d4788d88": {
+    "intraventricular": 1
+  },
+  "ID_9c0da877": {
+    "intraventricular": 1
+  },
+  "ID_aca500d3": {
+    "intraventricular": 1
+  },
+  "ID_82c5155a": {
+    "intraventricular": 1
+  },
+  "ID_50b54af0": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_4cc1942f": {
+    "intraventricular": 1
+  },
+  "ID_8c0fdadf": {
+    "intraventricular": 1
+  },
+  "ID_e3f88427": {
+    "intraventricular": 1
+  },
+  "ID_d8fcc7c7": {
+    "intraventricular": 1
+  },
+  "ID_21f774cc": {
+    "intraventricular": 2
+  },
+  "ID_9a66d574": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_8f594649": {
+    "intraventricular": 2
+  },
+  "ID_07b1e8a4": {
+    "intraventricular": 1
+  },
+  "ID_6f5b3343": {
+    "intraventricular": 2
+  },
+  "ID_32dd661b": {
+    "intraventricular": 2
+  },
+  "ID_33c2b21e": {
+    "intraventricular": 3
+  },
+  "ID_6070a636": {
+    "intraventricular": 2
+  },
+  "ID_31bef655": {
+    "intraventricular": 1
+  },
+  "ID_c98155e1": {
+    "intraventricular": 2
+  },
+  "ID_d4e78318": {
+    "intraventricular": 1
+  },
+  "ID_bac0a45e": {
+    "intraventricular": 3
+  },
+  "ID_1d1344b5": {
+    "intraventricular": 1
+  },
+  "ID_5e405f44": {
+    "intraventricular": 3
+  },
+  "ID_b6d6c758": {
+    "intraventricular": 1
+  },
+  "ID_4fa6c826": {
+    "intraventricular": 2
+  },
+  "ID_2d647a08": {
+    "intraventricular": 1
+  },
+  "ID_fd029ea0": {
+    "intraventricular": 4
+  },
+  "ID_2a9a5ffb": {
+    "intraventricular": 1
+  },
+  "ID_0dc99bfb": {
+    "intraventricular": 2
+  },
+  "ID_cfcdc4d6": {
+    "intraventricular": 2
+  },
+  "ID_35345cf7": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_f031823e": {
+    "intraventricular": 1
+  },
+  "ID_e092d8ad": {
+    "intraventricular": 1
+  },
+  "ID_4338da6b": {
+    "intraventricular": 3
+  },
+  "ID_f2cdce8e": {
+    "intraventricular": 1
+  },
+  "ID_eb8948ba": {
+    "intraventricular": 1
+  },
+  "ID_161ea98f": {
+    "intraventricular": 1
+  },
+  "ID_9829386e": {
+    "intraventricular": 1
+  },
+  "ID_fe556436": {
+    "intraventricular": 1
+  },
+  "ID_1d46ca32": {
+    "intraventricular": 4
+  },
+  "ID_a64846df": {
+    "intraventricular": 1
+  },
+  "ID_fc559396": {
+    "intraventricular": 1
+  },
+  "ID_0413d44d": {
+    "intraventricular": 2
+  },
+  "ID_165e65dc": {
+    "intraventricular": 2,
+    "subarachnoid": 2
+  },
+  "ID_09f2e26b": {
+    "intraventricular": 1
+  },
+  "ID_803c9306": {
+    "intraventricular": 1
+  },
+  "ID_0c290b1d": {
+    "intraventricular": 1
+  },
+  "ID_bb8b8232": {
+    "intraventricular": 1
+  },
+  "ID_86d3624f": {
+    "intraventricular": 2
+  },
+  "ID_912d2369": {
+    "intraventricular": 1
+  },
+  "ID_cdc87c8d": {
+    "intraventricular": 1
+  },
+  "ID_97340eb3": {
+    "intraventricular": 1
+  },
+  "ID_57893917": {
+    "intraventricular": 1
+  },
+  "ID_e25c09bc": {
+    "intraventricular": 1
+  },
+  "ID_b18f9f07": {
+    "intraventricular": 1,
+    "subarachnoid": 3
+  },
+  "ID_89103619": {
+    "intraventricular": 1
+  },
+  "ID_9ccda026": {
+    "intraventricular": 1
+  },
+  "ID_60aa8388": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_fa11a3ae": {
+    "intraventricular": 1
+  },
+  "ID_4e79cce9": {
+    "intraventricular": 1
+  },
+  "ID_8f21a39f": {
+    "intraventricular": 1
+  },
+  "ID_39cd0b3f": {
+    "intraventricular": 1
+  },
+  "ID_c9e41254": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_1c631dd3": {
+    "intraventricular": 1
+  },
+  "ID_d6c705a8": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_8af4f4e9": {
+    "intraventricular": 1
+  },
+  "ID_a4942ff8": {
+    "intraventricular": 1
+  },
+  "ID_8cd94fca": {
+    "intraventricular": 1
+  },
+  "ID_89ae2dbc": {
+    "intraventricular": 1
+  },
+  "ID_28a32ae1": {
+    "intraventricular": 1
+  },
+  "ID_730cb33c": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_43bba734": {
+    "intraventricular": 2
+  },
+  "ID_4a16396b": {
+    "intraventricular": 2
+  },
+  "ID_b3df58d3": {
+    "intraventricular": 1
+  },
+  "ID_226565cd": {
+    "intraventricular": 1
+  },
+  "ID_70aadc4b": {
+    "intraventricular": 1
+  },
+  "ID_955d292e": {
+    "intraventricular": 1
+  },
+  "ID_d0448fc1": {
+    "intraventricular": 1
+  },
+  "ID_27600b6c": {
+    "intraventricular": 1
+  },
+  "ID_d97badd4": {
+    "intraventricular": 1
+  },
+  "ID_92577af2": {
+    "intraventricular": 2,
+    "subarachnoid": 2
+  },
+  "ID_bd410b87": {
+    "intraventricular": 1
+  },
+  "ID_8a4b35ce": {
+    "intraventricular": 1
+  },
+  "ID_bd5306c6": {
+    "intraventricular": 1
+  },
+  "ID_5d270481": {
+    "intraventricular": 1
+  },
+  "ID_193b84a1": {
+    "intraventricular": 1
+  },
+  "ID_9ade1d19": {
+    "intraventricular": 1
+  },
+  "ID_5c1bcdf1": {
+    "intraventricular": 1
+  },
+  "ID_7936d42a": {
+    "intraventricular": 2
+  },
+  "ID_2575893e": {
+    "intraventricular": 1
+  },
+  "ID_b70947e3": {
+    "intraventricular": 1
+  },
+  "ID_8f81eda8": {
+    "intraventricular": 2
+  },
+  "ID_325d58d3": {
+    "intraventricular": 2
+  },
+  "ID_afd8ebfe": {
+    "intraventricular": 5
+  },
+  "ID_b2fcf886": {
+    "intraventricular": 1
+  },
+  "ID_88c66b11": {
+    "intraventricular": 1
+  },
+  "ID_a66b5ddd": {
+    "intraventricular": 1
+  },
+  "ID_0fdc883d": {
+    "intraventricular": 1
+  },
+  "ID_e4de7503": {
+    "intraventricular": 1
+  },
+  "ID_b393cba9": {
+    "intraventricular": 1,
+    "subdural": 2
+  },
+  "ID_ff0794e2": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_b74d122b": {
+    "intraventricular": 2
+  },
+  "ID_6dab0539": {
+    "intraventricular": 1
+  },
+  "ID_2b56e6ea": {
+    "intraventricular": 3
+  },
+  "ID_6250601b": {
+    "intraventricular": 1
+  },
+  "ID_a2b3523c": {
+    "intraventricular": 1
+  },
+  "ID_6729fc03": {
+    "intraventricular": 1
+  },
+  "ID_52443a75": {
+    "intraventricular": 2
+  },
+  "ID_ecdb0097": {
+    "intraventricular": 1
+  },
+  "ID_39cb5d28": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_6a60c28f": {
+    "intraventricular": 1
+  },
+  "ID_3be63ca2": {
+    "intraventricular": 1
+  },
+  "ID_f0bdad04": {
+    "intraventricular": 2
+  },
+  "ID_6fcd55db": {
+    "intraventricular": 2
+  },
+  "ID_4ffdaa8e": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_da857efd": {
+    "intraventricular": 1
+  },
+  "ID_5d02aa04": {
+    "intraventricular": 1
+  },
+  "ID_4458d86c": {
+    "intraventricular": 1
+  },
+  "ID_b00ab9bb": {
+    "intraventricular": 2
+  },
+  "ID_2d82155e": {
+    "intraventricular": 1
+  },
+  "ID_41da00be": {
+    "intraventricular": 1
+  },
+  "ID_643b4943": {
+    "intraventricular": 2
+  },
+  "ID_00b44201": {
+    "intraventricular": 1
+  },
+  "ID_03a7da91": {
+    "intraventricular": 1
+  },
+  "ID_5f05c8ea": {
+    "intraventricular": 1,
+    "subarachnoid": 2
+  },
+  "ID_a31f5e92": {
+    "intraventricular": 3
+  },
+  "ID_d343e4d0": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_960ec0a0": {
+    "intraventricular": 1
+  },
+  "ID_f46eb980": {
+    "intraventricular": 1
+  },
+  "ID_beeba5bc": {
+    "intraventricular": 1
+  },
+  "ID_a600fc2a": {
+    "intraventricular": 1
+  },
+  "ID_b15a5cd2": {
+    "intraventricular": 1
+  },
+  "ID_037fd7ca": {
+    "intraventricular": 2
+  },
+  "ID_d1faff3c": {
+    "intraventricular": 1
+  },
+  "ID_03c99056": {
+    "intraventricular": 1
+  },
+  "ID_c32357e1": {
+    "intraventricular": 1
+  },
+  "ID_fd254368": {
+    "intraventricular": 1
+  },
+  "ID_63814689": {
+    "intraventricular": 1
+  },
+  "ID_c917f61b": {
+    "intraventricular": 1
+  },
+  "ID_93917c8e": {
+    "intraventricular": 1
+  },
+  "ID_9b09b28e": {
+    "intraventricular": 1
+  },
+  "ID_d3f0e352": {
+    "intraventricular": 1
+  },
+  "ID_7ccc751f": {
+    "intraventricular": 1
+  },
+  "ID_ddcd2e50": {
+    "intraventricular": 1
+  },
+  "ID_40c46b6f": {
+    "intraventricular": 1
+  },
+  "ID_7a9d86f2": {
+    "intraventricular": 1
+  },
+  "ID_29487984": {
+    "intraventricular": 1
+  },
+  "ID_3ed0d2cd": {
+    "intraventricular": 2
+  },
+  "ID_aaf2973d": {
+    "intraventricular": 2
+  },
+  "ID_4fb5b13e": {
+    "intraventricular": 1
+  },
+  "ID_fe79de61": {
+    "intraventricular": 1
+  },
+  "ID_6282c9fc": {
+    "intraventricular": 1
+  },
+  "ID_2c5c352c": {
+    "intraventricular": 2
+  },
+  "ID_83f03929": {
+    "intraventricular": 3
+  },
+  "ID_7ed74d94": {
+    "intraventricular": 1
+  },
+  "ID_3f319b52": {
+    "intraventricular": 1
+  },
+  "ID_96674ab1": {
+    "intraventricular": 1
+  },
+  "ID_222f05c6": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_62ffc26a": {
+    "intraventricular": 1
+  },
+  "ID_29e42351": {
+    "intraventricular": 1
+  },
+  "ID_2a9c5bc4": {
+    "intraventricular": 1
+  },
+  "ID_cfdfc147": {
+    "intraventricular": 1
+  },
+  "ID_c3d17e97": {
+    "intraventricular": 2
+  },
+  "ID_75ff73ff": {
+    "intraventricular": 1
+  },
+  "ID_569e0c29": {
+    "intraventricular": 1
+  },
+  "ID_d43c879c": {
+    "intraventricular": 3
+  },
+  "ID_7742a473": {
+    "intraventricular": 1
+  },
+  "ID_da7fec2d": {
+    "intraventricular": 1
+  },
+  "ID_53622d85": {
+    "intraventricular": 1
+  },
+  "ID_7fcc426a": {
+    "intraventricular": 2
+  },
+  "ID_7483501c": {
+    "intraventricular": 1
+  },
+  "ID_12df0b24": {
+    "intraventricular": 1
+  },
+  "ID_78fbbc47": {
+    "intraventricular": 1
+  },
+  "ID_85b9573b": {
+    "intraventricular": 1
+  },
+  "ID_0b99b25c": {
+    "intraventricular": 1
+  },
+  "ID_64f42725": {
+    "intraventricular": 3
+  },
+  "ID_1495daf7": {
+    "intraventricular": 1
+  },
+  "ID_473ce1f9": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_e4c7e123": {
+    "intraventricular": 1
+  },
+  "ID_c6cb330b": {
+    "intraventricular": 1
+  },
+  "ID_05c2a430": {
+    "intraventricular": 1
+  },
+  "ID_8efba549": {
+    "intraventricular": 1
+  },
+  "ID_474d8212": {
+    "intraventricular": 1
+  },
+  "ID_47faf954": {
+    "intraventricular": 1
+  },
+  "ID_4f20558c": {
+    "intraventricular": 1
+  },
+  "ID_1b7c61ce": {
+    "intraventricular": 1
+  },
+  "ID_6865595e": {
+    "intraventricular": 1
+  },
+  "ID_4953e64e": {
+    "intraventricular": 1
+  },
+  "ID_65001866": {
+    "intraventricular": 1
+  },
+  "ID_b71c77b5": {
+    "intraventricular": 1
+  },
+  "ID_7899008c": {
+    "intraventricular": 2,
+    "subarachnoid": 1
+  },
+  "ID_3fa9b1bf": {
+    "intraventricular": 1
+  },
+  "ID_73f6c755": {
+    "intraventricular": 1
+  },
+  "ID_0a2aaa32": {
+    "intraventricular": 1
+  },
+  "ID_7aa17f5a": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_c5141db7": {
+    "intraventricular": 2
+  },
+  "ID_a4cda187": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_b33e5e81": {
+    "intraventricular": 1
+  },
+  "ID_5618ea26": {
+    "intraventricular": 1
+  },
+  "ID_0bee00a2": {
+    "intraventricular": 1
+  },
+  "ID_bf4dda7a": {
+    "intraventricular": 1
+  },
+  "ID_ad95b001": {
+    "intraventricular": 1
+  },
+  "ID_be31aa0d": {
+    "intraventricular": 1
+  },
+  "ID_10d167df": {
+    "intraventricular": 1
+  },
+  "ID_00e394df": {
+    "intraventricular": 1
+  },
+  "ID_7d01e8a2": {
+    "intraventricular": 1
+  },
+  "ID_4add18da": {
+    "intraventricular": 1
+  },
+  "ID_66fd9d2d": {
+    "intraventricular": 1
+  },
+  "ID_ab8f21b8": {
+    "intraventricular": 1
+  },
+  "ID_060cc319": {
+    "intraventricular": 1,
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_de858d80": {
+    "intraventricular": 1
+  },
+  "ID_b01bcf4a": {
+    "intraventricular": 1
+  },
+  "ID_8d2d5588": {
+    "intraventricular": 1
+  },
+  "ID_9df0f9aa": {
+    "intraventricular": 1
+  },
+  "ID_e3c9f564": {
+    "intraventricular": 2
+  },
+  "ID_8f9c52ca": {
+    "intraventricular": 1
+  },
+  "ID_4b5972c3": {
+    "intraventricular": 1
+  },
+  "ID_98b79de2": {
+    "intraventricular": 1
+  },
+  "ID_a2037371": {
+    "intraventricular": 1
+  },
+  "ID_5881967d": {
+    "intraventricular": 1
+  },
+  "ID_1520c324": {
+    "intraventricular": 1
+  },
+  "ID_bb69d2dd": {
+    "intraventricular": 1
+  },
+  "ID_5964c5e5": {
+    "intraventricular": 1
+  },
+  "ID_a696b3fb": {
+    "intraventricular": 1
+  },
+  "ID_6b5d8e33": {
+    "intraventricular": 1
+  },
+  "ID_f026d33a": {
+    "intraventricular": 1
+  },
+  "ID_631bb202": {
+    "intraventricular": 1
+  },
+  "ID_0f4239e6": {
+    "intraventricular": 1
+  },
+  "ID_acd3cb61": {
+    "intraventricular": 1
+  },
+  "ID_596dfbc1": {
+    "intraventricular": 1
+  },
+  "ID_3381271e": {
+    "intraventricular": 1
+  },
+  "ID_377f3ede": {
+    "intraventricular": 1
+  },
+  "ID_f5f7347a": {
+    "intraventricular": 1
+  },
+  "ID_06b53e3f": {
+    "intraventricular": 1
+  },
+  "ID_27e97af2": {
+    "intraventricular": 1
+  },
+  "ID_d304458a": {
+    "intraventricular": 1
+  },
+  "ID_f82c17f4": {
+    "intraventricular": 2
+  },
+  "ID_1372a05e": {
+    "intraventricular": 1
+  },
+  "ID_fee2c340": {
+    "intraventricular": 1,
+    "subdural": 2
+  },
+  "ID_65007ecd": {
+    "intraventricular": 1
+  },
+  "ID_25c1289d": {
+    "intraventricular": 1
+  },
+  "ID_6bb6dd02": {
+    "intraventricular": 1
+  },
+  "ID_3c6fab12": {
+    "intraventricular": 1
+  },
+  "ID_154fbd03": {
+    "intraventricular": 1
+  },
+  "ID_673e90f6": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_7e26ed21": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_6c272dd1": {
+    "intraventricular": 1
+  },
+  "ID_9189e511": {
+    "intraventricular": 1
+  },
+  "ID_f7c58a31": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_f3343d89": {
+    "intraventricular": 2
+  },
+  "ID_e078b785": {
+    "intraventricular": 1
+  },
+  "ID_462216ca": {
+    "intraventricular": 1
+  },
+  "ID_535ff577": {
+    "intraventricular": 1
+  },
+  "ID_6ac47b74": {
+    "intraventricular": 1
+  },
+  "ID_e66737a1": {
+    "intraventricular": 1
+  },
+  "ID_e9fb0491": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_0d9dc5a6": {
+    "intraventricular": 1
+  },
+  "ID_c44d3f90": {
+    "intraventricular": 1
+  },
+  "ID_1202682c": {
+    "intraventricular": 1
+  },
+  "ID_f89a17ba": {
+    "intraventricular": 1
+  },
+  "ID_9290650c": {
+    "intraventricular": 1
+  },
+  "ID_de046055": {
+    "intraventricular": 1
+  },
+  "ID_d74885e6": {
+    "intraventricular": 1
+  },
+  "ID_fcf089b7": {
+    "intraventricular": 2
+  },
+  "ID_4b9074f7": {
+    "intraventricular": 2
+  },
+  "ID_4d2cd2e5": {
+    "intraventricular": 1
+  },
+  "ID_b5721766": {
+    "intraventricular": 1
+  },
+  "ID_744db5eb": {
+    "intraventricular": 1
+  },
+  "ID_833657ed": {
+    "intraventricular": 1
+  },
+  "ID_b4904cea": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_b6f39da5": {
+    "intraventricular": 1
+  },
+  "ID_363e44ef": {
+    "intraventricular": 1
+  },
+  "ID_6aadef96": {
+    "intraventricular": 1
+  },
+  "ID_4d05f635": {
+    "intraventricular": 1
+  },
+  "ID_d0bd0091": {
+    "intraventricular": 1
+  },
+  "ID_f527f156": {
+    "intraventricular": 1
+  },
+  "ID_b88591bd": {
+    "intraventricular": 1
+  },
+  "ID_3d9d3a41": {
+    "intraventricular": 1
+  },
+  "ID_739d717a": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_3452ecb6": {
+    "intraventricular": 1
+  },
+  "ID_3d61f4e6": {
+    "intraventricular": 1
+  },
+  "ID_2bc99005": {
+    "intraventricular": 1
+  },
+  "ID_2334b45f": {
+    "intraventricular": 1
+  },
+  "ID_df426ca8": {
+    "intraventricular": 1
+  },
+  "ID_0dea8a82": {
+    "intraventricular": 2
+  },
+  "ID_e18fece3": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_e60060d0": {
+    "intraventricular": 1
+  },
+  "ID_7f4d871a": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_b95547a2": {
+    "intraventricular": 1
+  },
+  "ID_63a348f3": {
+    "intraventricular": 1
+  },
+  "ID_1e55e32e": {
+    "intraventricular": 1
+  },
+  "ID_75b48e11": {
+    "intraventricular": 1
+  },
+  "ID_242e2a39": {
+    "intraventricular": 2
+  },
+  "ID_5b7741f4": {
+    "intraventricular": 1
+  },
+  "ID_cd799efc": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_ff13957f": {
+    "intraventricular": 1
+  },
+  "ID_bf7186f7": {
+    "intraventricular": 1
+  },
+  "ID_4bccf3b8": {
+    "intraventricular": 1
+  },
+  "ID_1f14ffe7": {
+    "intraventricular": 1
+  },
+  "ID_216472d1": {
+    "intraventricular": 1
+  },
+  "ID_5b0d2a56": {
+    "intraventricular": 1
+  },
+  "ID_0032e9ab": {
+    "intraventricular": 1
+  },
+  "ID_9d1fb010": {
+    "intraventricular": 1,
+    "subarachnoid": 1
+  },
+  "ID_fcd3a083": {
+    "intraventricular": 1
+  },
+  "ID_15832c7b": {
+    "intraventricular": 2
+  },
+  "ID_98928ea2": {
+    "intraventricular": 1
+  },
+  "ID_c648cb57": {
+    "intraventricular": 1
+  },
+  "ID_24ae7732": {
+    "intraventricular": 1
+  },
+  "ID_ce4577f3": {
+    "intraventricular": 2
+  },
+  "ID_46528c00": {
+    "intraventricular": 1
+  },
+  "ID_668c2b43": {
+    "intraventricular": 1
+  },
+  "ID_010076df": {
+    "intraventricular": 1
+  },
+  "ID_5660f737": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_f6d26e75": {
+    "intraventricular": 1
+  },
+  "ID_3764c56d": {
+    "intraventricular": 1
+  },
+  "ID_57a2585d": {
+    "intraventricular": 1
+  },
+  "ID_e8213068": {
+    "intraventricular": 1
+  },
+  "ID_0492041f": {
+    "intraventricular": 1
+  },
+  "ID_813320be": {
+    "intraventricular": 1
+  },
+  "ID_fd585590": {
+    "intraventricular": 1
+  },
+  "ID_a4daebb9": {
+    "intraventricular": 1
+  },
+  "ID_18713f12": {
+    "intraventricular": 1
+  },
+  "ID_e967de47": {
+    "intraventricular": 1
+  },
+  "ID_fc04fdcd": {
+    "intraventricular": 1
+  },
+  "ID_6c102b7c": {
+    "intraventricular": 1
+  },
+  "ID_d61abcdc": {
+    "intraventricular": 1
+  },
+  "ID_c3d58de5": {
+    "intraventricular": 1
+  },
+  "ID_3da98289": {
+    "intraventricular": 1
+  },
+  "ID_bf190e86": {
+    "intraventricular": 1
+  },
+  "ID_be17c5d6": {
+    "intraventricular": 1
+  },
+  "ID_ca50bc8e": {
+    "intraventricular": 1
+  },
+  "ID_05f3f707": {
+    "intraventricular": 1
+  },
+  "ID_ca44af3e": {
+    "intraventricular": 1
+  },
+  "ID_9a20fee8": {
+    "intraventricular": 1
+  },
+  "ID_9abae82d": {
+    "intraventricular": 1
+  },
+  "ID_5737b5d2": {
+    "intraventricular": 1
+  },
+  "ID_9b2b3fd9": {
+    "intraventricular": 1
+  },
+  "ID_edceb9cc": {
+    "intraventricular": 1
+  },
+  "ID_c618483e": {
+    "intraventricular": 1
+  },
+  "ID_fff140ff": {
+    "intraventricular": 1
+  },
+  "ID_e3e27cb5": {
+    "intraventricular": 1
+  },
+  "ID_5390255f": {
+    "intraventricular": 2
+  },
+  "ID_df5f7b81": {
+    "intraventricular": 1
+  },
+  "ID_95e8a94a": {
+    "intraventricular": 1
+  },
+  "ID_c436c3cc": {
+    "intraventricular": 1
+  },
+  "ID_145594ea": {
+    "intraventricular": 1,
+    "subdural": 1
+  },
+  "ID_30443a04": {
+    "intraventricular": 1
+  },
+  "ID_154cd735": {
+    "intraventricular": 1
+  },
+  "ID_a7c80070": {
+    "intraventricular": 1
+  },
+  "ID_45b881a8": {
+    "intraventricular": 1
+  },
+  "ID_248b9507": {
+    "intraventricular": 1
+  },
+  "ID_987f82fd": {
+    "subarachnoid": 1
+  },
+  "ID_beee50fc": {
+    "subarachnoid": 2
+  },
+  "ID_ad16d5be": {
+    "subarachnoid": 1
+  },
+  "ID_a6882fde": {
+    "subarachnoid": 2
+  },
+  "ID_a4b5dc33": {
+    "subarachnoid": 1
+  },
+  "ID_475f27ce": {
+    "subarachnoid": 1
+  },
+  "ID_42976f4e": {
+    "subarachnoid": 3
+  },
+  "ID_a640e2dc": {
+    "subarachnoid": 4
+  },
+  "ID_cd60fce3": {
+    "subarachnoid": 2
+  },
+  "ID_d0681f0c": {
+    "subarachnoid": 2
+  },
+  "ID_f7f652fa": {
+    "subarachnoid": 1
+  },
+  "ID_fc0b4b11": {
+    "subarachnoid": 2
+  },
+  "ID_f7722985": {
+    "subarachnoid": 1
+  },
+  "ID_2292709a": {
+    "subarachnoid": 4
+  },
+  "ID_7edc1693": {
+    "subarachnoid": 2
+  },
+  "ID_27cc3b07": {
+    "subarachnoid": 2
+  },
+  "ID_279141ee": {
+    "subarachnoid": 2
+  },
+  "ID_09098359": {
+    "subarachnoid": 1
+  },
+  "ID_c5950b66": {
+    "subarachnoid": 1
+  },
+  "ID_1eb75bc5": {
+    "subarachnoid": 1
+  },
+  "ID_b93aa108": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_c27087c4": {
+    "subarachnoid": 1
+  },
+  "ID_7d5594ff": {
+    "subarachnoid": 2
+  },
+  "ID_17b06f60": {
+    "subarachnoid": 1
+  },
+  "ID_536d6a46": {
+    "subarachnoid": 1
+  },
+  "ID_29f76596": {
+    "subarachnoid": 1
+  },
+  "ID_3ff295e3": {
+    "subarachnoid": 1
+  },
+  "ID_e4b5e9b9": {
+    "subarachnoid": 2
+  },
+  "ID_10b885f6": {
+    "subarachnoid": 1
+  },
+  "ID_f3640360": {
+    "subarachnoid": 4,
+    "subdural": 1
+  },
+  "ID_d8b5411f": {
+    "subarachnoid": 1
+  },
+  "ID_094e7d24": {
+    "subarachnoid": 2
+  },
+  "ID_668bc5a1": {
+    "subarachnoid": 3
+  },
+  "ID_28622235": {
+    "subarachnoid": 2,
+    "subdural": 1
+  },
+  "ID_cf66e5e1": {
+    "subarachnoid": 4
+  },
+  "ID_90e4bff9": {
+    "subarachnoid": 1
+  },
+  "ID_0317c747": {
+    "subarachnoid": 1
+  },
+  "ID_33a6fa45": {
+    "subarachnoid": 1
+  },
+  "ID_36fb9ebb": {
+    "subarachnoid": 4
+  },
+  "ID_8702a0c3": {
+    "subarachnoid": 2
+  },
+  "ID_010f1536": {
+    "subarachnoid": 1
+  },
+  "ID_23e1b0e7": {
+    "subarachnoid": 2
+  },
+  "ID_56faaf6f": {
+    "subarachnoid": 2
+  },
+  "ID_a9695210": {
+    "subarachnoid": 4
+  },
+  "ID_bf7dd103": {
+    "subarachnoid": 1
+  },
+  "ID_9b234709": {
+    "subarachnoid": 1
+  },
+  "ID_0027f0b7": {
+    "subarachnoid": 1
+  },
+  "ID_a6e15e1d": {
+    "subarachnoid": 1
+  },
+  "ID_9d1a530e": {
+    "subarachnoid": 8
+  },
+  "ID_57e84b50": {
+    "subarachnoid": 2
+  },
+  "ID_46421377": {
+    "subarachnoid": 2
+  },
+  "ID_c0870d22": {
+    "subarachnoid": 3
+  },
+  "ID_6002581a": {
+    "subarachnoid": 2
+  },
+  "ID_d67ed415": {
+    "subarachnoid": 2
+  },
+  "ID_a678d75a": {
+    "subarachnoid": 1
+  },
+  "ID_a1041905": {
+    "subarachnoid": 4
+  },
+  "ID_c3fa9b78": {
+    "subarachnoid": 1
+  },
+  "ID_35bd675e": {
+    "subarachnoid": 1
+  },
+  "ID_01e9a2d2": {
+    "subarachnoid": 1
+  },
+  "ID_731b1874": {
+    "subarachnoid": 1
+  },
+  "ID_1360c43e": {
+    "subarachnoid": 1
+  },
+  "ID_b8f611f8": {
+    "subarachnoid": 1
+  },
+  "ID_3478dc40": {
+    "subarachnoid": 3
+  },
+  "ID_70a38dbf": {
+    "subarachnoid": 1
+  },
+  "ID_f154fe1f": {
+    "subarachnoid": 4
+  },
+  "ID_948c1839": {
+    "subarachnoid": 1
+  },
+  "ID_833b6f89": {
+    "subarachnoid": 1
+  },
+  "ID_55c9b6d0": {
+    "subarachnoid": 2
+  },
+  "ID_a5e79a54": {
+    "subarachnoid": 2
+  },
+  "ID_1755ca22": {
+    "subarachnoid": 1
+  },
+  "ID_ca3f9d68": {
+    "subarachnoid": 1
+  },
+  "ID_6d3551a1": {
+    "subarachnoid": 1
+  },
+  "ID_57a09f4b": {
+    "subarachnoid": 2
+  },
+  "ID_1c9a79e8": {
+    "subarachnoid": 1
+  },
+  "ID_96bb7e1d": {
+    "subarachnoid": 3
+  },
+  "ID_196704db": {
+    "subarachnoid": 2
+  },
+  "ID_dca28040": {
+    "subarachnoid": 1
+  },
+  "ID_8ea99099": {
+    "subarachnoid": 1
+  },
+  "ID_de372b46": {
+    "subarachnoid": 3
+  },
+  "ID_46665245": {
+    "subarachnoid": 2
+  },
+  "ID_6e755120": {
+    "subarachnoid": 1
+  },
+  "ID_cf2d6600": {
+    "subarachnoid": 1
+  },
+  "ID_2aecd51c": {
+    "subarachnoid": 1
+  },
+  "ID_934d5251": {
+    "subarachnoid": 1
+  },
+  "ID_9991f75a": {
+    "subarachnoid": 1
+  },
+  "ID_8ad824de": {
+    "subarachnoid": 1
+  },
+  "ID_fdd1b3e7": {
+    "subarachnoid": 1
+  },
+  "ID_7ec956c5": {
+    "subarachnoid": 1
+  },
+  "ID_04434da1": {
+    "subarachnoid": 1
+  },
+  "ID_b10285e8": {
+    "subarachnoid": 1
+  },
+  "ID_5e035492": {
+    "subarachnoid": 11
+  },
+  "ID_e205e5d1": {
+    "subarachnoid": 1
+  },
+  "ID_343b9c92": {
+    "subarachnoid": 1
+  },
+  "ID_ba182402": {
+    "subarachnoid": 1
+  },
+  "ID_088eae13": {
+    "subarachnoid": 1
+  },
+  "ID_dda1bf95": {
+    "subarachnoid": 1
+  },
+  "ID_0308dba8": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_61fd9f22": {
+    "subarachnoid": 1
+  },
+  "ID_d9bfff12": {
+    "subarachnoid": 1
+  },
+  "ID_b325bd28": {
+    "subarachnoid": 2
+  },
+  "ID_4c5d8a4c": {
+    "subarachnoid": 2
+  },
+  "ID_4f7414e4": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_a0b2fb20": {
+    "subarachnoid": 1
+  },
+  "ID_bb94c6c7": {
+    "subarachnoid": 1
+  },
+  "ID_859756af": {
+    "subarachnoid": 1
+  },
+  "ID_6cdb644e": {
+    "subarachnoid": 4
+  },
+  "ID_95c4a59c": {
+    "subarachnoid": 1
+  },
+  "ID_062e2351": {
+    "subarachnoid": 2
+  },
+  "ID_f790ed5c": {
+    "subarachnoid": 1
+  },
+  "ID_0369d8b8": {
+    "subarachnoid": 2,
+    "subdural": 1
+  },
+  "ID_3d2b8f38": {
+    "subarachnoid": 2
+  },
+  "ID_543a594f": {
+    "subarachnoid": 3
+  },
+  "ID_53ceccd7": {
+    "subarachnoid": 1
+  },
+  "ID_ed5ef66c": {
+    "subarachnoid": 1
+  },
+  "ID_4f4a6287": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_85a9fd75": {
+    "subarachnoid": 2
+  },
+  "ID_95a5acfc": {
+    "subarachnoid": 1
+  },
+  "ID_04c0a0d5": {
+    "subarachnoid": 1
+  },
+  "ID_eaec9585": {
+    "subarachnoid": 1
+  },
+  "ID_9f92d56c": {
+    "subarachnoid": 1
+  },
+  "ID_6a396b2c": {
+    "subarachnoid": 1
+  },
+  "ID_672114f0": {
+    "subarachnoid": 2
+  },
+  "ID_2c3addae": {
+    "subarachnoid": 3
+  },
+  "ID_fa91df61": {
+    "subarachnoid": 1
+  },
+  "ID_29d2772a": {
+    "subarachnoid": 1
+  },
+  "ID_6140b3b3": {
+    "subarachnoid": 1
+  },
+  "ID_8e834398": {
+    "subarachnoid": 1
+  },
+  "ID_a2a0c144": {
+    "subarachnoid": 1
+  },
+  "ID_7001adfb": {
+    "subarachnoid": 1
+  },
+  "ID_eb39f236": {
+    "subarachnoid": 1
+  },
+  "ID_a1ce8d8d": {
+    "subarachnoid": 1
+  },
+  "ID_8c9bf219": {
+    "subarachnoid": 4
+  },
+  "ID_6401f47a": {
+    "subarachnoid": 3
+  },
+  "ID_35c1cb3b": {
+    "subarachnoid": 2
+  },
+  "ID_8695360b": {
+    "subarachnoid": 2
+  },
+  "ID_23aa33c6": {
+    "subarachnoid": 2
+  },
+  "ID_5816f150": {
+    "subarachnoid": 3
+  },
+  "ID_06eea7c9": {
+    "subarachnoid": 1
+  },
+  "ID_83902425": {
+    "subarachnoid": 2
+  },
+  "ID_73f5aba5": {
+    "subarachnoid": 1
+  },
+  "ID_40306e99": {
+    "subarachnoid": 3
+  },
+  "ID_8ae706e5": {
+    "subarachnoid": 1
+  },
+  "ID_f8170fd0": {
+    "subarachnoid": 2
+  },
+  "ID_87a58e54": {
+    "subarachnoid": 1
+  },
+  "ID_ad252872": {
+    "subarachnoid": 1
+  },
+  "ID_0cd40b98": {
+    "subarachnoid": 1
+  },
+  "ID_02981e5e": {
+    "subarachnoid": 1
+  },
+  "ID_a2c62380": {
+    "subarachnoid": 2
+  },
+  "ID_4c628dd3": {
+    "subarachnoid": 1
+  },
+  "ID_b367130b": {
+    "subarachnoid": 1
+  },
+  "ID_aac04c61": {
+    "subarachnoid": 2
+  },
+  "ID_f64a6afe": {
+    "subarachnoid": 1
+  },
+  "ID_a40e10b0": {
+    "subarachnoid": 1
+  },
+  "ID_98f31fae": {
+    "subarachnoid": 2
+  },
+  "ID_a77bd99a": {
+    "subarachnoid": 1
+  },
+  "ID_17b35af2": {
+    "subarachnoid": 2
+  },
+  "ID_b3a59405": {
+    "subarachnoid": 1
+  },
+  "ID_24120129": {
+    "subarachnoid": 1
+  },
+  "ID_777c6557": {
+    "subarachnoid": 2
+  },
+  "ID_1484f012": {
+    "subarachnoid": 1
+  },
+  "ID_e5330a9f": {
+    "subarachnoid": 2
+  },
+  "ID_15d6e68f": {
+    "subarachnoid": 1
+  },
+  "ID_fa05f742": {
+    "subarachnoid": 2
+  },
+  "ID_3317c872": {
+    "subarachnoid": 2
+  },
+  "ID_f0601d4d": {
+    "subarachnoid": 2
+  },
+  "ID_c9ff34e5": {
+    "subarachnoid": 1
+  },
+  "ID_95907b55": {
+    "subarachnoid": 1
+  },
+  "ID_99e078f4": {
+    "subarachnoid": 2
+  },
+  "ID_a8a466f9": {
+    "subarachnoid": 1
+  },
+  "ID_363d5865": {
+    "subarachnoid": 2
+  },
+  "ID_db291695": {
+    "subarachnoid": 1
+  },
+  "ID_41b06ac7": {
+    "subarachnoid": 1
+  },
+  "ID_855a5452": {
+    "subarachnoid": 2
+  },
+  "ID_c8998ef7": {
+    "subarachnoid": 1
+  },
+  "ID_999b5a20": {
+    "subarachnoid": 1
+  },
+  "ID_8b5c1e75": {
+    "subarachnoid": 1
+  },
+  "ID_83a5df75": {
+    "subarachnoid": 1
+  },
+  "ID_a1c35b9a": {
+    "subarachnoid": 2
+  },
+  "ID_e598722f": {
+    "subarachnoid": 1
+  },
+  "ID_8e32d806": {
+    "subarachnoid": 1
+  },
+  "ID_7b4d1d09": {
+    "subarachnoid": 2
+  },
+  "ID_aa99ef78": {
+    "subarachnoid": 1
+  },
+  "ID_c07cb54c": {
+    "subarachnoid": 1
+  },
+  "ID_db686eda": {
+    "subarachnoid": 1
+  },
+  "ID_ab3e1590": {
+    "subarachnoid": 1
+  },
+  "ID_1ba1f881": {
+    "subarachnoid": 1
+  },
+  "ID_fcbe7eda": {
+    "subarachnoid": 1
+  },
+  "ID_e8dec628": {
+    "subarachnoid": 1
+  },
+  "ID_28a2d020": {
+    "subarachnoid": 2
+  },
+  "ID_ae5b7aa1": {
+    "subarachnoid": 1
+  },
+  "ID_8559857f": {
+    "subarachnoid": 1
+  },
+  "ID_bfe797dd": {
+    "subarachnoid": 1
+  },
+  "ID_36b28124": {
+    "subarachnoid": 1
+  },
+  "ID_320c4ca7": {
+    "subarachnoid": 2
+  },
+  "ID_8042a129": {
+    "subarachnoid": 1
+  },
+  "ID_78bf4234": {
+    "subarachnoid": 1
+  },
+  "ID_91fc9602": {
+    "subarachnoid": 1
+  },
+  "ID_dbcebe8d": {
+    "subarachnoid": 1
+  },
+  "ID_57aec053": {
+    "subarachnoid": 1
+  },
+  "ID_af7349b2": {
+    "subarachnoid": 1
+  },
+  "ID_f3521d34": {
+    "subarachnoid": 1
+  },
+  "ID_6765fdb5": {
+    "subarachnoid": 1
+  },
+  "ID_891c560b": {
+    "subarachnoid": 2
+  },
+  "ID_3d528831": {
+    "subarachnoid": 1
+  },
+  "ID_3be7cc35": {
+    "subarachnoid": 2
+  },
+  "ID_a9af7053": {
+    "subarachnoid": 1
+  },
+  "ID_923eb857": {
+    "subarachnoid": 2
+  },
+  "ID_e34ca49d": {
+    "subarachnoid": 1
+  },
+  "ID_8bcba1ca": {
+    "subarachnoid": 2
+  },
+  "ID_d9870311": {
+    "subarachnoid": 3
+  },
+  "ID_79a16a68": {
+    "subarachnoid": 1
+  },
+  "ID_e34b5768": {
+    "subarachnoid": 1
+  },
+  "ID_2e474c9c": {
+    "subarachnoid": 3
+  },
+  "ID_29d12ca4": {
+    "subarachnoid": 2
+  },
+  "ID_929f70fe": {
+    "subarachnoid": 2
+  },
+  "ID_cfe7b0f6": {
+    "subarachnoid": 1
+  },
+  "ID_93f875c3": {
+    "subarachnoid": 2
+  },
+  "ID_1843243b": {
+    "subarachnoid": 1
+  },
+  "ID_7460d1ab": {
+    "subarachnoid": 1
+  },
+  "ID_1aafead3": {
+    "subarachnoid": 3
+  },
+  "ID_5821069b": {
+    "subarachnoid": 2
+  },
+  "ID_f1380040": {
+    "subarachnoid": 3
+  },
+  "ID_de69bd01": {
+    "subarachnoid": 1
+  },
+  "ID_ae8edb71": {
+    "subarachnoid": 1
+  },
+  "ID_2f2e193e": {
+    "subarachnoid": 2
+  },
+  "ID_6708ab08": {
+    "subarachnoid": 1
+  },
+  "ID_c49d8638": {
+    "subarachnoid": 2
+  },
+  "ID_710a1efb": {
+    "subarachnoid": 2
+  },
+  "ID_15541483": {
+    "subarachnoid": 2
+  },
+  "ID_fba3c98f": {
+    "subarachnoid": 1
+  },
+  "ID_a42d8028": {
+    "subarachnoid": 1
+  },
+  "ID_e79c618e": {
+    "subarachnoid": 1
+  },
+  "ID_79c76891": {
+    "subarachnoid": 1
+  },
+  "ID_e3336cb4": {
+    "subarachnoid": 2
+  },
+  "ID_fab53680": {
+    "subarachnoid": 2
+  },
+  "ID_35b658c9": {
+    "subarachnoid": 2
+  },
+  "ID_a3c40308": {
+    "subarachnoid": 3
+  },
+  "ID_0c6b97a9": {
+    "subarachnoid": 1
+  },
+  "ID_23230e9d": {
+    "subarachnoid": 1
+  },
+  "ID_d1a4c52c": {
+    "subarachnoid": 1
+  },
+  "ID_5bc96ce2": {
+    "subarachnoid": 1
+  },
+  "ID_079b052f": {
+    "subarachnoid": 1
+  },
+  "ID_9d051d39": {
+    "subarachnoid": 1
+  },
+  "ID_3aa50c55": {
+    "subarachnoid": 4
+  },
+  "ID_8907ce15": {
+    "subarachnoid": 1
+  },
+  "ID_68e87787": {
+    "subarachnoid": 1
+  },
+  "ID_7398556b": {
+    "subarachnoid": 1
+  },
+  "ID_6a172ec9": {
+    "subarachnoid": 1
+  },
+  "ID_dbde7fc4": {
+    "subarachnoid": 1
+  },
+  "ID_f52d8096": {
+    "subarachnoid": 1
+  },
+  "ID_4a575874": {
+    "subarachnoid": 1
+  },
+  "ID_68aff889": {
+    "subarachnoid": 1
+  },
+  "ID_efe2af71": {
+    "subarachnoid": 1
+  },
+  "ID_8869ee9f": {
+    "subarachnoid": 1
+  },
+  "ID_018b83e7": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_99fa6b28": {
+    "subarachnoid": 1
+  },
+  "ID_4a0596ca": {
+    "subarachnoid": 1
+  },
+  "ID_7634589d": {
+    "subarachnoid": 1
+  },
+  "ID_64e4d185": {
+    "subarachnoid": 1
+  },
+  "ID_c4519e23": {
+    "subarachnoid": 1
+  },
+  "ID_1b6713bf": {
+    "subarachnoid": 2
+  },
+  "ID_0b4d1aa3": {
+    "subarachnoid": 1
+  },
+  "ID_d90b2bcb": {
+    "subarachnoid": 3
+  },
+  "ID_66471416": {
+    "subarachnoid": 1
+  },
+  "ID_86672f27": {
+    "subarachnoid": 1
+  },
+  "ID_50bbc7a4": {
+    "subarachnoid": 1
+  },
+  "ID_8fca1bf5": {
+    "subarachnoid": 1
+  },
+  "ID_3620573f": {
+    "subarachnoid": 1
+  },
+  "ID_d5a38d3c": {
+    "subarachnoid": 2
+  },
+  "ID_ee52f238": {
+    "subarachnoid": 1
+  },
+  "ID_2722b90e": {
+    "subarachnoid": 2
+  },
+  "ID_50266eee": {
+    "subarachnoid": 1
+  },
+  "ID_aa3970b2": {
+    "subarachnoid": 1
+  },
+  "ID_ecef029e": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_05e2e00a": {
+    "subarachnoid": 1
+  },
+  "ID_845d3926": {
+    "subarachnoid": 1
+  },
+  "ID_315daabb": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_7a2718f7": {
+    "subarachnoid": 2
+  },
+  "ID_9528d501": {
+    "subarachnoid": 1
+  },
+  "ID_f3e7a788": {
+    "subarachnoid": 1
+  },
+  "ID_c52cd27e": {
+    "subarachnoid": 3
+  },
+  "ID_1fe2b5f3": {
+    "subarachnoid": 1
+  },
+  "ID_d7d95dbe": {
+    "subarachnoid": 1
+  },
+  "ID_dc5387aa": {
+    "subarachnoid": 1
+  },
+  "ID_79789122": {
+    "subarachnoid": 2
+  },
+  "ID_8f921cba": {
+    "subarachnoid": 2
+  },
+  "ID_80854078": {
+    "subarachnoid": 1
+  },
+  "ID_cc2d652f": {
+    "subarachnoid": 1
+  },
+  "ID_66d7b189": {
+    "subarachnoid": 2
+  },
+  "ID_07074e4c": {
+    "subarachnoid": 2
+  },
+  "ID_35c74c3c": {
+    "subarachnoid": 1
+  },
+  "ID_9983c7fd": {
+    "subarachnoid": 1
+  },
+  "ID_fa05bb06": {
+    "subarachnoid": 1
+  },
+  "ID_4ed56e2f": {
+    "subarachnoid": 1
+  },
+  "ID_22b1f294": {
+    "subarachnoid": 1
+  },
+  "ID_3ae6be25": {
+    "subarachnoid": 1
+  },
+  "ID_2fd0ae9e": {
+    "subarachnoid": 1
+  },
+  "ID_f778e9d2": {
+    "subarachnoid": 1
+  },
+  "ID_c4d6b7e4": {
+    "subarachnoid": 2
+  },
+  "ID_c5fef86e": {
+    "subarachnoid": 1
+  },
+  "ID_e38ebb05": {
+    "subarachnoid": 1
+  },
+  "ID_ef005087": {
+    "subarachnoid": 1
+  },
+  "ID_22a9f39b": {
+    "subarachnoid": 1
+  },
+  "ID_7f02466e": {
+    "subarachnoid": 1
+  },
+  "ID_a690cfcc": {
+    "subarachnoid": 2
+  },
+  "ID_7a01bf35": {
+    "subarachnoid": 1
+  },
+  "ID_6d46d7d6": {
+    "subarachnoid": 1
+  },
+  "ID_a5dcb72f": {
+    "subarachnoid": 2
+  },
+  "ID_04558859": {
+    "subarachnoid": 1
+  },
+  "ID_69299bd2": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_4a71814b": {
+    "subarachnoid": 1
+  },
+  "ID_cc734ebe": {
+    "subarachnoid": 1
+  },
+  "ID_a595d4c7": {
+    "subarachnoid": 2
+  },
+  "ID_4a73b0b4": {
+    "subarachnoid": 1
+  },
+  "ID_d4b3d43f": {
+    "subarachnoid": 1
+  },
+  "ID_5f2f2c53": {
+    "subarachnoid": 1
+  },
+  "ID_e9203a32": {
+    "subarachnoid": 2
+  },
+  "ID_c23086ee": {
+    "subarachnoid": 2
+  },
+  "ID_fdb8a9df": {
+    "subarachnoid": 2
+  },
+  "ID_2c95dc54": {
+    "subarachnoid": 1
+  },
+  "ID_4e11c8ce": {
+    "subarachnoid": 2
+  },
+  "ID_71402efa": {
+    "subarachnoid": 1
+  },
+  "ID_3ab98fc2": {
+    "subarachnoid": 2
+  },
+  "ID_b4dcc61a": {
+    "subarachnoid": 1
+  },
+  "ID_9e0338a0": {
+    "subarachnoid": 2
+  },
+  "ID_b3a961a9": {
+    "subarachnoid": 1
+  },
+  "ID_981d95a4": {
+    "subarachnoid": 1
+  },
+  "ID_0e31f1c8": {
+    "subarachnoid": 1
+  },
+  "ID_1c3da1cd": {
+    "subarachnoid": 2
+  },
+  "ID_c7902eb7": {
+    "subarachnoid": 1
+  },
+  "ID_8aac42a8": {
+    "subarachnoid": 2
+  },
+  "ID_2358b4d3": {
+    "subarachnoid": 3
+  },
+  "ID_e1aafd9f": {
+    "subarachnoid": 2
+  },
+  "ID_40f72af9": {
+    "subarachnoid": 1
+  },
+  "ID_f82fb66a": {
+    "subarachnoid": 1
+  },
+  "ID_51f938eb": {
+    "subarachnoid": 1
+  },
+  "ID_ed87ff41": {
+    "subarachnoid": 1
+  },
+  "ID_1c39e635": {
+    "subarachnoid": 2
+  },
+  "ID_87c94ade": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_0196b78b": {
+    "subarachnoid": 1
+  },
+  "ID_13247732": {
+    "subarachnoid": 1
+  },
+  "ID_93b150d0": {
+    "subarachnoid": 1
+  },
+  "ID_204509e7": {
+    "subarachnoid": 1
+  },
+  "ID_05e3c061": {
+    "subarachnoid": 1
+  },
+  "ID_75448f16": {
+    "subarachnoid": 2
+  },
+  "ID_027ddf9a": {
+    "subarachnoid": 1
+  },
+  "ID_81441241": {
+    "subarachnoid": 2
+  },
+  "ID_2f2e0044": {
+    "subarachnoid": 1
+  },
+  "ID_2086c7f3": {
+    "subarachnoid": 4
+  },
+  "ID_a5161ef1": {
+    "subarachnoid": 1
+  },
+  "ID_d97dcee5": {
+    "subarachnoid": 1
+  },
+  "ID_8d098c96": {
+    "subarachnoid": 1
+  },
+  "ID_75a34aa5": {
+    "subarachnoid": 1
+  },
+  "ID_024b1aa8": {
+    "subarachnoid": 1
+  },
+  "ID_2b9a0383": {
+    "subarachnoid": 1
+  },
+  "ID_98450f26": {
+    "subarachnoid": 1
+  },
+  "ID_ad5067ba": {
+    "subarachnoid": 1
+  },
+  "ID_4b25b9a4": {
+    "subarachnoid": 1
+  },
+  "ID_d2708873": {
+    "subarachnoid": 1
+  },
+  "ID_a0a1ad53": {
+    "subarachnoid": 1
+  },
+  "ID_4dcc2375": {
+    "subarachnoid": 1
+  },
+  "ID_6c30db4d": {
+    "subarachnoid": 1
+  },
+  "ID_590900c6": {
+    "subarachnoid": 2
+  },
+  "ID_48c169a4": {
+    "subarachnoid": 2
+  },
+  "ID_0c0741e4": {
+    "subarachnoid": 1
+  },
+  "ID_85982e79": {
+    "subarachnoid": 1
+  },
+  "ID_b5a2c381": {
+    "subarachnoid": 1
+  },
+  "ID_34d288e0": {
+    "subarachnoid": 1
+  },
+  "ID_1dc8cf3a": {
+    "subarachnoid": 1
+  },
+  "ID_60d999c3": {
+    "subarachnoid": 1
+  },
+  "ID_b1406365": {
+    "subarachnoid": 1
+  },
+  "ID_b25f5a8d": {
+    "subarachnoid": 1
+  },
+  "ID_67bfaae1": {
+    "subarachnoid": 1
+  },
+  "ID_70bae047": {
+    "subarachnoid": 1
+  },
+  "ID_31941157": {
+    "subarachnoid": 1
+  },
+  "ID_816402d1": {
+    "subarachnoid": 1
+  },
+  "ID_df8e91c3": {
+    "subarachnoid": 1
+  },
+  "ID_30b4927a": {
+    "subarachnoid": 1
+  },
+  "ID_d2411825": {
+    "subarachnoid": 1
+  },
+  "ID_10180dca": {
+    "subarachnoid": 2
+  },
+  "ID_2c5dd629": {
+    "subarachnoid": 1
+  },
+  "ID_ba74b187": {
+    "subarachnoid": 1
+  },
+  "ID_7489a362": {
+    "subarachnoid": 1
+  },
+  "ID_cbc550f2": {
+    "subarachnoid": 2
+  },
+  "ID_6ae9cf01": {
+    "subarachnoid": 1
+  },
+  "ID_f8c2f649": {
+    "subarachnoid": 1
+  },
+  "ID_0abaa8c8": {
+    "subarachnoid": 2
+  },
+  "ID_93c11bdb": {
+    "subarachnoid": 1
+  },
+  "ID_a065f3ac": {
+    "subarachnoid": 1
+  },
+  "ID_908fe551": {
+    "subarachnoid": 1
+  },
+  "ID_9e29061d": {
+    "subarachnoid": 2
+  },
+  "ID_d14f2725": {
+    "subarachnoid": 1
+  },
+  "ID_218f2611": {
+    "subarachnoid": 2
+  },
+  "ID_40e2a9f9": {
+    "subarachnoid": 2
+  },
+  "ID_0eb5ff15": {
+    "subarachnoid": 2
+  },
+  "ID_b58b3cb1": {
+    "subarachnoid": 1
+  },
+  "ID_6bd77153": {
+    "subarachnoid": 1
+  },
+  "ID_c53be544": {
+    "subarachnoid": 1
+  },
+  "ID_ca00f377": {
+    "subarachnoid": 1
+  },
+  "ID_c0158c64": {
+    "subarachnoid": 2
+  },
+  "ID_d37f06fb": {
+    "subarachnoid": 1
+  },
+  "ID_322f02c9": {
+    "subarachnoid": 1
+  },
+  "ID_8349a94e": {
+    "subarachnoid": 1
+  },
+  "ID_4a84757b": {
+    "subarachnoid": 1
+  },
+  "ID_06b045bf": {
+    "subarachnoid": 1
+  },
+  "ID_c08a7b51": {
+    "subarachnoid": 2
+  },
+  "ID_2452bdec": {
+    "subarachnoid": 1
+  },
+  "ID_ba5d37ac": {
+    "subarachnoid": 1
+  },
+  "ID_ca0cf17b": {
+    "subarachnoid": 1
+  },
+  "ID_cfeff11e": {
+    "subarachnoid": 1
+  },
+  "ID_2d284513": {
+    "subarachnoid": 1
+  },
+  "ID_09bf6329": {
+    "subarachnoid": 1
+  },
+  "ID_c7d51be0": {
+    "subarachnoid": 1
+  },
+  "ID_49cf0218": {
+    "subarachnoid": 1
+  },
+  "ID_9c5d363c": {
+    "subarachnoid": 1
+  },
+  "ID_18cc0e70": {
+    "subarachnoid": 1
+  },
+  "ID_8ab72a0c": {
+    "subarachnoid": 1
+  },
+  "ID_1534ad17": {
+    "subarachnoid": 2
+  },
+  "ID_9abb69e0": {
+    "subarachnoid": 1
+  },
+  "ID_66356dfe": {
+    "subarachnoid": 1
+  },
+  "ID_f8067441": {
+    "subarachnoid": 1
+  },
+  "ID_86029e8c": {
+    "subarachnoid": 1
+  },
+  "ID_103b5a67": {
+    "subarachnoid": 1
+  },
+  "ID_7d2e9703": {
+    "subarachnoid": 1
+  },
+  "ID_f61c240b": {
+    "subarachnoid": 2
+  },
+  "ID_30d19531": {
+    "subarachnoid": 1
+  },
+  "ID_421ab2e7": {
+    "subarachnoid": 1
+  },
+  "ID_77b0c27a": {
+    "subarachnoid": 2
+  },
+  "ID_23e335f2": {
+    "subarachnoid": 2
+  },
+  "ID_db4a88cc": {
+    "subarachnoid": 1
+  },
+  "ID_ce5f0b6c": {
+    "subarachnoid": 2
+  },
+  "ID_743eab7b": {
+    "subarachnoid": 1
+  },
+  "ID_ff90a827": {
+    "subarachnoid": 1
+  },
+  "ID_b27b2248": {
+    "subarachnoid": 1
+  },
+  "ID_eb5a964a": {
+    "subarachnoid": 1
+  },
+  "ID_8565411f": {
+    "subarachnoid": 1
+  },
+  "ID_6bac027d": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_066b42ce": {
+    "subarachnoid": 1
+  },
+  "ID_031e50a3": {
+    "subarachnoid": 1
+  },
+  "ID_55c5763a": {
+    "subarachnoid": 1
+  },
+  "ID_2723b180": {
+    "subarachnoid": 1
+  },
+  "ID_34c65238": {
+    "subarachnoid": 2
+  },
+  "ID_dbfa26fc": {
+    "subarachnoid": 2
+  },
+  "ID_86525a85": {
+    "subarachnoid": 1
+  },
+  "ID_c4c18b8c": {
+    "subarachnoid": 1
+  },
+  "ID_0afb9a0d": {
+    "subarachnoid": 1
+  },
+  "ID_b4d536f1": {
+    "subarachnoid": 1
+  },
+  "ID_03ac259b": {
+    "subarachnoid": 1
+  },
+  "ID_30947bb0": {
+    "subarachnoid": 1
+  },
+  "ID_1cbb2eae": {
+    "subarachnoid": 1
+  },
+  "ID_93e3cc83": {
+    "subarachnoid": 1
+  },
+  "ID_51b97991": {
+    "subarachnoid": 2
+  },
+  "ID_43daa556": {
+    "subarachnoid": 1
+  },
+  "ID_e18ad253": {
+    "subarachnoid": 1
+  },
+  "ID_d57d29f2": {
+    "subarachnoid": 1
+  },
+  "ID_5efbc6de": {
+    "subarachnoid": 1
+  },
+  "ID_279a2edf": {
+    "subarachnoid": 2
+  },
+  "ID_628ac16e": {
+    "subarachnoid": 1
+  },
+  "ID_80b8d734": {
+    "subarachnoid": 2
+  },
+  "ID_b7ec0c5b": {
+    "subarachnoid": 1
+  },
+  "ID_f06776c5": {
+    "subarachnoid": 1
+  },
+  "ID_c3ea1651": {
+    "subarachnoid": 1
+  },
+  "ID_01a9e4d8": {
+    "subarachnoid": 1
+  },
+  "ID_d18bc3f0": {
+    "subarachnoid": 1
+  },
+  "ID_94d6ee0d": {
+    "subarachnoid": 1
+  },
+  "ID_940b2f4f": {
+    "subarachnoid": 1
+  },
+  "ID_dfd0c85d": {
+    "subarachnoid": 2
+  },
+  "ID_338738e7": {
+    "subarachnoid": 1
+  },
+  "ID_0ce53feb": {
+    "subarachnoid": 2
+  },
+  "ID_098c9fe4": {
+    "subarachnoid": 1
+  },
+  "ID_3dfb54cd": {
+    "subarachnoid": 1
+  },
+  "ID_18e6584f": {
+    "subarachnoid": 1
+  },
+  "ID_4d36654f": {
+    "subarachnoid": 1
+  },
+  "ID_b501522f": {
+    "subarachnoid": 1
+  },
+  "ID_26a26cde": {
+    "subarachnoid": 1
+  },
+  "ID_ad8e6fbe": {
+    "subarachnoid": 1
+  },
+  "ID_9572ca03": {
+    "subarachnoid": 1
+  },
+  "ID_3bf5728d": {
+    "subarachnoid": 1
+  },
+  "ID_03ac0e28": {
+    "subarachnoid": 1
+  },
+  "ID_9d1683fb": {
+    "subarachnoid": 1
+  },
+  "ID_3634a039": {
+    "subarachnoid": 1
+  },
+  "ID_b7694c0c": {
+    "subarachnoid": 1
+  },
+  "ID_346e8eb5": {
+    "subarachnoid": 1
+  },
+  "ID_db1b9b68": {
+    "subarachnoid": 1
+  },
+  "ID_df219885": {
+    "subarachnoid": 1
+  },
+  "ID_57805fee": {
+    "subarachnoid": 1
+  },
+  "ID_14fd5765": {
+    "subarachnoid": 1
+  },
+  "ID_27f38e7d": {
+    "subarachnoid": 1
+  },
+  "ID_bd686318": {
+    "subarachnoid": 1
+  },
+  "ID_8fb52b3c": {
+    "subarachnoid": 1
+  },
+  "ID_37aba684": {
+    "subarachnoid": 1
+  },
+  "ID_ef566f54": {
+    "subarachnoid": 3,
+    "subdural": 1
+  },
+  "ID_cba328fd": {
+    "subarachnoid": 1
+  },
+  "ID_63ba5ac2": {
+    "subarachnoid": 1
+  },
+  "ID_8eb8e523": {
+    "subarachnoid": 1
+  },
+  "ID_05f699e8": {
+    "subarachnoid": 1
+  },
+  "ID_34ee63f4": {
+    "subarachnoid": 1
+  },
+  "ID_76961b8a": {
+    "subarachnoid": 1
+  },
+  "ID_59fc3412": {
+    "subarachnoid": 2
+  },
+  "ID_6218e9e0": {
+    "subarachnoid": 1
+  },
+  "ID_3b462f98": {
+    "subarachnoid": 1
+  },
+  "ID_31c265db": {
+    "subarachnoid": 1
+  },
+  "ID_4aaa7c1f": {
+    "subarachnoid": 2
+  },
+  "ID_ce5df3b1": {
+    "subarachnoid": 1
+  },
+  "ID_aa420d1c": {
+    "subarachnoid": 1
+  },
+  "ID_e867fe7a": {
+    "subarachnoid": 1
+  },
+  "ID_199b0a56": {
+    "subarachnoid": 1
+  },
+  "ID_1fbe4cba": {
+    "subarachnoid": 1
+  },
+  "ID_bee6a766": {
+    "subarachnoid": 1
+  },
+  "ID_29c04e9d": {
+    "subarachnoid": 1,
+    "subdural": 1
+  },
+  "ID_4b0178a1": {
+    "subarachnoid": 1
+  },
+  "ID_575fb15d": {
+    "subarachnoid": 1
+  },
+  "ID_2d509aa7": {
+    "subarachnoid": 1
+  },
+  "ID_4963291e": {
+    "subarachnoid": 1
+  },
+  "ID_f75bcdb3": {
+    "subarachnoid": 1
+  },
+  "ID_ed8e79ea": {
+    "subarachnoid": 1
+  },
+  "ID_b3cd7786": {
+    "subarachnoid": 1
+  },
+  "ID_e04946f0": {
+    "subarachnoid": 1
+  },
+  "ID_9c31db01": {
+    "subarachnoid": 1
+  },
+  "ID_a3e67830": {
+    "subarachnoid": 1
+  },
+  "ID_c164d001": {
+    "subarachnoid": 1
+  },
+  "ID_6c615af9": {
+    "subarachnoid": 1
+  },
+  "ID_921ca9fb": {
+    "subarachnoid": 2
+  },
+  "ID_2dc00e10": {
+    "subarachnoid": 1
+  },
+  "ID_40519637": {
+    "subarachnoid": 1
+  },
+  "ID_0f3b2086": {
+    "subarachnoid": 1
+  },
+  "ID_1e6c1ee4": {
+    "subarachnoid": 1
+  },
+  "ID_a87e117c": {
+    "subarachnoid": 1
+  },
+  "ID_0e71279b": {
+    "subarachnoid": 1
+  },
+  "ID_997f19cf": {
+    "subarachnoid": 1
+  },
+  "ID_fcf829cf": {
+    "subarachnoid": 1
+  },
+  "ID_666befc0": {
+    "subarachnoid": 1
+  },
+  "ID_d7675be3": {
+    "subarachnoid": 1
+  },
+  "ID_56fe2046": {
+    "subarachnoid": 1
+  },
+  "ID_38b3d127": {
+    "subarachnoid": 1
+  },
+  "ID_171e5246": {
+    "subarachnoid": 1
+  },
+  "ID_e51a8edd": {
+    "subarachnoid": 1
+  },
+  "ID_0ee123ae": {
+    "subarachnoid": 1
+  },
+  "ID_9feefc82": {
+    "subarachnoid": 1
+  },
+  "ID_ece41848": {
+    "subarachnoid": 1
+  },
+  "ID_2e3dd5d3": {
+    "subarachnoid": 1
+  },
+  "ID_1e7136dc": {
+    "subarachnoid": 1
+  },
+  "ID_3a6c1a20": {
+    "subarachnoid": 1
+  },
+  "ID_9a8922af": {
+    "subarachnoid": 1
+  },
+  "ID_27e8d023": {
+    "subarachnoid": 1
+  },
+  "ID_4f1388ee": {
+    "subarachnoid": 1
+  },
+  "ID_8a0b6fbc": {
+    "subarachnoid": 1
+  },
+  "ID_4afa9669": {
+    "subarachnoid": 1
+  },
+  "ID_35b017e3": {
+    "subarachnoid": 1
+  },
+  "ID_3ed13f71": {
+    "subarachnoid": 1
+  },
+  "ID_9365f37e": {
+    "subarachnoid": 1
+  },
+  "ID_685366e4": {
+    "subarachnoid": 1
+  },
+  "ID_a1f8d191": {
+    "subarachnoid": 1
+  },
+  "ID_fc9442d1": {
+    "subarachnoid": 1
+  },
+  "ID_7a1ed2ce": {
+    "subarachnoid": 1
+  },
+  "ID_b07aaeac": {
+    "subarachnoid": 1
+  },
+  "ID_954312c4": {
+    "subarachnoid": 1
+  },
+  "ID_8ad441be": {
+    "subarachnoid": 1
+  },
+  "ID_931d63bf": {
+    "subarachnoid": 1
+  },
+  "ID_dfcea57b": {
+    "subarachnoid": 1
+  },
+  "ID_47fd1f4f": {
+    "subarachnoid": 1
+  },
+  "ID_308959fa": {
+    "subarachnoid": 1
+  },
+  "ID_d75738e0": {
+    "subarachnoid": 1
+  },
+  "ID_2460a5df": {
+    "subarachnoid": 1
+  },
+  "ID_395b194d": {
+    "subarachnoid": 1
+  },
+  "ID_fd84525f": {
+    "subarachnoid": 1
+  },
+  "ID_519dd8f1": {
+    "subdural": 3
+  },
+  "ID_3eed85b1": {
+    "subdural": 2
+  },
+  "ID_c767c3b3": {
+    "subdural": 1
+  },
+  "ID_4ce3f2c5": {
+    "subdural": 1
+  },
+  "ID_788f6f31": {
+    "subdural": 1
+  },
+  "ID_25d5785a": {
+    "subdural": 2
+  },
+  "ID_bf18ca4a": {
+    "subdural": 1
+  },
+  "ID_cae83084": {
+    "subdural": 2
+  },
+  "ID_695a9b50": {
+    "subdural": 2
+  },
+  "ID_c5529c1f": {
+    "subdural": 2
+  },
+  "ID_e83ba538": {
+    "subdural": 3
+  },
+  "ID_b8eeb0d4": {
+    "subdural": 1
+  },
+  "ID_f7c53256": {
+    "subdural": 1
+  },
+  "ID_a5dd5fe5": {
+    "subdural": 1
+  },
+  "ID_212a481b": {
+    "subdural": 2
+  },
+  "ID_1c1fef49": {
+    "subdural": 1
+  },
+  "ID_24760c78": {
+    "subdural": 1
+  },
+  "ID_9dae508a": {
+    "subdural": 1
+  },
+  "ID_8a01f553": {
+    "subdural": 2
+  },
+  "ID_0f3f9027": {
+    "subdural": 1
+  },
+  "ID_6674db6d": {
+    "subdural": 1
+  },
+  "ID_ff9b07f5": {
+    "subdural": 1
+  },
+  "ID_e83511c4": {
+    "subdural": 1
+  },
+  "ID_822c8cdd": {
+    "subdural": 1
+  },
+  "ID_c7c6195c": {
+    "subdural": 2
+  },
+  "ID_047f0509": {
+    "subdural": 2
+  },
+  "ID_2fc4d791": {
+    "subdural": 1
+  },
+  "ID_3d4f7d62": {
+    "subdural": 2
+  },
+  "ID_9626de00": {
+    "subdural": 1
+  },
+  "ID_c5c2b197": {
+    "subdural": 1
+  },
+  "ID_a226893e": {
+    "subdural": 1
+  },
+  "ID_edc7b5c0": {
+    "subdural": 1
+  },
+  "ID_9a8ad2df": {
+    "subdural": 1
+  },
+  "ID_a1167d59": {
+    "subdural": 1
+  },
+  "ID_02b3ae80": {
+    "subdural": 2
+  },
+  "ID_0aeb0b2b": {
+    "subdural": 1
+  },
+  "ID_dd3807d8": {
+    "subdural": 3
+  },
+  "ID_f8f7f254": {
+    "subdural": 1
+  },
+  "ID_c0ea658d": {
+    "subdural": 1
+  },
+  "ID_f9b786c6": {
+    "subdural": 1
+  },
+  "ID_78eaccf7": {
+    "subdural": 1
+  },
+  "ID_bfd894fb": {
+    "subdural": 1
+  },
+  "ID_e7790c33": {
+    "subdural": 2
+  },
+  "ID_161c966a": {
+    "subdural": 1
+  },
+  "ID_645e24f9": {
+    "subdural": 1
+  },
+  "ID_d54f5eff": {
+    "subdural": 3
+  },
+  "ID_1c7a8623": {
+    "subdural": 2
+  },
+  "ID_dc84fdd7": {
+    "subdural": 1
+  },
+  "ID_2f02b88c": {
+    "subdural": 1
+  },
+  "ID_ad0f876c": {
+    "subdural": 1
+  },
+  "ID_9fe9784e": {
+    "subdural": 1
+  },
+  "ID_e85525a8": {
+    "subdural": 1
+  },
+  "ID_7b922700": {
+    "subdural": 1
+  },
+  "ID_e2941c88": {
+    "subdural": 2
+  },
+  "ID_bbd83c4b": {
+    "subdural": 4
+  },
+  "ID_d69f11c7": {
+    "subdural": 3
+  },
+  "ID_e1451e15": {
+    "subdural": 1
+  },
+  "ID_933d91f0": {
+    "subdural": 1
+  },
+  "ID_943e382d": {
+    "subdural": 2
+  },
+  "ID_120cb5c1": {
+    "subdural": 2
+  },
+  "ID_a59fee01": {
+    "subdural": 1
+  },
+  "ID_4abe576a": {
+    "subdural": 1
+  },
+  "ID_df918379": {
+    "subdural": 1
+  },
+  "ID_37bd9f17": {
+    "subdural": 1
+  },
+  "ID_f23bba8e": {
+    "subdural": 1
+  },
+  "ID_edbcfd3b": {
+    "subdural": 1
+  },
+  "ID_6a562d43": {
+    "subdural": 2
+  },
+  "ID_68719e71": {
+    "subdural": 1
+  },
+  "ID_ab138a87": {
+    "subdural": 2
+  },
+  "ID_102c1abd": {
+    "subdural": 1
+  },
+  "ID_f777400c": {
+    "subdural": 1
+  },
+  "ID_52837d1d": {
+    "subdural": 1
+  },
+  "ID_7556e2db": {
+    "subdural": 3
+  },
+  "ID_ca6bfcaa": {
+    "subdural": 1
+  },
+  "ID_e4f62380": {
+    "subdural": 1
+  },
+  "ID_8da98dd5": {
+    "subdural": 1
+  },
+  "ID_5aed7871": {
+    "subdural": 5
+  },
+  "ID_28f8cece": {
+    "subdural": 2
+  },
+  "ID_84a78621": {
+    "subdural": 1
+  },
+  "ID_f481bccf": {
+    "subdural": 1
+  },
+  "ID_b801c428": {
+    "subdural": 2
+  },
+  "ID_eaf65d0e": {
+    "subdural": 1
+  },
+  "ID_7aa23009": {
+    "subdural": 1
+  },
+  "ID_b8aff538": {
+    "subdural": 1
+  },
+  "ID_9b946dee": {
+    "subdural": 2
+  },
+  "ID_6c3ed7f0": {
+    "subdural": 2
+  },
+  "ID_e0153515": {
+    "subdural": 1
+  },
+  "ID_99f8e875": {
+    "subdural": 1
+  },
+  "ID_2290775d": {
+    "subdural": 1
+  },
+  "ID_4d59c2c9": {
+    "subdural": 1
+  },
+  "ID_be4057be": {
+    "subdural": 1
+  },
+  "ID_f9db1078": {
+    "subdural": 1
+  },
+  "ID_260e2fc0": {
+    "subdural": 1
+  },
+  "ID_7d0598d6": {
+    "subdural": 2
+  },
+  "ID_a5fdf042": {
+    "subdural": 2
+  },
+  "ID_6ba5c801": {
+    "subdural": 1
+  },
+  "ID_7ad211ab": {
+    "subdural": 2
+  },
+  "ID_83322c68": {
+    "subdural": 1
+  },
+  "ID_2717f877": {
+    "subdural": 1
+  },
+  "ID_ba432cea": {
+    "subdural": 4
+  },
+  "ID_b48cec16": {
+    "subdural": 2
+  },
+  "ID_a31a610f": {
+    "subdural": 1
+  },
+  "ID_01e1927c": {
+    "subdural": 2
+  },
+  "ID_19505042": {
+    "subdural": 7
+  },
+  "ID_3ba6ed3d": {
+    "subdural": 1
+  },
+  "ID_295df26e": {
+    "subdural": 1
+  },
+  "ID_8eb7f7e3": {
+    "subdural": 1
+  },
+  "ID_a43de1ac": {
+    "subdural": 1
+  },
+  "ID_0f320c56": {
+    "subdural": 2
+  },
+  "ID_3eb6340d": {
+    "subdural": 1
+  },
+  "ID_87c91694": {
+    "subdural": 1
+  },
+  "ID_abc7f8c5": {
+    "subdural": 1
+  },
+  "ID_34d9973c": {
+    "subdural": 1
+  },
+  "ID_9fb6b406": {
+    "subdural": 2
+  },
+  "ID_135a3678": {
+    "subdural": 3
+  },
+  "ID_e880a1b8": {
+    "subdural": 1
+  },
+  "ID_171233da": {
+    "subdural": 1
+  },
+  "ID_6ba93da8": {
+    "subdural": 1
+  },
+  "ID_930a09bd": {
+    "subdural": 2
+  },
+  "ID_a7673aa6": {
+    "subdural": 1
+  },
+  "ID_2ad594da": {
+    "subdural": 1
+  },
+  "ID_04fcd3da": {
+    "subdural": 2
+  },
+  "ID_e46be55a": {
+    "subdural": 1
+  },
+  "ID_b8411138": {
+    "subdural": 2
+  },
+  "ID_54ec8b13": {
+    "subdural": 1
+  },
+  "ID_b91b52b4": {
+    "subdural": 1
+  },
+  "ID_b103ea48": {
+    "subdural": 1
+  },
+  "ID_bbbb857e": {
+    "subdural": 1
+  },
+  "ID_70e2a39e": {
+    "subdural": 1
+  },
+  "ID_b954226b": {
+    "subdural": 1
+  },
+  "ID_5d383211": {
+    "subdural": 2
+  },
+  "ID_46044ab1": {
+    "subdural": 2
+  },
+  "ID_ddfcc582": {
+    "subdural": 1
+  },
+  "ID_b3d55809": {
+    "subdural": 1
+  },
+  "ID_31a3f85a": {
+    "subdural": 2
+  },
+  "ID_cf8f428f": {
+    "subdural": 2
+  },
+  "ID_43b2d859": {
+    "subdural": 1
+  },
+  "ID_f09bab13": {
+    "subdural": 1
+  },
+  "ID_64ef303e": {
+    "subdural": 1
+  },
+  "ID_c7a69be6": {
+    "subdural": 1
+  },
+  "ID_746d740c": {
+    "subdural": 1
+  },
+  "ID_d3369723": {
+    "subdural": 2
+  },
+  "ID_2afb25c9": {
+    "subdural": 1
+  },
+  "ID_bf18bc17": {
+    "subdural": 2
+  },
+  "ID_33368025": {
+    "subdural": 1
+  },
+  "ID_901437a3": {
+    "subdural": 1
+  },
+  "ID_222561b8": {
+    "subdural": 1
+  },
+  "ID_b9f3f67d": {
+    "subdural": 1
+  },
+  "ID_090f8b79": {
+    "subdural": 1
+  },
+  "ID_02575ef7": {
+    "subdural": 2
+  },
+  "ID_590071dc": {
+    "subdural": 1
+  },
+  "ID_5007c0f7": {
+    "subdural": 1
+  },
+  "ID_3c45cca3": {
+    "subdural": 1
+  },
+  "ID_84627759": {
+    "subdural": 3
+  },
+  "ID_59d04f3e": {
+    "subdural": 2
+  },
+  "ID_fbecde14": {
+    "subdural": 1
+  },
+  "ID_160b05d5": {
+    "subdural": 1
+  },
+  "ID_38379ddd": {
+    "subdural": 4
+  },
+  "ID_ecf5c9cf": {
+    "subdural": 3
+  },
+  "ID_8bca9b69": {
+    "subdural": 2
+  },
+  "ID_f362e2c9": {
+    "subdural": 1
+  },
+  "ID_9045619a": {
+    "subdural": 1
+  },
+  "ID_fc7e7b3d": {
+    "subdural": 1
+  },
+  "ID_fde181b7": {
+    "subdural": 1
+  },
+  "ID_fc9bd4a9": {
+    "subdural": 1
+  },
+  "ID_d4dafddd": {
+    "subdural": 1
+  },
+  "ID_c78cf730": {
+    "subdural": 2
+  },
+  "ID_19702d0c": {
+    "subdural": 1
+  },
+  "ID_25069181": {
+    "subdural": 1
+  },
+  "ID_96cd5341": {
+    "subdural": 1
+  },
+  "ID_080ad5c3": {
+    "subdural": 1
+  },
+  "ID_95b233f2": {
+    "subdural": 2
+  },
+  "ID_5e6103cd": {
+    "subdural": 1
+  },
+  "ID_3f03a524": {
+    "subdural": 1
+  },
+  "ID_d865bbec": {
+    "subdural": 1
+  },
+  "ID_64ea6908": {
+    "subdural": 3
+  },
+  "ID_bff9e9b1": {
+    "subdural": 3
+  },
+  "ID_212ad97b": {
+    "subdural": 1
+  },
+  "ID_74a46e1c": {
+    "subdural": 1
+  },
+  "ID_354c444f": {
+    "subdural": 1
+  },
+  "ID_58208bb8": {
+    "subdural": 2
+  },
+  "ID_3be9dc81": {
+    "subdural": 1
+  },
+  "ID_4e94aab6": {
+    "subdural": 2
+  },
+  "ID_ff8f8169": {
+    "subdural": 1
+  },
+  "ID_ddad0fb4": {
+    "subdural": 2
+  },
+  "ID_848a1516": {
+    "subdural": 1
+  },
+  "ID_e17ee112": {
+    "subdural": 1
+  },
+  "ID_0120c37b": {
+    "subdural": 1
+  },
+  "ID_2a26d5d2": {
+    "subdural": 1
+  },
+  "ID_d83098df": {
+    "subdural": 1
+  },
+  "ID_ee719f56": {
+    "subdural": 1
+  },
+  "ID_e960e375": {
+    "subdural": 1
+  },
+  "ID_19e680da": {
+    "subdural": 2
+  },
+  "ID_82c34212": {
+    "subdural": 2
+  },
+  "ID_e8285e5d": {
+    "subdural": 1
+  },
+  "ID_9f9cb3e6": {
+    "subdural": 1
+  },
+  "ID_d00d63ad": {
+    "subdural": 2
+  },
+  "ID_b6da90a0": {
+    "subdural": 2
+  },
+  "ID_c5bd9873": {
+    "subdural": 2
+  },
+  "ID_2583c1c8": {
+    "subdural": 1
+  },
+  "ID_e6e7c4a0": {
+    "subdural": 1
+  },
+  "ID_a1e8431b": {
+    "subdural": 1
+  },
+  "ID_0eeb4a83": {
+    "subdural": 1
+  },
+  "ID_969efe71": {
+    "subdural": 1
+  },
+  "ID_f5031a33": {
+    "subdural": 5
+  },
+  "ID_727c946e": {
+    "subdural": 1
+  },
+  "ID_3abc6291": {
+    "subdural": 1
+  },
+  "ID_c3ed3b78": {
+    "subdural": 1
+  },
+  "ID_84d28fd8": {
+    "subdural": 1
+  },
+  "ID_323693ac": {
+    "subdural": 1
+  },
+  "ID_823aa081": {
+    "subdural": 1
+  },
+  "ID_59c90541": {
+    "subdural": 1
+  },
+  "ID_b60717ad": {
+    "subdural": 1
+  },
+  "ID_17e91564": {
+    "subdural": 2
+  },
+  "ID_7513ed43": {
+    "subdural": 2
+  },
+  "ID_dc16f4b2": {
+    "subdural": 1
+  },
+  "ID_e8820a90": {
+    "subdural": 1
+  },
+  "ID_34096297": {
+    "subdural": 2
+  },
+  "ID_3c35dc1e": {
+    "subdural": 1
+  },
+  "ID_0afde983": {
+    "subdural": 1
+  },
+  "ID_b4cb2411": {
+    "subdural": 1
+  },
+  "ID_9f32348c": {
+    "subdural": 1
+  },
+  "ID_1bd90426": {
+    "subdural": 1
+  },
+  "ID_4aada9f3": {
+    "subdural": 1
+  },
+  "ID_ae975af3": {
+    "subdural": 1
+  },
+  "ID_c2c403b3": {
+    "subdural": 1
+  },
+  "ID_4956f9c4": {
+    "subdural": 1
+  },
+  "ID_5f2f6fc1": {
+    "subdural": 1
+  },
+  "ID_5d3adfc3": {
+    "subdural": 1
+  },
+  "ID_2ca801f7": {
+    "subdural": 1
+  },
+  "ID_961822c1": {
+    "subdural": 1
+  },
+  "ID_2fff80be": {
+    "subdural": 1
+  },
+  "ID_ebc36402": {
+    "subdural": 2
+  },
+  "ID_a031a76e": {
+    "subdural": 3
+  },
+  "ID_2d44d017": {
+    "subdural": 1
+  },
+  "ID_16f0aeff": {
+    "subdural": 2
+  },
+  "ID_55c92c97": {
+    "subdural": 2
+  },
+  "ID_8bfafc4f": {
+    "subdural": 1
+  },
+  "ID_2e4ba0ed": {
+    "subdural": 1
+  },
+  "ID_d7fe5f78": {
+    "subdural": 1
+  },
+  "ID_01e02077": {
+    "subdural": 1
+  },
+  "ID_dd2c27ba": {
+    "subdural": 2
+  },
+  "ID_a107dd7f": {
+    "subdural": 1
+  },
+  "ID_1ff87a45": {
+    "subdural": 2
+  },
+  "ID_90b7662d": {
+    "subdural": 2
+  },
+  "ID_af516ba9": {
+    "subdural": 1
+  },
+  "ID_568ac9b6": {
+    "subdural": 1
+  },
+  "ID_e4254780": {
+    "subdural": 1
+  },
+  "ID_edc86e8f": {
+    "subdural": 2
+  },
+  "ID_cfabf6e6": {
+    "subdural": 1
+  },
+  "ID_3c230752": {
+    "subdural": 2
+  },
+  "ID_bbec44e7": {
+    "subdural": 1
+  },
+  "ID_796a6a5b": {
+    "subdural": 1
+  },
+  "ID_3f1af39b": {
+    "subdural": 1
+  },
+  "ID_7958f5c0": {
+    "subdural": 2
+  },
+  "ID_1a9dfcf1": {
+    "subdural": 2
+  },
+  "ID_8a464b63": {
+    "subdural": 1
+  },
+  "ID_a9279cf7": {
+    "subdural": 1
+  },
+  "ID_db89259c": {
+    "subdural": 1
+  },
+  "ID_a636e8fc": {
+    "subdural": 1
+  },
+  "ID_1e082295": {
+    "subdural": 1
+  },
+  "ID_abd618d4": {
+    "subdural": 1
+  },
+  "ID_23936a32": {
+    "subdural": 2
+  },
+  "ID_aca3e5f6": {
+    "subdural": 1
+  },
+  "ID_89fa2c52": {
+    "subdural": 1
+  },
+  "ID_66518c5d": {
+    "subdural": 1
+  },
+  "ID_85dcfe36": {
+    "subdural": 2
+  },
+  "ID_de88175c": {
+    "subdural": 1
+  },
+  "ID_b28d0bff": {
+    "subdural": 1
+  },
+  "ID_cd923dd6": {
+    "subdural": 1
+  },
+  "ID_02e29e4c": {
+    "subdural": 2
+  },
+  "ID_6fb4dc64": {
+    "subdural": 3
+  },
+  "ID_c7e64540": {
+    "subdural": 1
+  },
+  "ID_2c2b7375": {
+    "subdural": 1
+  },
+  "ID_58fc1c3d": {
+    "subdural": 1
+  },
+  "ID_d0c338ef": {
+    "subdural": 1
+  },
+  "ID_93806008": {
+    "subdural": 1
+  },
+  "ID_1ba4f2d0": {
+    "subdural": 1
+  },
+  "ID_46305d7a": {
+    "subdural": 1
+  },
+  "ID_89a3731c": {
+    "subdural": 1
+  },
+  "ID_52584a69": {
+    "subdural": 2
+  },
+  "ID_2f41f0b1": {
+    "subdural": 1
+  },
+  "ID_f2771b69": {
+    "subdural": 1
+  },
+  "ID_71ef48b2": {
+    "subdural": 1
+  },
+  "ID_cfafc191": {
+    "subdural": 1
+  },
+  "ID_d1ee70a2": {
+    "subdural": 4
+  },
+  "ID_dfa39946": {
+    "subdural": 2
+  },
+  "ID_38b309f4": {
+    "subdural": 1
+  },
+  "ID_f9f58083": {
+    "subdural": 2
+  },
+  "ID_bf2a4c69": {
+    "subdural": 1
+  },
+  "ID_dcf85ecc": {
+    "subdural": 1
+  },
+  "ID_d36ae41b": {
+    "subdural": 1
+  },
+  "ID_30018fdd": {
+    "subdural": 2
+  },
+  "ID_30e81a7a": {
+    "subdural": 2
+  },
+  "ID_092fbf39": {
+    "subdural": 1
+  },
+  "ID_749b43ae": {
+    "subdural": 2
+  },
+  "ID_34c25d1d": {
+    "subdural": 1
+  },
+  "ID_8e9c7e90": {
+    "subdural": 1
+  },
+  "ID_3f11418a": {
+    "subdural": 1
+  },
+  "ID_de7cbd93": {
+    "subdural": 1
+  },
+  "ID_b9d80416": {
+    "subdural": 1
+  },
+  "ID_d909f659": {
+    "subdural": 2
+  },
+  "ID_77c29880": {
+    "subdural": 1
+  },
+  "ID_9ffd08a2": {
+    "subdural": 1
+  },
+  "ID_9451ea5c": {
+    "subdural": 1
+  },
+  "ID_1534f4c8": {
+    "subdural": 1
+  },
+  "ID_ecd2900a": {
+    "subdural": 1
+  },
+  "ID_0df37a3c": {
+    "subdural": 1
+  },
+  "ID_0709bca2": {
+    "subdural": 1
+  },
+  "ID_758acbd1": {
+    "subdural": 1
+  },
+  "ID_04398556": {
+    "subdural": 2
+  },
+  "ID_5dfaa262": {
+    "subdural": 1
+  },
+  "ID_23f47cb1": {
+    "subdural": 1
+  },
+  "ID_c67f67a8": {
+    "subdural": 1
+  },
+  "ID_3732fe2f": {
+    "subdural": 2
+  },
+  "ID_666d1c24": {
+    "subdural": 2
+  },
+  "ID_16cbcace": {
+    "subdural": 1
+  },
+  "ID_f3cc084c": {
+    "subdural": 1
+  },
+  "ID_1e909941": {
+    "subdural": 1
+  },
+  "ID_01b6f915": {
+    "subdural": 4
+  },
+  "ID_cd4ed2a7": {
+    "subdural": 1
+  },
+  "ID_40078854": {
+    "subdural": 1
+  },
+  "ID_1e006bbc": {
+    "subdural": 1
+  },
+  "ID_430f9e4a": {
+    "subdural": 1
+  },
+  "ID_5f274174": {
+    "subdural": 1
+  },
+  "ID_aa9a802f": {
+    "subdural": 1
+  },
+  "ID_d577a265": {
+    "subdural": 1
+  },
+  "ID_0052b10a": {
+    "subdural": 1
+  },
+  "ID_d6c6551f": {
+    "subdural": 1
+  },
+  "ID_b0e85c3e": {
+    "subdural": 1
+  },
+  "ID_fef5ffe4": {
+    "subdural": 4
+  },
+  "ID_fcc561c5": {
+    "subdural": 2
+  },
+  "ID_4c0e1eff": {
+    "subdural": 1
+  },
+  "ID_82f1426e": {
+    "subdural": 1
+  },
+  "ID_0219ef88": {
+    "subdural": 1
+  },
+  "ID_2934e797": {
+    "subdural": 1
+  },
+  "ID_8054225b": {
+    "subdural": 1
+  },
+  "ID_4e6ae7c8": {
+    "subdural": 2
+  },
+  "ID_96cacc4d": {
+    "subdural": 1
+  },
+  "ID_41a1d5e4": {
+    "subdural": 1
+  },
+  "ID_684009ae": {
+    "subdural": 1
+  },
+  "ID_ff77fd27": {
+    "subdural": 1
+  },
+  "ID_43e66a74": {
+    "subdural": 2
+  },
+  "ID_a6cddccd": {
+    "subdural": 1
+  },
+  "ID_7a908df2": {
+    "subdural": 2
+  },
+  "ID_c9c45e41": {
+    "subdural": 1
+  },
+  "ID_c620e938": {
+    "subdural": 1
+  },
+  "ID_b6b85b9b": {
+    "subdural": 2
+  },
+  "ID_d4bbee9d": {
+    "subdural": 2
+  },
+  "ID_c733aa7d": {
+    "subdural": 1
+  },
+  "ID_9f3cf253": {
+    "subdural": 2
+  },
+  "ID_8cd692d6": {
+    "subdural": 1
+  },
+  "ID_f5b2a41c": {
+    "subdural": 3
+  },
+  "ID_48fbc349": {
+    "subdural": 1
+  },
+  "ID_451b1ab2": {
+    "subdural": 1
+  },
+  "ID_ba2adc6d": {
+    "subdural": 3
+  },
+  "ID_841d28eb": {
+    "subdural": 1
+  },
+  "ID_860476be": {
+    "subdural": 1
+  },
+  "ID_399a9ac5": {
+    "subdural": 1
+  },
+  "ID_3a0a044c": {
+    "subdural": 2
+  },
+  "ID_a8069d63": {
+    "subdural": 1
+  },
+  "ID_3ff46ab9": {
+    "subdural": 1
+  },
+  "ID_a224921e": {
+    "subdural": 1
+  },
+  "ID_85805b0e": {
+    "subdural": 1
+  },
+  "ID_641daa87": {
+    "subdural": 2
+  },
+  "ID_13ae1eba": {
+    "subdural": 1
+  },
+  "ID_90e9aff3": {
+    "subdural": 2
+  },
+  "ID_22bc2cd9": {
+    "subdural": 1
+  },
+  "ID_2237df77": {
+    "subdural": 1
+  },
+  "ID_00f85ec3": {
+    "subdural": 1
+  },
+  "ID_75ff5939": {
+    "subdural": 1
+  },
+  "ID_d803fd29": {
+    "subdural": 1
+  },
+  "ID_5e0d4683": {
+    "subdural": 1
+  },
+  "ID_9481b02b": {
+    "subdural": 2
+  },
+  "ID_a786a975": {
+    "subdural": 2
+  },
+  "ID_c8b0e1ba": {
+    "subdural": 1
+  },
+  "ID_f8e5fa85": {
+    "subdural": 1
+  },
+  "ID_767d742f": {
+    "subdural": 1
+  },
+  "ID_0e843a8b": {
+    "subdural": 1
+  },
+  "ID_0da8d771": {
+    "subdural": 1
+  },
+  "ID_1400e2d0": {
+    "subdural": 1
+  },
+  "ID_44e4585e": {
+    "subdural": 1
+  },
+  "ID_37eb8867": {
+    "subdural": 1
+  },
+  "ID_7774f255": {
+    "subdural": 1
+  },
+  "ID_6e23618b": {
+    "subdural": 1
+  },
+  "ID_b46a36f9": {
+    "subdural": 1
+  },
+  "ID_b08a3347": {
+    "subdural": 1
+  },
+  "ID_f10349d1": {
+    "subdural": 1
+  },
+  "ID_3843bbea": {
+    "subdural": 1
+  },
+  "ID_7fc25c46": {
+    "subdural": 1
+  },
+  "ID_d5a55cff": {
+    "subdural": 1
+  },
+  "ID_c04a9a9b": {
+    "subdural": 2
+  },
+  "ID_a276a014": {
+    "subdural": 2
+  },
+  "ID_cd27cb88": {
+    "subdural": 1
+  },
+  "ID_92084773": {
+    "subdural": 2
+  },
+  "ID_3a5d6b4c": {
+    "subdural": 1
+  },
+  "ID_72572059": {
+    "subdural": 2
+  },
+  "ID_e1ab8142": {
+    "subdural": 1
+  },
+  "ID_afbf985e": {
+    "subdural": 1
+  },
+  "ID_8e643779": {
+    "subdural": 1
+  },
+  "ID_7a90845c": {
+    "subdural": 1
+  },
+  "ID_2c637cee": {
+    "subdural": 1
+  },
+  "ID_d9f1eaae": {
+    "subdural": 1
+  },
+  "ID_acca7f06": {
+    "subdural": 1
+  },
+  "ID_7db2d0c1": {
+    "subdural": 1
+  },
+  "ID_2a1f3904": {
+    "subdural": 1
+  },
+  "ID_f8509a89": {
+    "subdural": 2
+  },
+  "ID_08a0e0c4": {
+    "subdural": 1
+  },
+  "ID_7a226fb6": {
+    "subdural": 1
+  },
+  "ID_0d700b99": {
+    "subdural": 1
+  },
+  "ID_b6549d15": {
+    "subdural": 1
+  },
+  "ID_db008816": {
+    "subdural": 1
+  },
+  "ID_7fe43888": {
+    "subdural": 1
+  },
+  "ID_c5f996e5": {
+    "subdural": 1
+  },
+  "ID_e1f57b7a": {
+    "subdural": 1
+  },
+  "ID_7e644923": {
+    "subdural": 1
+  },
+  "ID_7a3a7f62": {
+    "subdural": 1
+  },
+  "ID_a8fbbea8": {
+    "subdural": 1
+  },
+  "ID_87988e5d": {
+    "subdural": 1
+  },
+  "ID_fdf319cf": {
+    "subdural": 1
+  },
+  "ID_8ae026f1": {
+    "subdural": 1
+  },
+  "ID_a48d61ad": {
+    "subdural": 1
+  },
+  "ID_1333299d": {
+    "subdural": 1
+  },
+  "ID_ceb6abd8": {
+    "subdural": 2
+  },
+  "ID_5a302360": {
+    "subdural": 1
+  },
+  "ID_50cd3121": {
+    "subdural": 1
+  },
+  "ID_9cce3833": {
+    "subdural": 2
+  },
+  "ID_922846f3": {
+    "subdural": 1
+  },
+  "ID_992719bf": {
+    "subdural": 1
+  },
+  "ID_2a2632e1": {
+    "subdural": 1
+  },
+  "ID_33280624": {
+    "subdural": 2
+  },
+  "ID_6284cc73": {
+    "subdural": 1
+  },
+  "ID_413995f1": {
+    "subdural": 1
+  },
+  "ID_43bb984d": {
+    "subdural": 1
+  },
+  "ID_3ae6c428": {
+    "subdural": 2
+  },
+  "ID_89adbc5a": {
+    "subdural": 2
+  },
+  "ID_08a39f86": {
+    "subdural": 2
+  },
+  "ID_3412962e": {
+    "subdural": 1
+  },
+  "ID_828487f7": {
+    "subdural": 1
+  },
+  "ID_1ea8a377": {
+    "subdural": 1
+  },
+  "ID_d3fbfa8c": {
+    "subdural": 1
+  },
+  "ID_3bdacc77": {
+    "subdural": 1
+  },
+  "ID_5d716714": {
+    "subdural": 1
+  },
+  "ID_139824ee": {
+    "subdural": 1
+  },
+  "ID_f04081a0": {
+    "subdural": 2
+  },
+  "ID_a5f5be90": {
+    "subdural": 1
+  },
+  "ID_216e7cc9": {
+    "subdural": 1
+  },
+  "ID_ca410fe4": {
+    "subdural": 1
+  },
+  "ID_351d479d": {
+    "subdural": 1
+  },
+  "ID_adddba6b": {
+    "subdural": 1
+  },
+  "ID_d0452622": {
+    "subdural": 1
+  },
+  "ID_b6704945": {
+    "subdural": 1
+  },
+  "ID_6c4165e3": {
+    "subdural": 2
+  },
+  "ID_56226c68": {
+    "subdural": 2
+  },
+  "ID_cbb338ac": {
+    "subdural": 1
+  },
+  "ID_94d008d8": {
+    "subdural": 1
+  },
+  "ID_258de88a": {
+    "subdural": 1
+  },
+  "ID_e9b4278e": {
+    "subdural": 2
+  },
+  "ID_9d3038cd": {
+    "subdural": 1
+  },
+  "ID_bab73942": {
+    "subdural": 1
+  },
+  "ID_d4873351": {
+    "subdural": 1
+  },
+  "ID_08a89e8e": {
+    "subdural": 1
+  },
+  "ID_21987c9f": {
+    "subdural": 2
+  },
+  "ID_373e7941": {
+    "subdural": 1
+  },
+  "ID_9eee80a4": {
+    "subdural": 3
+  },
+  "ID_b7578445": {
+    "subdural": 1
+  },
+  "ID_956b61d5": {
+    "subdural": 1
+  },
+  "ID_7b1c4ee7": {
+    "subdural": 1
+  },
+  "ID_736e1212": {
+    "subdural": 1
+  },
+  "ID_d28d9540": {
+    "subdural": 2
+  },
+  "ID_253f2236": {
+    "subdural": 1
+  },
+  "ID_3676a099": {
+    "subdural": 2
+  },
+  "ID_67066e10": {
+    "subdural": 1
+  },
+  "ID_452f1826": {
+    "subdural": 1
+  },
+  "ID_a7c9d83c": {
+    "subdural": 1
+  },
+  "ID_2cc29d59": {
+    "subdural": 1
+  },
+  "ID_0ee0e95b": {
+    "subdural": 2
+  },
+  "ID_29ea4471": {
+    "subdural": 1
+  },
+  "ID_bdd2d6ca": {
+    "subdural": 1
+  },
+  "ID_5b4eba7c": {
+    "subdural": 1
+  },
+  "ID_8236aa7d": {
+    "subdural": 1
+  },
+  "ID_f90232f3": {
+    "subdural": 1
+  },
+  "ID_9bf702ed": {
+    "subdural": 1
+  },
+  "ID_276b2f09": {
+    "subdural": 1
+  },
+  "ID_da3bd0e6": {
+    "subdural": 1
+  },
+  "ID_dc63bc96": {
+    "subdural": 1
+  },
+  "ID_eba9f1a7": {
+    "subdural": 1
+  },
+  "ID_e818168b": {
+    "subdural": 2
+  },
+  "ID_2e503eba": {
+    "subdural": 1
+  },
+  "ID_4488a17e": {
+    "subdural": 1
+  },
+  "ID_86b827e8": {
+    "subdural": 1
+  },
+  "ID_6d42ce81": {
+    "subdural": 1
+  },
+  "ID_8d2a9e3a": {
+    "subdural": 2
+  },
+  "ID_7cc01161": {
+    "subdural": 1
+  },
+  "ID_201edec9": {
+    "subdural": 1
+  },
+  "ID_09187c1e": {
+    "subdural": 1
+  },
+  "ID_58ae3a5d": {
+    "subdural": 1
+  },
+  "ID_3a36f192": {
+    "subdural": 1
+  },
+  "ID_9ab5625e": {
+    "subdural": 1
+  },
+  "ID_7a1e1049": {
+    "subdural": 1
+  },
+  "ID_2d11c010": {
+    "subdural": 1
+  },
+  "ID_e37b5831": {
+    "subdural": 1
+  },
+  "ID_1d7b2119": {
+    "subdural": 1
+  },
+  "ID_4c881140": {
+    "subdural": 1
+  },
+  "ID_9904c33d": {
+    "subdural": 1
+  },
+  "ID_d0720b35": {
+    "subdural": 3
+  },
+  "ID_fd14e5d4": {
+    "subdural": 1
+  },
+  "ID_57b611cb": {
+    "subdural": 1
+  },
+  "ID_a6d97180": {
+    "subdural": 1
+  },
+  "ID_5078baa1": {
+    "subdural": 1
+  },
+  "ID_c78fbee7": {
+    "subdural": 1
+  },
+  "ID_441913c2": {
+    "subdural": 1
+  },
+  "ID_a0f87d8a": {
+    "subdural": 1
+  },
+  "ID_3e436344": {
+    "subdural": 1
+  },
+  "ID_f0a33031": {
+    "subdural": 1
+  },
+  "ID_0ef30263": {
+    "subdural": 1
+  },
+  "ID_66edfd20": {
+    "subdural": 1
+  },
+  "ID_9402b68b": {
+    "subdural": 1
+  },
+  "ID_82844888": {
+    "subdural": 1
+  },
+  "ID_948fc56f": {
+    "subdural": 1
+  },
+  "ID_b667aeee": {
+    "subdural": 1
+  },
+  "ID_b254d37a": {
+    "subdural": 1
+  },
+  "ID_2e7febd5": {
+    "subdural": 1
+  },
+  "ID_5c0e80aa": {
+    "subdural": 2
+  },
+  "ID_7d735aa0": {
+    "subdural": 1
+  },
+  "ID_3ab7fccc": {
+    "subdural": 1
+  },
+  "ID_5b8efa12": {
+    "subdural": 1
+  },
+  "ID_8385c7c6": {
+    "subdural": 1
+  },
+  "ID_a4b397e8": {
+    "subdural": 1
+  },
+  "ID_00e7eba8": {
+    "subdural": 2
+  },
+  "ID_26fbb0a5": {
+    "subdural": 1
+  },
+  "ID_c2bcaf5d": {
+    "subdural": 1
+  },
+  "ID_64378b86": {
+    "subdural": 1
+  },
+  "ID_b2daec41": {
+    "subdural": 1
+  },
+  "ID_d9f07266": {
+    "subdural": 1
+  },
+  "ID_b0b40838": {
+    "subdural": 1
+  },
+  "ID_d7aef478": {
+    "subdural": 1
+  },
+  "ID_cafbe2c6": {
+    "subdural": 1
+  },
+  "ID_d07c198c": {
+    "subdural": 1
+  },
+  "ID_8cf39103": {
+    "subdural": 1
+  },
+  "ID_8645db2e": {
+    "subdural": 1
+  },
+  "ID_97f4d37f": {
+    "subdural": 1
+  },
+  "ID_8869d467": {
+    "subdural": 1
+  },
+  "ID_cb4c887c": {
+    "subdural": 1
+  },
+  "ID_8ebc678f": {
+    "subdural": 1
+  },
+  "ID_6dc6a04b": {
+    "subdural": 1
+  },
+  "ID_92d0891b": {
+    "subdural": 1
+  },
+  "ID_c328fa35": {
+    "subdural": 1
+  },
+  "ID_25e52018": {
+    "subdural": 2
+  },
+  "ID_aade713b": {
+    "subdural": 1
+  },
+  "ID_8eafb11d": {
+    "subdural": 1
+  },
+  "ID_ac7f53cc": {
+    "subdural": 1
+  },
+  "ID_f99b5ee3": {
+    "subdural": 1
+  },
+  "ID_6de72cec": {
+    "subdural": 1
+  },
+  "ID_0767352c": {
+    "subdural": 1
+  },
+  "ID_51b9da28": {
+    "subdural": 1
+  },
+  "ID_d862f03a": {
+    "subdural": 1
+  },
+  "ID_1e7ca05e": {
+    "subdural": 1
+  },
+  "ID_0718d89f": {
+    "subdural": 2
+  },
+  "ID_7cdadf98": {
+    "subdural": 1
+  },
+  "ID_2da32a73": {
+    "subdural": 1
+  },
+  "ID_63397f5e": {
+    "subdural": 1
+  },
+  "ID_aa91c454": {
+    "subdural": 1
+  },
+  "ID_85880e26": {
+    "subdural": 1
+  },
+  "ID_82fc01b6": {
+    "subdural": 1
+  },
+  "ID_ec5b74f5": {
+    "subdural": 1
+  },
+  "ID_fc0ec529": {
+    "subdural": 1
+  },
+  "ID_2a42d0a0": {
+    "subdural": 1
+  },
+  "ID_4286c4d5": {
+    "subdural": 1
+  },
+  "ID_e2ab7f5e": {
+    "subdural": 1
+  },
+  "ID_33c940e3": {
+    "subdural": 1
+  },
+  "ID_0f8c17ac": {
+    "subdural": 1
+  },
+  "ID_b24a3dc0": {
+    "subdural": 1
+  },
+  "ID_7b024d79": {
+    "subdural": 1
+  },
+  "ID_2b54076d": {
+    "subdural": 1
+  },
+  "ID_3f2366c7": {
+    "subdural": 2
+  },
+  "ID_6d603aaa": {
+    "subdural": 1
+  },
+  "ID_6089c1c1": {
+    "subdural": 2
+  },
+  "ID_faad0265": {
+    "subdural": 1
+  },
+  "ID_7a9503e1": {
+    "subdural": 1
+  },
+  "ID_b6dd6db5": {
+    "subdural": 1
+  },
+  "ID_8abcd3aa": {
+    "subdural": 1
+  },
+  "ID_ee488f63": {
+    "subdural": 1
+  },
+  "ID_01a8bbad": {
+    "subdural": 1
+  },
+  "ID_fe48ea79": {
+    "subdural": 1
+  },
+  "ID_50dc440f": {
+    "subdural": 1
+  },
+  "ID_05049066": {
+    "subdural": 2
+  },
+  "ID_694aceee": {
+    "subdural": 1
+  },
+  "ID_3355b379": {
+    "subdural": 1
+  },
+  "ID_cf95f09d": {
+    "subdural": 1
+  },
+  "ID_709177bc": {
+    "subdural": 1
+  },
+  "ID_ee92c434": {
+    "subdural": 1
+  },
+  "ID_c1a3cf5f": {
+    "subdural": 1
+  },
+  "ID_9fa84181": {
+    "subdural": 1
+  },
+  "ID_e752ae8b": {
+    "subdural": 1
+  },
+  "ID_a85dc466": {
+    "subdural": 2
+  },
+  "ID_b59c9b08": {
+    "subdural": 1
+  },
+  "ID_a17cb9e3": {
+    "subdural": 2
+  },
+  "ID_bee6cf5b": {
+    "subdural": 1
+  },
+  "ID_8ae8a6d9": {
+    "subdural": 1
+  },
+  "ID_9d3e17a8": {
+    "subdural": 1
+  },
+  "ID_0a8d2654": {
+    "subdural": 1
+  },
+  "ID_6ca01ecb": {
+    "subdural": 1
+  },
+  "ID_8896eb8e": {
+    "subdural": 1
+  },
+  "ID_7531e303": {
+    "subdural": 1
+  },
+  "ID_6d4908ca": {
+    "subdural": 1
+  },
+  "ID_6f7bf8dd": {
+    "subdural": 1
+  },
+  "ID_e607ab0e": {
+    "subdural": 1
+  },
+  "ID_03d949df": {
+    "subdural": 1
+  },
+  "ID_f8ed1734": {
+    "subdural": 1
+  },
+  "ID_55fbfdc5": {
+    "subdural": 1
+  },
+  "ID_2e68eabb": {
+    "subdural": 1
+  },
+  "ID_da74f649": {
+    "subdural": 2
+  },
+  "ID_ea721902": {
+    "subdural": 1
+  },
+  "ID_a540b550": {
+    "subdural": 1
+  },
+  "ID_6f2a52fc": {
+    "subdural": 1
+  },
+  "ID_6ba38281": {
+    "subdural": 1
+  },
+  "ID_799b0cf7": {
+    "subdural": 1
+  },
+  "ID_9d993377": {
+    "subdural": 1
+  },
+  "ID_273d4727": {
+    "subdural": 1
+  },
+  "ID_f68aa166": {
+    "subdural": 1
+  },
+  "ID_1d809e56": {
+    "subdural": 1
+  },
+  "ID_5dd07d02": {
+    "subdural": 1
+  },
+  "ID_1b17951e": {
+    "subdural": 1
+  },
+  "ID_402555db": {
+    "subdural": 1
+  },
+  "ID_1a292cdb": {
+    "subdural": 1
+  },
+  "ID_2baa33bd": {
+    "subdural": 1
+  },
+  "ID_a4174361": {
+    "subdural": 1
+  },
+  "ID_0d921956": {
+    "subdural": 1
+  },
+  "ID_65202214": {
+    "subdural": 1
+  },
+  "ID_f5577db1": {
+    "subdural": 1
+  },
+  "ID_ef2da0ef": {
+    "subdural": 1
+  },
+  "ID_2a359019": {
+    "subdural": 1
+  },
+  "ID_6a216b24": {
+    "subdural": 1
+  },
+  "ID_57b9c69b": {
+    "subdural": 1
+  },
+  "ID_5cd36163": {
+    "subdural": 1
+  },
+  "ID_3e02dd50": {
+    "subdural": 1
+  },
+  "ID_bd585bc8": {
+    "subdural": 1
+  },
+  "ID_e2f7198b": {
+    "subdural": 1
+  },
+  "ID_67726bb2": {
+    "subdural": 1
+  },
+  "ID_1601a80b": {
+    "subdural": 1
+  },
+  "ID_4e970d93": {
+    "subdural": 1
+  },
+  "ID_187cd37a": {
+    "subdural": 2
+  },
+  "ID_5dd50e1b": {
+    "subdural": 1
+  },
+  "ID_1a9ab709": {
+    "subdural": 1
+  },
+  "ID_b6b57c16": {
+    "subdural": 1
+  },
+  "ID_94dc582c": {
+    "subdural": 1
+  },
+  "ID_f7620e81": {
+    "subdural": 1
+  },
+  "ID_af59b559": {
+    "subdural": 1
+  },
+  "ID_71a0a6e6": {
+    "subdural": 1
+  },
+  "ID_f555dfa7": {
+    "subdural": 1
+  },
+  "ID_0d75d480": {
+    "subdural": 1
+  },
+  "ID_edfccbc0": {
+    "subdural": 1
+  },
+  "ID_0688ae89": {
+    "subdural": 1
+  },
+  "ID_afee8ca1": {
+    "subdural": 1
+  },
+  "ID_1cee111b": {
+    "subdural": 1
+  },
+  "ID_d67711b2": {
+    "subdural": 1
+  },
+  "ID_6564d853": {
+    "subdural": 1
+  },
+  "ID_03622320": {
+    "subdural": 1
+  },
+  "ID_d82bb987": {
+    "subdural": 1
+  },
+  "ID_34480fbb": {
+    "subdural": 1
+  },
+  "ID_6a47d33a": {
+    "subdural": 1
+  },
+  "ID_84d35310": {
+    "subdural": 1
+  },
+  "ID_f7358d19": {
+    "subdural": 1
+  },
+  "ID_d68b5be2": {
+    "subdural": 1
+  },
+  "ID_a2f67e6c": {
+    "subdural": 1
+  },
+  "ID_a7ff80f8": {
+    "subdural": 1
+  },
+  "ID_69b19057": {
+    "subdural": 1
+  },
+  "ID_7db5845a": {
+    "subdural": 1
+  },
+  "ID_ef96809d": {
+    "subdural": 1
+  },
+  "ID_dee1104a": {
+    "subdural": 1
+  },
+  "ID_33b8d681": {
+    "subdural": 1
+  },
+  "ID_ea689b67": {
+    "subdural": 1
+  },
+  "ID_f8e59496": {
+    "subdural": 1
+  },
+  "ID_343067fc": {
+    "subdural": 1
+  },
+  "ID_046b584b": {
+    "subdural": 1
+  },
+  "ID_6996f235": {
+    "subdural": 1
+  },
+  "ID_f551e132": {
+    "subdural": 1
+  },
+  "ID_fead0ce9": {
+    "subdural": 1
+  },
+  "ID_194aa594": {
+    "subdural": 1
+  },
+  "ID_ef19e489": {
+    "subdural": 1
+  },
+  "ID_c63dd46f": {
+    "subdural": 1
+  },
+  "ID_dcfe943a": {
+    "subdural": 1
+  },
+  "ID_e41cf677": {
+    "subdural": 1
+  },
+  "ID_dea47235": {
+    "subdural": 1
+  },
+  "ID_6f38a951": {
+    "subdural": 1
+  },
+  "ID_ab69f632": {
+    "subdural": 1
+  },
+  "ID_e7985453": {
+    "subdural": 1
+  }
+}
