@@ -131,7 +131,8 @@ dmypy.json
 # dataset
 dataset/
 logs/
-split_file/
+split_file
+split_file/*
 cpts
 
 # dev ipython notebook
