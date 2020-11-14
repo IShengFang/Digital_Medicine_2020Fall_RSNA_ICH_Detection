@@ -1,8 +1,8 @@
 {
-  "0": "subdural",
-  "1": "intraventricular",
-  "2": "subarachnoid",
-  "3": "intraparenchymal",
-  "4": "epidural",
-  "5": "healthy"
+  "0": "intraparenchymal",
+  "1": "subarachnoid",
+  "2": "intraventricular",
+  "3": "healthy",
+  "4": "subdural",
+  "5": "epidural"
 }

@@ -1,0 +1,1 @@
+python train.py --epochs 2 --generate_exp_name --pretrained --model_name resnet18 --radam

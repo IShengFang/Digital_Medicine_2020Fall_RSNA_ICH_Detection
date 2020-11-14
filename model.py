@@ -23,22 +23,25 @@ class Model(nn.Module):
         '''
         super().__init__()
         #out name
-        #fc: resnet, densenet, inception, googlenet, shufflenet, resnext50_32x4d, wide_resnet50_2
-        #classifier: alexnet, vgg, squeezenet, mobilenet, mnasnet
+        #fc: resnet, inception, googlenet, shufflenet, resnext50_32x4d, wide_resnet50_2
+        #classifier: alexnet, vgg, squeezenet, mobilenet, mnasnet, classifier
 
         self.model_name = model_name
         self.pretrained = pretrained
         self.num_classes = num_classes
 
-        last_fc = 'res' in self.model_name or \
-                  'densenet' in self.model_name or \
-                  self.model_name is 'inception_v3' or\
-                  self.model_name is 'googlenet'
-        exec('model_function = models.{}'.format(self.model_name))
+        self.last_fc = 'res' in self.model_name or \
+                        self.model_name is 'inception_v3' or\
+                        self.model_name is 'googlenet'
+        self.densenet = 'densenet' in self.model_name
+        exec('self.model = models.{}(pretrained=pretrained)'.format(self.model_name), {'self':self, 'models':models, 'pretrained':self.pretrained})
 
-        self.model = model_function(pretrained=self.pretrained)
-        if last_fc:
-            self.model.fc = nn.Linear(in_features=self.model.fc.in_features, out_features: self.num_classes, bias=self.model.fc.bias)
+        if self.last_fc:
+            have_bias = self.model.fc.bias is not None
+            self.model.fc = nn.Linear(in_features=self.model.fc.in_features, out_features=self.num_classes, bias=have_bias)
+        elif self.densenet:
+            have_bias = self.model.classifier.bias is not None
+            self.model.classifier = nn.Linear(in_features=self.model.classifier.in_features, out_features=self.num_classes, bias=have_bias)
         else:
             raise NotImplementedError
 
