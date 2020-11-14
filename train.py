@@ -129,9 +129,9 @@ def generate_exp_name(args):
     else:
         args.exp_name += '_Scratch'
 
-    args.exp_name += '_{}_E{}_lr{}_b1_{}_b2_{}_bs_{}_splt_{}_prekeral_{}'.format(
+    args.exp_name += '_{}_E{}_lr{}_b1_{}_b2_{}_bs_{}_splt_{}_prekeral_{}_mixup_{}'.format(
         args.model_name, args.epochs, args.lr, args.beta_1, args.beta_2,
-        args.batch_size, args.split_ratio, args.pre_kernel,
+        args.batch_size, args.split_ratio, args.pre_kernel, args.mixup_alpha
     )
     if args.radam:
         args.exp_name += '_radam'
