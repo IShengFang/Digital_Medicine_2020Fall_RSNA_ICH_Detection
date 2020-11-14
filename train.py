@@ -86,7 +86,15 @@ def load_args():
                         help='bsb(defualt), meta, brain, all_channel_window, rainbow_window')
 
     # mixup
+    parser.add_argument('--mixup', action='store_true', default=False)
     parser.add_argument('--mixup_alpha', type=float, default=1.0,
+                        help='mixup interpolation strength')
+
+    # cutmix
+    parser.add_argument('--cutmix', action='store_true', default=False)
+    parser.add_argument('--cutmix_beta', type=float, default=2,
+                        help='mixup interpolation strength')
+    parser.add_argument('--cutmix_prob', type=float, default=0.5,
                         help='mixup interpolation strength')
 
     # training options
@@ -129,12 +137,19 @@ def generate_exp_name(args):
     else:
         args.exp_name += '_Scratch'
 
-    args.exp_name += '_{}_E{}_lr{}_b1_{}_b2_{}_bs_{}_splt_{}_prekeral_{}_mixup_{}'.format(
+    args.exp_name += '_{}_E{}_lr{}_b1_{}_b2_{}_bs_{}_splt_{}_prekeral_{}'.format(
         args.model_name, args.epochs, args.lr, args.beta_1, args.beta_2,
-        args.batch_size, args.split_ratio, args.pre_kernel, args.mixup_alpha
+        args.batch_size, args.split_ratio, args.pre_kernel
     )
+
     if args.radam:
         args.exp_name += '_radam'
+
+    if args.mixup:
+        args.exp_name += f'_mixup_{args.mixup_alpha}'
+    if args.cutmix:
+        args.exp_name += f'_cutmixbeta_{args.cutmix_beta}'
+        args.exp_name += f'_cutmixprob_{args.cutmix_prob}'
 
     if args.random_apply_aug:
         args.exp_name += '_rand_app'
@@ -151,6 +166,25 @@ def generate_exp_name(args):
     return args.exp_name
 
 
+def rand_bbox(size, lam):
+    W = size[2]
+    H = size[3]
+    cut_rat = np.sqrt(1. - lam)
+    cut_w = np.int(W * cut_rat)
+    cut_h = np.int(H * cut_rat)
+
+    # uniform
+    cx = np.random.randint(W)
+    cy = np.random.randint(H)
+
+    bbx1 = np.clip(cx - cut_w // 2, 0, W)
+    bby1 = np.clip(cy - cut_h // 2, 0, H)
+    bbx2 = np.clip(cx + cut_w // 2, 0, W)
+    bby2 = np.clip(cy + cut_h // 2, 0, H)
+
+    return bbx1, bby1, bbx2, bby2
+
+
 def train(net, writer, class_dict, train_loader, valid_loader,
           optimizer, criterion, epochs, device, cpt_num, args):
     step = 0
@@ -163,15 +197,36 @@ def train(net, writer, class_dict, train_loader, valid_loader,
         epoch_pbar = tqdm(train_loader)
         for imgs, labels in epoch_pbar:
             imgs, labels = imgs.to(device), labels.to(device)
-            imgs, labels_a, labels_b, lam = mixup_data(imgs, labels, args.mixup_alpha, device)
-
             optimizer.zero_grad()
 
-            output = net(imgs)
-
-            loss_func = mixup_criterion(labels_a, labels_b, lam)
-            loss = loss_func(criterion, output)
-            # loss = criterion(output, labels)
+            if args.mixup:
+                imgs, labels_a, labels_b, lam = mixup_data(imgs, labels, args.mixup_alpha, device)
+                output = net(imgs)
+                loss_func = mixup_criterion(labels_a, labels_b, lam)
+                loss = loss_func(criterion, output)
+            elif args.cutmix:
+                r = np.random.rand(1)
+                if args.cutmix_beta>0 and r<args.cutmix_prob:
+                    # generate mixed sample
+                    lam = np.random.beta(args.cutmix_beta, args.cutmix_beta)
+                    rand_index = torch.randperm(imgs.size()[0]).to(device)
+                    labels_a = labels
+                    labels_b = labels[rand_index]
+                    bbx1, bby1, bbx2, bby2 = rand_bbox(imgs.size(), lam)
+                    imgs[:, :, bbx1:bbx2, bby1:bby2] = imgs[rand_index, :, bbx1:bbx2, bby1:bby2]
+                    # adjust lambda to exactly match pixel ratio
+                    lam = 1 - ((bbx2 - bbx1) * (bby2 - bby1) / (imgs.size()[-1] * imgs.size()[-2]))
+                    output = net(imgs)
+                    # loss = criterion(output, labels_a) * lam + criterion(output, labels_b) * (1. - lam)
+                    loss_func = mixup_criterion(labels_a, labels_b, lam)
+                    loss = loss_func(criterion, output)
+                else:
+                    # compute output
+                    output = net(imgs)
+                    loss = criterion(output, labels)
+            else:
+                output = net(imgs)
+                loss = criterion(output, labels)
 
             loss.backward()
             optimizer.step()
