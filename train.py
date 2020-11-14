@@ -204,13 +204,13 @@ def plot_confusion_matrix(y_true, y_pred, labels):
 
 def evaluate(net, valid_loader, train_loader, criterion, logger, device, step, class_dict):
     net.eval()
-    correct = 0
     y_true = []
     y_pred = []
     print('start evaluating...')
 
     print('valid_set')
     eval_pbar = tqdm(valid_loader)
+    correct = 0
     batch_idx = 0
     val_loss = 0
     for imgs, labels in eval_pbar:
@@ -231,6 +231,7 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step, c
     val_cm = plot_confusion_matrix(y_true, y_pred, class_dict.values())
 
     eval_pbar = tqdm(train_loader)
+    correct = 0
     batch_idx = 0
     for imgs, labels in eval_pbar:
         imgs, labels = imgs.to(device), labels.to(device)
