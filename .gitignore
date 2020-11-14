@@ -131,9 +131,14 @@ dmypy.json
 # dataset
 dataset/
 logs/
-split_file/
+
+split_file
 split_file/*
 cpts
 
 # dev ipython notebook
 dev.ipynb
+
+# train.sh
+train.sh
+label.json

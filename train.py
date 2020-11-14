@@ -209,7 +209,7 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
         batch_idx+=1
     val_loss = val_loss/batch_idx
     val_precision, val_recall, val_f1, _ = precision_recall_fscore_support(y_true, y_pred)
-    val_acc = correct/batch_idx
+    val_acc = correct/len(valid_loader.dataset)
 
     eval_pbar = tqdm(train_loader)
     batch_idx = 0
@@ -223,7 +223,7 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
         y_pred += pred.data.cpu()
         batch_idx += 1
     train_precision, train_recall, train_f1, _ = precision_recall_fscore_support(y_true, y_pred)
-    train_acc = correct/batch_idx
+    train_acc = correct/len(train_loader.dataset)
     for class_index in range(args.num_classes):
         class_name = class_dict[str(class_index)]
         logger.add_scalar(f'{class_name}/val/precision', val_precision[class_index], step)
