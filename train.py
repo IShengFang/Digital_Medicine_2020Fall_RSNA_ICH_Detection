@@ -2,6 +2,7 @@
 import os
 import json
 import argparse
+import random
 
 import pydicom
 from sklearn.metrics import precision_recall_fscore_support
@@ -271,14 +272,15 @@ if __name__ == '__main__':
         train_transforms.append(transforms.RandomRotation(15))
     if args.random_erasing:
         train_transforms.append(transforms.RandomErasing(p=0.5, scale=(0.02, 0.33), ratio=(0.3, 3.3), value=0, inplace=False))
-
+    
     if args.random_order:
-        train_transforms = transforms.RandomOrder(train_transforms)
-    train_transforms = nn.ModuleList(train_transforms)
+        random.shuffle(train_transforms) 
     if args.random_apply_aug:
         train_transforms = transforms.RandomApply(train_transforms, p=0.5)
-
-    train_transforms = transforms.Compose(train_transforms)
+    elif args.random_order:
+        train_transforms = transforms.RandomOder(train_transforms)
+    else:
+        train_transforms = transforms.Compose(train_transforms)
 
     train_set = ICHDataset('{}/train.txt'.format(args.split_file_dir), args.img_size, kernel=args.pre_kernel, transform=train_transforms)
     train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True, num_workers=args.n_threads)
