@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import pydicom
 import numpy as np
 # https://www.kaggle.com/reppic/gradient-sigmoid-windowing
 # https://www.kaggle.com/akensert/rsna-inceptionv3-keras-tf1-14-0/
@@ -45,7 +44,7 @@ def brain_window(dcm):
 def bsb_window(dcm):
     brain_img = window_image(dcm, 40, 80)
     subdural_img = window_image(dcm, 80, 200)
-    bone_img = window_image(dcm, 600, 2600)    
+    bone_img = window_image(dcm, 600, 2600)
     return np.array([brain_img, subdural_img, bone_img])
 
 

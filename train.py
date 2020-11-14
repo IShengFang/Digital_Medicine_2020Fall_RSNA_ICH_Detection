@@ -1,24 +1,24 @@
 # -*- coding: utf-8 -*-
 import os
 import json
-import argparse
 import random
+import argparse
 
-import pydicom
-from sklearn.metrics import precision_recall_fscore_support
 from tqdm import tqdm
+from sklearn.metrics import precision_recall_fscore_support
 
 import torch
 import torch.nn as nn
 import torch.optim as optim
-#import torch_optimizer as optim
 from torchvision import transforms
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
-import data, utils, model
-from data.dataset import ICHDataset
+import data
+import model
+import utils
 from radam import RAdam
+from data.dataset import ICHDataset
 
 '''
 # of different patient ID
@@ -34,35 +34,35 @@ from radam import RAdam
 def load_args():
     parser = argparse.ArgumentParser()
     # data path
-    parser.add_argument('--train_set', type=str, 
+    parser.add_argument('--train_set', type=str,
                         default='dataset/TrainingData/',
                         help='Directory path of dataset for training')
-    
-    #split relate
-    parser.add_argument('--split_file_dir', type=str, 
+
+    # split relate
+    parser.add_argument('--split_file_dir', type=str,
                         default='split_file/',
                         help='Directory path for save split file')
-    
+
     parser.add_argument('--name_split_file', action='store_true', default=False)
     parser.add_argument('--use_old_split_file', action='store_true', default=False)
-    
+
     # save path
-    parser.add_argument('--log_dir', type=str, 
+    parser.add_argument('--log_dir', type=str,
                         default='logs/',
                         help='Directory path for save tensorboard log')
-    parser.add_argument('--cpt_dir', type=str, 
+    parser.add_argument('--cpt_dir', type=str,
                         default='cpts/',
                         help='Directory path for save model cpt')
 
     parser.add_argument('--cpt_num', type=int, default=1000)
 
     # model options
-    parser.add_argument('--model_name', type=str, 
+    parser.add_argument('--model_name', type=str,
                         default='resnet18',
                         help='resnet18, resnet34, resnet50, resnet101, resnet152, \
                               resnext50_32x4d, resnext101_32x8d, \
                               wide_resnet50_2, wide_resnet101_2, \
-                              densenet121, densenet169, densenet161, densenet201,\
+                              densenet121, densenet169, densenet161, densenet201, \
                               inception_v3, googlenet, ')
     parser.add_argument('--pretrained', action='store_true', default=False)
     parser.add_argument('--fixed_weight', action='store_true', default=False)
@@ -77,8 +77,8 @@ def load_args():
     parser.add_argument('--random_order', action='store_true', default=False)
     parser.add_argument('--random_erasing', action='store_true', default=False)
     parser.add_argument('--pre_kernel', type=str,  default='bsb',
-                         help='bsb(defualt), meta, brain, all_channel_window, rainbow_window')
-    
+                        help='bsb(defualt), meta, brain, all_channel_window, rainbow_window')
+
     # training options
     parser.add_argument('--epochs', type=int, default=100)
     parser.add_argument('--lr', type=float, default=5e-4)
@@ -86,11 +86,11 @@ def load_args():
     parser.add_argument('--beta_2', type=float, default=0.999)
     parser.add_argument('--radam', action='store_true', default=False)
     parser.add_argument('--batch_size', type=int, default=16)
-    parser.add_argument('--n_threads', type=int, default= 8)
+    parser.add_argument('--n_threads', type=int, default=8)
 
     parser.add_argument('--num_classes', type=int, default=6)
 
-    #exp name
+    # exp name
     parser.add_argument('--exp_name', default='ICH_detection',
                         help='Experiment name')
 
@@ -110,6 +110,7 @@ def load_args():
 
     return args
 
+
 def generate_exp_name(args):
     if args.pretrained:
         args.exp_name += '_Pretrain'
@@ -119,28 +120,28 @@ def generate_exp_name(args):
         args.exp_name += '_Scratch'
 
     args.exp_name += '_{}_E{}_lr{}_b1_{}_b2_{}_bs_{}_splt_{}_prekeral_{}'.format(
-        args.model_name, args.epochs, args.lr, args.beta_1, args.beta_2, 
+        args.model_name, args.epochs, args.lr, args.beta_1, args.beta_2,
         args.batch_size, args.split_ratio, args.pre_kernel,
-        )
+    )
     if args.radam:
-        args.exp_name+='_radam'
-
+        args.exp_name += '_radam'
 
     if args.random_apply_aug:
-        args.exp_name+='_rand_app'
+        args.exp_name += '_rand_app'
     if args.random_horizontal_flip:
-        args.exp_name+='_rand_flip'
+        args.exp_name += '_rand_flip'
     if args.random_perspective:
-        args.exp_name+='_rand_pers'
+        args.exp_name += '_rand_pers'
     if args.random_rotation:
-        args.exp_name+='_rand_rota'
+        args.exp_name += '_rand_rota'
     if args.random_order:
-        args.exp_name+='_rand_ord'
+        args.exp_name += '_rand_ord'
     if args.random_erasing:
-        args.exp_name+='_rand_eras'
+        args.exp_name += '_rand_eras'
     return args.exp_name
 
-def train(net, writer, class_dict, train_loader, valid_loader, \
+
+def train(net, writer, class_dict, train_loader, valid_loader,
           optimizer, criterion, epochs, device, cpt_num, args):
     step = 0
     print('start training...')
@@ -165,13 +166,13 @@ def train(net, writer, class_dict, train_loader, valid_loader, \
             step += 1
             epoch_pbar.set_description(f'epoch: {epoch:>2}/{epochs}, batch: {batch_idx:>3}/{len(train_loader)}, loss: {loss.item():.5f}')
 
-            if step%cpt_num==0:
+            if step%cpt_num == 0:
                 save_path = os.path.join(args.cpt_dir, '{}_E_{}_iter_{}.cpt'.format(args.model_name, epoch, step,))
                 print('saving model cpt @ {}'.format(save_path))
                 torch.save(net.state_dict(), save_path)
 
-            batch_idx+=1
-                
+            batch_idx += 1
+
         running_loss /= batch_idx
         print('----------------------------')
         exp_pbar.set_description(f'epoch: {epoch:>2}/{epochs}, avg. loss: {running_loss:.5f}')
@@ -200,13 +201,13 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
         with torch.no_grad():
             output = net(imgs)
             loss = criterion(output, labels)
-            val_loss+= loss.item()
+            val_loss += loss.item()
 
         _, pred = output.data.max(1)
         correct += (labels == pred).sum().item()
         y_true += labels.data.cpu()
         y_pred += pred.data.cpu()
-        batch_idx+=1
+        batch_idx += 1
     val_loss = val_loss/batch_idx
     val_precision, val_recall, val_f1, _ = precision_recall_fscore_support(y_true, y_pred)
     val_acc = correct/len(valid_loader.dataset)
@@ -236,6 +237,7 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
     logger.add_scalar('val/total_acc', val_acc, step)
     logger.add_scalar('train/total_acc', train_acc, step)
 
+
 def test(model, dataloader, device):
     res = []
     for batch_idx, imgs in enumerate(dataloader):
@@ -261,7 +263,6 @@ if __name__ == '__main__':
     class_dict = json.load(open('label.json', 'r'))
     print(json.dumps(class_dict, indent=2))
 
-
     print('setting data aug')
     train_transforms = []
     if args.random_horizontal_flip:
@@ -272,9 +273,9 @@ if __name__ == '__main__':
         train_transforms.append(transforms.RandomRotation(15))
     if args.random_erasing:
         train_transforms.append(transforms.RandomErasing(p=0.5, scale=(0.02, 0.33), ratio=(0.3, 3.3), value=0, inplace=False))
-    
+
     if args.random_order:
-        random.shuffle(train_transforms) 
+        random.shuffle(train_transforms)
     if args.random_apply_aug:
         train_transforms = transforms.RandomApply(train_transforms, p=0.5)
     elif args.random_order:
@@ -293,17 +294,17 @@ if __name__ == '__main__':
 
     if args.radam:
         if args.fixed_weight:
-            optim = RAdam(net.fc.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
+            optimizer = RAdam(net.fc.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
         else:
-            optim = RAdam(net.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
+            optimizer = RAdam(net.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
     else:
         if args.fixed_weight:
-            optim = optim.Adam(net.fc.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
+            optimizer = optim.Adam(net.fc.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
         else:
-            optim = optim.Adam(net.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
+            optimizer = optim.Adam(net.parameters(), lr=args.lr, betas=(args.beta_1, args.beta_2))
 
     writer = SummaryWriter(args.log_dir)
     train(net, writer, class_dict,
           train_loader, valid_loader,
-          optim, criterion, args.epochs, device,
+          optimizer, criterion, args.epochs, device,
           args.cpt_num, args)

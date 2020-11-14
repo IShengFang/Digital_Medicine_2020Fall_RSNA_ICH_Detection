@@ -1,10 +1,13 @@
+import os
 import pydicom
+import numpy as np
 
 import torch
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 import torchvision.transforms.functional as TF
 
 from data import preprocess
+
 
 class ICHDataset(Dataset):
     def __init__(self, path, img_size, kernel='bsb', transform=None):
@@ -21,7 +24,6 @@ class ICHDataset(Dataset):
         else:
             for filename in os.listdir(path):
                 self.files.append(f'{path}/{filename}')
-                
 
     def __len__(self):
         return len(self.files)
@@ -46,7 +48,7 @@ class ICHDataset(Dataset):
             img = preprocess.rainbow_window(dcm)
 
         img = torch.tensor(img, dtype=torch.float)
-        img = TF.resize(img, (self.img_size,self.img_size))
+        img = TF.resize(img, (self.img_size, self.img_size))
 
         if self.transform is not None:
             img = self.transform(img)

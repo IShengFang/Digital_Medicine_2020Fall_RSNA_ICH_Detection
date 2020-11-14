@@ -1,11 +1,12 @@
 import os
 
+
 def check_and_make_dir(path):
     print('checking... ', path)
     dirs = path.split('/')
-    if path[:2]=='./':
+    if path[:2] == './':
         path = path[:2]
-    elif path[0]=='/':
+    elif path[0] == '/':
         path = '/'
     else:
         path = ''
