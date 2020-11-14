@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import utils
 
 
-def split_data(path='dataset/TrainingData', split_file_dir='split_file',train_size=0.7):
+def split_data(path='dataset/TrainingData', split_file_dir='split_file', train_size=0.7):
     label = 0
     label_mapping = {}
     train_data = []

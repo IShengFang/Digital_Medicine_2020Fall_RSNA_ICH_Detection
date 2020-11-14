@@ -3,9 +3,13 @@ import os
 import json
 import random
 import argparse
+import matplotlib
+import numpy as np
+import seaborn as sn
+import matplotlib.pyplot as plt
 
 from tqdm import tqdm
-from sklearn.metrics import precision_recall_fscore_support
+from sklearn.metrics import precision_recall_fscore_support, confusion_matrix
 
 import torch
 import torch.nn as nn
@@ -29,6 +33,7 @@ from data.dataset import ICHDataset
 蛛網膜下腔出血 subarachnoid: 717
 硬膜下出血 subdural: 794
 '''
+matplotlib.use('AGG')
 
 
 def load_args():
@@ -176,7 +181,7 @@ def train(net, writer, class_dict, train_loader, valid_loader,
         running_loss /= batch_idx
         print('----------------------------')
         exp_pbar.set_description(f'epoch: {epoch:>2}/{epochs}, avg. loss: {running_loss:.5f}')
-        evaluate(net, valid_loader, train_loader, criterion, writer, device, step)
+        evaluate(net, valid_loader, train_loader, criterion, writer, device, step, class_dict)
         print('============================')
 
         save_path = os.path.join(args.cpt_dir, '{}_E_{}_iter_{}.cpt'.format(
@@ -185,7 +190,19 @@ def train(net, writer, class_dict, train_loader, valid_loader,
         torch.save(net.state_dict(), save_path)
 
 
-def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
+def plot_confusion_matrix(y_true, y_pred, labels):
+    cm = confusion_matrix(y_true, y_pred, labels=np.arange(len(labels)))
+    fig, ax = plt.subplots()
+    sn.heatmap(cm, annot=True, ax=ax, cmap='Blues', fmt='d')
+    ax.set_xlabel('Prediction')
+    ax.set_ylabel('Ground truth')
+    ax.xaxis.set_ticklabels(labels, rotation=45)
+    ax.yaxis.set_ticklabels(labels, rotation=0)
+    plt.tight_layout()
+    return fig
+
+
+def evaluate(net, valid_loader, train_loader, criterion, logger, device, step, class_dict):
     net.eval()
     correct = 0
     y_true = []
@@ -208,9 +225,10 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
         y_true += labels.data.cpu()
         y_pred += pred.data.cpu()
         batch_idx += 1
-    val_loss = val_loss/batch_idx
+    val_loss = val_loss / batch_idx
     val_precision, val_recall, val_f1, _ = precision_recall_fscore_support(y_true, y_pred)
-    val_acc = correct/len(valid_loader.dataset)
+    val_acc = correct / len(valid_loader.dataset)
+    val_cm = plot_confusion_matrix(y_true, y_pred, class_dict.values())
 
     eval_pbar = tqdm(train_loader)
     batch_idx = 0
@@ -224,7 +242,8 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
         y_pred += pred.data.cpu()
         batch_idx += 1
     train_precision, train_recall, train_f1, _ = precision_recall_fscore_support(y_true, y_pred)
-    train_acc = correct/len(train_loader.dataset)
+    train_acc = correct / len(train_loader.dataset)
+    train_cm = plot_confusion_matrix(y_true, y_pred, class_dict.values())
     for class_index in range(args.num_classes):
         class_name = class_dict[str(class_index)]
         logger.add_scalar(f'{class_name}/val/precision', val_precision[class_index], step)
@@ -235,7 +254,9 @@ def evaluate(net, valid_loader, train_loader, criterion, logger, device, step):
         logger.add_scalar(f'{class_name}/train/f1-score', train_f1[class_index], step)
     logger.add_scalar('val/loss', val_loss, step)
     logger.add_scalar('val/total_acc', val_acc, step)
+    logger.add_figure('val/cm', val_cm, step)
     logger.add_scalar('train/total_acc', train_acc, step)
+    logger.add_figure('train/cm', train_cm, step)
 
 
 def test(model, dataloader, device):
