@@ -23,6 +23,7 @@ import model
 import utils
 from radam import RAdam
 from data.dataset import ICHDataset
+from mixup import mixup_data, mixup_criterion
 
 '''
 # of different patient ID
@@ -83,6 +84,10 @@ def load_args():
     parser.add_argument('--random_erasing', action='store_true', default=False)
     parser.add_argument('--pre_kernel', type=str,  default='bsb',
                         help='bsb(defualt), meta, brain, all_channel_window, rainbow_window')
+
+    # mixup
+    parser.add_argument('--mixup_alpha', type=float, default=1.0,
+                        help='mixup interpolation strength')
 
     # training options
     parser.add_argument('--epochs', type=int, default=100)
@@ -158,10 +163,16 @@ def train(net, writer, class_dict, train_loader, valid_loader,
         epoch_pbar = tqdm(train_loader)
         for imgs, labels in epoch_pbar:
             imgs, labels = imgs.to(device), labels.to(device)
+            imgs, labels_a, labels_b, lam = mixup_data(imgs, labels, args.mixup_alpha, device)
+
             optimizer.zero_grad()
 
             output = net(imgs)
-            loss = criterion(output, labels)
+
+            loss_func = mixup_criterion(labels_a, labels_b, lam)
+            loss = loss_func(criterion, output)
+            # loss = criterion(output, labels)
+
             loss.backward()
             optimizer.step()
 
