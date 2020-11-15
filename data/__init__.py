@@ -1,7 +1,7 @@
 import os
 import json
-from sklearn.model_selection import train_test_split
 import utils
+from sklearn.model_selection import train_test_split
 
 
 def split_data(path='dataset/TrainingData', split_file_dir='split_file', train_size=0.7):
@@ -29,4 +29,4 @@ def split_data(path='dataset/TrainingData', split_file_dir='split_file', train_s
         for data in valid_data:
             fp.write(f'{data[0]} {data[1]}\n')
 
-    json.dump(label_mapping, open('label.json', 'w', encoding='utf-8'), indent=2)
+    json.dump(label_mapping, open('{}/label.json'.format(split_file_dir), 'w', encoding='utf-8'), indent=2)

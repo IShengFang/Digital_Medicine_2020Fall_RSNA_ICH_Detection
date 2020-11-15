@@ -343,10 +343,12 @@ def set_parameter_requires_grad(model, feature_extracting):
 if __name__ == '__main__':
     args = load_args()
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
     if not args.use_old_split_file:
         data.split_data(args.train_set, args.split_file_dir, args.split_ratio)
 
-    class_dict = json.load(open('label.json', 'r'))
+    # class_dict = json.load(open('label.json', 'r'))
+    class_dict = json.load(open(f'{args.split_file_dir}/label.json', 'r'))
     print(json.dumps(class_dict, indent=2))
 
     print('setting data aug')
