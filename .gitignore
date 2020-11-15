@@ -141,4 +141,8 @@ dev.ipynb
 
 # train.sh
 train.sh
+test.sh
 label.json
+
+output
+output/*

@@ -23,7 +23,7 @@ class ICHDataset(Dataset):
                 self.files = fp.readlines()
         else:
             for filename in os.listdir(path):
-                self.files.append(f'{path}/{filename}')
+                self.files.append(os.path.join(path, filename))
 
     def __len__(self):
         return len(self.files)
@@ -54,6 +54,6 @@ class ICHDataset(Dataset):
             img = self.transform(img)
 
         if label is None:
-            return img
+            return img, filename
         else:
             return img, label
