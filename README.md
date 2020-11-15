@@ -5,7 +5,7 @@
 ## Environment
 
 - Ubuntu 20.04.1 LTS
-- Python 3.7.5
+- Python 3.7.5+
 
 ### Packages
 
@@ -16,8 +16,8 @@
 - sklearn
 - matplotlib
 - scikit-learn
-- pytorch == 1.7.0
-- torchvision == 0.8.0
+- pytorch 1.7.0+
+- torchvision 0.8.0+
 
 ## Prerequsites
 
