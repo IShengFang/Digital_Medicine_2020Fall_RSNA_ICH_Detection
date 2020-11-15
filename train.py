@@ -92,10 +92,8 @@ def load_args():
 
     # cutmix
     parser.add_argument('--cutmix', action='store_true', default=False)
-    parser.add_argument('--cutmix_beta', type=float, default=2,
-                        help='mixup interpolation strength')
-    parser.add_argument('--cutmix_prob', type=float, default=0.5,
-                        help='mixup interpolation strength')
+    parser.add_argument('--cutmix_beta', type=float, default=2)
+    parser.add_argument('--cutmix_prob', type=float, default=0.5)
 
     # training options
     parser.add_argument('--epochs', type=int, default=100)
