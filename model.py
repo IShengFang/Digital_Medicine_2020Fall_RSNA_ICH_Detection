@@ -30,9 +30,9 @@ class Model(nn.Module):
         self.num_classes = num_classes
 
         self.last_fc = 'res' in self.model_name or \
-                        self.model_name == 'inception_v3' or \
                         self.model_name == 'googlenet'
         self.densenet = 'densenet' in self.model_name
+        self.inception = self.model_name == 'inception_v3'
         exec('self.model = models.{}(pretrained=pretrained)'.format(self.model_name), {'self': self, 'models': models, 'pretrained': self.pretrained})
 
         if self.last_fc:
@@ -41,6 +41,9 @@ class Model(nn.Module):
         elif self.densenet:
             have_bias = self.model.classifier.bias is not None
             self.model.classifier = nn.Linear(in_features=self.model.classifier.in_features, out_features=self.num_classes, bias=have_bias)
+        elif self.inception:
+            self.model.fc = nn.Linear(in_features=self.model.fc.in_features, out_features=self.num_classes, bias=have_bias)
+            raise NotImplementedError
         else:
             raise NotImplementedError
 
