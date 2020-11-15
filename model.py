@@ -30,8 +30,8 @@ class Model(nn.Module):
         self.num_classes = num_classes
 
         self.last_fc = 'res' in self.model_name or \
-                        self.model_name is 'inception_v3' or \
-                        self.model_name is 'googlenet'
+                        self.model_name == 'inception_v3' or \
+                        self.model_name == 'googlenet'
         self.densenet = 'densenet' in self.model_name
         exec('self.model = models.{}(pretrained=pretrained)'.format(self.model_name), {'self': self, 'models': models, 'pretrained': self.pretrained})
 
