@@ -10,7 +10,8 @@ def split_data(path='dataset/TrainingData', split_file_dir='split_file', train_s
     train_data = []
     valid_data = []
 
-    for case in os.listdir(path):
+    cases = sorted(os.listdir(path))
+    for case in cases:
         data = []
         for filename in os.listdir(f'{path}/{case}'):
             data.append((f'{path}/{case}/{filename}', label))
