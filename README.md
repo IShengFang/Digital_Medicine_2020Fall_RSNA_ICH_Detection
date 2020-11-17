@@ -52,6 +52,20 @@ python3 test.py \
 --cpt_name='googlenet_E_79_iter_21040.cpt'
 ```
 
+### Supported models
+
+- resnet18, resnet34, resnet50, resnet101, resnet152
+- resnext50_32x4d, resnext101_32x8d
+- wide_resnet50_2, wide_resnet101_2
+- densenet121, densenet169, densenet161, densenet201
+- googlenet
+
 ## Our method
+
+### RAdam optimizer
+
+### cutmix
+
+### mixup
 
 > 可以貼 spreadsheet 網址
