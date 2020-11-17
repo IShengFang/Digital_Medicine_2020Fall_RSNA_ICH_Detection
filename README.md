@@ -15,10 +15,12 @@ Design and present an analysis flow for RSNA ICH classifiers.
 
 - tqdm
 - numpy
+- pandas
 - pydicom
 - seaborn
+- openpyxl
 - matplotlib
-- scikit-learn
+- scikit-learn 0.23.2+
 - pytorch 1.7.0+
 - torchvision 0.8.0+
 
