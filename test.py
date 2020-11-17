@@ -125,7 +125,7 @@ if __name__ == '__main__':
     test_set = ICHDataset(args.test_set, args.img_size, kernel=args.pre_kernel)
     test_loader = DataLoader(test_set, batch_size=args.batch_size, shuffle=False, num_workers=args.n_threads)
 
-    net = model.Model(args.model_name, pretrained=False)
+    net = model.Model(args.model_name, pretrained=True)
     net.load_state_dict(torch.load(args.cpt_name))
     net = net.to(device)
 
