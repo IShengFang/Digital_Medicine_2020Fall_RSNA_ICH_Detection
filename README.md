@@ -62,17 +62,28 @@ python3 test.py \
 
 ## Our method
 
-### BSB window
-https://www.kaggle.com/reppic/gradient-sigmoid-windowing
+### Data preprocessing
+- Brain/Subdural/Bone Window (https://www.kaggle.com/reppic/gradient-sigmoid-windowing)
 
-### RAdam optimizer
-https://github.com/LiyuanLucasLiu/RAdam
+### Data Augmentation
+- Random Apply
+- Random Order
+- Random Horizontal Flip
+- Random Rotation
+- Random Erasing / Cutout
+    - Zhong, Zhun, et al. "Random Erasing Data Augmentation." *AAAI*. 2020.
+    - DeVries, Terrance et al. "Improved regularization of convolutional neural networks with cutout." *arXiv preprint* 2017.
+- Mixup
+    - Zhang, Hongyi, et al. "mixup: Beyond Empirical Risk Minimization." *ICLR* 2018
+- Cutmix
+    - Yun, Sangdoo, et al. "Cutmix: Regularization strategy to train strong classifiers with localizable features." *ICCV*. 2019.
 
-### cutmix
-https://github.com/clovaai/CutMix-PyTorch
+### Model
 
-### mixup
-https://github.com/hongyi-zhang/mixup
+Fine-tune models in `torchvision.models` with ImageNet pretrained weight
+- Simply replace last fully-connected layer to fit our data
+- RAdam optimizer (https://github.com/LiyuanLucasLiu/RAdam)
 
 ## Experiment results
+
 https://docs.google.com/spreadsheets/d/1HslC0VL4noqPN9LpZZlKMbwCwXAd38pN6IiANSGjKDk/edit?usp=sharing
