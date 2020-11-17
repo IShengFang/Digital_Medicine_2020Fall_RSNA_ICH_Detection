@@ -9,7 +9,7 @@ Design and present an analysis flow for RSNA ICH classifiers.
 - Ubuntu 20.04.1 LTS
 - Python 3.7.5+
 - GeForce GTX 1080 Ti
-- CUDA version 11.0
+- CUDA version 11.0+
 
 ### Packages
 
@@ -23,6 +23,12 @@ Design and present an analysis flow for RSNA ICH classifiers.
 - scikit-learn 0.23.2+
 - pytorch 1.7.0+
 - torchvision 0.8.0+
+
+### Prerequsites
+
+```bash
+pip3 install -r requirements.txt
+```
 
 ## Usage
 
