@@ -62,10 +62,16 @@ python3 test.py \
 
 ## Our method
 
+### BSB window
+https://www.kaggle.com/reppic/gradient-sigmoid-windowing
+
 ### RAdam optimizer
+https://github.com/LiyuanLucasLiu/RAdam
 
 ### cutmix
+https://github.com/clovaai/CutMix-PyTorch
 
 ### mixup
+https://github.com/hongyi-zhang/mixup
 
 > 可以貼 spreadsheet 網址
