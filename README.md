@@ -74,4 +74,5 @@ https://github.com/clovaai/CutMix-PyTorch
 ### mixup
 https://github.com/hongyi-zhang/mixup
 
-> 可以貼 spreadsheet 網址
+## Experiment results
+https://docs.google.com/spreadsheets/d/1HslC0VL4noqPN9LpZZlKMbwCwXAd38pN6IiANSGjKDk/edit?usp=sharing
