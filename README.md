@@ -1,5 +1,7 @@
 # Digital Medicine 2020 Fall: RSNA ICH Detection
 
+[[slide]](https://drive.google.com/file/d/1fTUG8r95fyNmr06bAxh2NvqI-eEchz3x/view?usp=sharing)
+
 ## Task
 
 Design and present an analysis flow for RSNA ICH classifiers.
